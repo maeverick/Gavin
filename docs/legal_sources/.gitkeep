@@ -1,0 +1,4 @@
+This file is intentionally left empty. 
+The legal_sources/ subdirectory will be populated when you run the scraper:
+
+    python ai-service/scraper.py --source all --ingest
