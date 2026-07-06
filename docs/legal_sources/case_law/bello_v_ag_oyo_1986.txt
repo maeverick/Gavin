@@ -1,0 +1,57 @@
+Subject: Evidence Law — Dying Declarations, Admissibility of Hearsay, Exceptions to the Hearsay Rule
+Source: Bello v Attorney-General of Oyo State [1986] 5 NWLR (Pt. 45) 828 — Nigerian Supreme Court; Evidence Act 2011 s.40
+
+CASE NAME: Bello v Attorney-General of Oyo State [1986] 5 NWLR (Pt. 45) 828
+
+FACTS:
+The appellant was convicted of murder. The prosecution relied, in part, on a dying declaration — a statement made by the deceased shortly before death identifying the appellant as their killer. The appellant challenged the admissibility and weight of the dying declaration, arguing that the conditions for its admissibility had not been satisfied. The Supreme Court considered the legal requirements for a valid dying declaration and the weight to be attached to such a statement.
+
+ISSUE:
+What are the conditions for the admissibility of a dying declaration, and what weight should be given to such a statement in a murder trial?
+
+HELD (Supreme Court):
+The court restated the conditions for the admissibility of dying declarations and confirmed that a dying declaration, if properly admitted, can on its own sustain a conviction for murder — although the court must carefully assess its reliability.
+
+KEY PRINCIPLES:
+
+DYING DECLARATIONS — THE HEARSAY EXCEPTION:
+The general rule is that hearsay evidence (an out-of-court statement tendered for the truth of its contents) is inadmissible. A dying declaration is a recognised exception to the hearsay rule, admitted on the rationale that a person at the point of death, having abandoned all hope of recovery, has no motive to lie — the imminence of death acts as the equivalent of an oath.
+
+CONDITIONS FOR ADMISSIBILITY OF A DYING DECLARATION (Evidence Act 2011, s.40; common law):
+1. SETTLED HOPELESS EXPECTATION OF DEATH: The declarant must have been under a settled, hopeless expectation of death at the time the statement was made. This requires:
+   - Actual consciousness (the declarant was mentally capable of making a coherent statement)
+   - The declarant genuinely believed they were dying and had no hope of recovery
+   - It is not required that the declarant actually died immediately — but death must follow, and there must be no hope of recovery at the time the statement was made
+2. SUBJECT MATTER — THE CAUSE AND CIRCUMSTANCES OF DEATH: The declaration is only admissible to the extent that it relates to the cause and circumstances of the declarant's death — not to collateral matters
+3. COMPLETENESS: An incomplete dying declaration — one cut off before the declarant finished — is admissible, but the court must be cautious about its weight
+4. THE DECLARANT MUST HAVE DIED: A dying declaration is only admissible in evidence once the declarant has in fact died. If the declarant survives, the statement is not a dying declaration (though it may be admissible on another basis)
+
+CHARGE — DYING DECLARATIONS ARE ADMISSIBLE ONLY IN MURDER AND MANSLAUGHTER TRIALS:
+Under the Nigerian Evidence Act, dying declarations are admissible in trials for murder or manslaughter where the cause of the declarant's death is in question. They are not admissible in civil proceedings or in criminal trials for other offences.
+
+WEIGHT OF A DYING DECLARATION:
+A dying declaration, even if technically admissible, may be given little weight if:
+- The declarant was in a confused or delirious state at the time of making it
+- The statement was made in response to leading questions
+- The statement is inconsistent with other established facts
+- The declarant did not specifically and clearly identify the accused as the attacker
+A conviction may be sustained on the basis of a dying declaration alone — but the court must be satisfied that the statement is true and reliable.
+
+THE "SETTLED HOPELESS EXPECTATION" TEST — PRACTICAL APPLICATION:
+Courts examine the circumstances:
+- Was the declarant informed by a doctor that they were dying and had no hope of recovery? (strong evidence of settled expectation)
+- Did the declarant state their own belief that they were dying?
+- Was the declarant conscious and coherent at the time?
+A declarant who said "I know I am about to die" and then named their attacker is the paradigm case. A declarant who was merely seriously injured but expressed hope of recovery does not satisfy the test.
+
+DYING DECLARATIONS AND IDENTIFICATION EVIDENCE:
+A dying declaration naming the accused as the attacker is powerful identification evidence, but courts apply caution:
+- Was there sufficient light/opportunity for the deceased to identify the attacker?
+- Had the deceased known the accused previously?
+- Was the identification consistent with other evidence?
+Bello v AG Oyo State illustrates that a dying declaration that meets the admissibility conditions and is reliable on the facts is sufficient to support a murder conviction.
+
+APPLICATION IN NIGERIA:
+Dying declarations arise frequently in murder trials in Nigeria, particularly in cases of domestic violence, armed robbery homicides, and communal conflicts where the victim survives long enough to name their attacker but subsequently dies. Prosecutors must satisfy the court on all four admissibility conditions before the statement is admitted. Defence counsel should cross-examine on the declarant's state of mind (was there truly a settled hopeless expectation?), the completeness of the statement, and whether the identification was reliable. The Evidence Act 2011 s.40 codifies the common law exception; the case law remains essential for understanding how the conditions are applied in practice.
+
+CITATION: [1986] 5 NWLR (Pt. 45) 828 (SC); Evidence Act 2011, s.40

@@ -1,0 +1,68 @@
+Subject: Constitutional Law — Key Principles of Nigerian Constitutional Law
+Source: Constitution of the Federal Republic of Nigeria 1999 (as amended); key Nigerian constitutional cases
+
+FEDERALISM IN NIGERIA:
+
+SECTION 2(2) CONSTITUTION: Nigeria shall be a Federation consisting of States and a Federal Capital Territory.
+
+LEGISLATIVE LISTS (Second Schedule):
+1. EXCLUSIVE LEGISLATIVE LIST: Matters on which only the National Assembly may legislate (68 items including defence, foreign affairs, banking, currency, immigration)
+2. CONCURRENT LEGISLATIVE LIST: Matters on which both National Assembly and State Houses of Assembly may legislate — Federal law prevails in case of conflict (Section 4(5))
+3. RESIDUAL POWERS: Matters not on either list — States have exclusive jurisdiction
+
+DOCTRINE OF COVERING THE FIELD:
+Where the National Assembly has legislated extensively on a subject in the Concurrent List, there is no room for State legislation on the same subject — the Federal legislation covers the field. (AG Lagos State v AG Federation [2003])
+
+SEPARATION OF POWERS:
+Section 4: Legislative power — National Assembly (Federal) and State Houses of Assembly
+Section 5: Executive power — President (Federal) and Governors (State)
+Section 6: Judicial power — Courts
+
+FUNDAMENTAL RIGHTS — CHAPTER IV:
+Section 33: Right to life
+Section 34: Right to dignity of the human person (no torture, slavery, or forced labour)
+Section 35: Right to personal liberty (no arbitrary detention; must be charged within 24/48 hours)
+Section 36: Right to fair hearing (fair trial, presumption of innocence, legal representation)
+Section 37: Right to private and family life
+Section 38: Freedom of thought, conscience and religion
+Section 39: Freedom of expression and the press
+Section 40: Freedom of peaceful assembly and association
+Section 41: Freedom of movement
+Section 42: Freedom from discrimination
+Section 43: Right to acquire and own immovable property
+Section 44: Freedom from compulsory acquisition without prompt payment
+
+DEROGATION — SECTION 45:
+Rights may be derogated from to the extent reasonably justifiable in a democratic society in the interests of:
+(a) National security, public safety, public order, public morality, or public health
+(b) Protecting the rights and freedom of other persons
+
+ABSOLUTE RIGHTS (not derogable):
+- Section 34: No torture, inhuman or degrading treatment
+- Section 36(5): Presumption of innocence (in criminal matters)
+
+ENFORCEMENT OF FUNDAMENTAL RIGHTS:
+Section 46: Any person who alleges their rights are being infringed may apply to the High Court for redress
+Fundamental Rights (Enforcement Procedure) Rules 2009: Procedure for enforcement applications
+
+CITIZENSHIP:
+Section 25: Citizenship by birth — born in Nigeria of at least one Nigerian parent
+Section 26: Citizenship by registration — marriage to Nigerian citizen
+Section 27: Citizenship by naturalization — conditions include residing in Nigeria for at least 15 years
+
+IMMUNITY CLAUSE — SECTION 308:
+President, Vice-President, Governors, and Deputy Governors enjoy immunity from civil and criminal proceedings during their tenure. Cannot be summoned, arrested, detained, or prosecuted while in office.
+
+KEY CASES:
+1. Adesanya v President [1981]: Locus standi in constitutional matters
+2. AG Federation v AG Abia State [2002]: Revenue sharing, federalism
+3. Marwa v Nyako [2012]: Removal of elected officials
+4. Inakoju v Adeleke [2007]: Speakership dispute, Section 109 Constitution
+5. Awolowo v Shagari [1979]: Presidential election, constitutional requirements
+6. Gani Fawehinmi v IGP [2002]: Fundamental rights enforcement
+7. Ransome-Kuti v AG Federation [1985]: Rights under military rule
+
+APPLICATION IN NIGERIA:
+Constitutional law is the foundation of Nigerian public law. Every practising lawyer needs fluency in the constitutional structure, fundamental rights provisions, and their enforcement. These principles are examined in every Bar examination and applied in judicial review, fundamental rights enforcement, and constitutional litigation.
+
+CITATION: Constitution of the Federal Republic of Nigeria 1999 (as amended)

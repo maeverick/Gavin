@@ -1,0 +1,58 @@
+Subject: Civil Procedure — Jurisdiction, Subject Matter Jurisdiction, Ouster of Jurisdiction
+Source: Tukur v Government of Gongola State [1989] 4 NWLR (Pt. 117) 517 — Nigerian Supreme Court
+
+CASE NAME: Tukur v Government of Gongola State [1989] 4 NWLR (Pt. 117) 517
+
+FACTS:
+Tukur was an Emirate Council member who was deposed and banished by the Governor of Gongola State. He challenged his deposition and banishment in the Federal High Court, arguing that his fundamental rights had been violated. The Government argued that the court had no jurisdiction to question the Governor's action, which was taken under the State's Emirate Council Law. The issue of jurisdiction — whether the Federal High Court could entertain the matter — was central.
+
+ISSUE:
+Did the Federal High Court have jurisdiction to hear Tukur's claims challenging his deposition by the Governor?
+
+HELD (Supreme Court):
+The Federal High Court lacked jurisdiction over the matter. Jurisdiction depends on the nature of the claim and the subject matter — a court only has jurisdiction if the law establishing it confers that jurisdiction either expressly or by necessary implication. Actions relating to the chieftaincy and emirate matters were not within the Federal High Court's jurisdiction. The proper court was the State High Court.
+
+KEY PRINCIPLES:
+
+JURISDICTION — THE THRESHOLD QUESTION:
+Jurisdiction is the very foundation of adjudication. A court without jurisdiction is a court of no competent authority — it cannot make binding orders regardless of the merits of the case. As the Supreme Court stated in Madukolu v Nkemdilim [1962], a court is competent only if:
+1. It is properly constituted with qualified members
+2. The subject matter of the case is within its jurisdiction
+3. The case comes before it by due process of law
+
+SUBJECT MATTER JURISDICTION:
+- A court has jurisdiction over a subject matter only if a statute expressly or impliedly grants it
+- The determination of subject matter jurisdiction is made by looking at the claim as stated in the originating process — not the defence
+- If the claim falls within the court's jurisdiction on its face, the court proceeds; if not, it strikes out or transfers
+
+HOW TO DETERMINE WHICH COURT HAS JURISDICTION:
+1. Read the claim as endorsed in the writ or originating process
+2. Identify the subject matter and the relief sought
+3. Consult the statute establishing the court and the Constitution (for Federal/State division)
+4. Ask: does this subject matter fall within the terms of the court's grant of jurisdiction?
+
+FEDERAL VS STATE HIGH COURT JURISDICTION (NIGERIA):
+Under the 1999 Constitution:
+- FEDERAL HIGH COURT: Has jurisdiction in matters relating to the Federal Government, revenue, admiralty, banking, foreign exchange, companies, intellectual property, immigration — as listed in s.251 CFRN
+- STATE HIGH COURT: Has unlimited jurisdiction over civil and criminal matters arising within the state, subject to exceptions vested in the Federal High Court — s.272 CFRN
+- CONCURRENT JURISDICTION: In some areas, both courts have jurisdiction; the plaintiff's choice of court generally prevails unless the law specifies otherwise
+
+OUSTER OF JURISDICTION:
+- An ouster clause in legislation purporting to exclude the court's jurisdiction to review government action is generally invalid under the Constitution — it cannot prevent a court from determining constitutional questions
+- However, legislative grants of exclusive jurisdiction to specific courts or tribunals are valid and must be respected
+- Chieftaincy and traditional ruler matters are often reserved to specific statutory panels or tribunals
+
+CONSEQUENCE OF LACK OF JURISDICTION:
+- A judgment given without jurisdiction is a nullity — it is void ab initio and of no effect
+- The nullity may be raised at any time, even on appeal for the first time, and even by the court itself
+- No amount of consent by the parties can confer jurisdiction that the law has not granted
+
+DISTINCTION — JURISDICTION VS LOCUS STANDI:
+- Jurisdiction: the court's authority to hear a type of case — a question of law
+- Locus standi: whether a particular plaintiff has sufficient interest in the subject matter to bring the claim — a separate (though related) question
+- Both must be satisfied; lack of either is fatal to the proceedings
+
+APPLICATION IN NIGERIA:
+Tukur v Government of Gongola State is the leading authority on subject matter jurisdiction in Nigerian civil procedure. It is cited in virtually every case where a preliminary objection to jurisdiction is raised. The principle that jurisdiction is fundamental and a nullity arises automatically where it is absent is firmly established. Counsel must always verify which court has jurisdiction before filing, and courts must satisfy themselves of jurisdiction before proceeding on the merits.
+
+CITATION: [1989] 4 NWLR (Pt. 117) 517

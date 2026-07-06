@@ -1,0 +1,51 @@
+Subject: Company Law — Corporate Veil, Group Companies, Separate Legal Personality
+Source: Adams v Cape Industries plc [1990] Ch 433 — Court of Appeal (England); applied in Nigerian company law
+
+CASE NAME: Adams v Cape Industries plc [1990] Ch 433
+
+FACTS:
+Cape Industries plc, an English company, mined asbestos in South Africa through subsidiary companies. One of its subsidiaries, NAAC, operated in the United States and sold asbestos there. American workers who contracted asbestosis sued and obtained judgments in Texas courts against Cape and its group companies. The workers then sought to enforce those judgments against Cape in England. The central question was whether Cape (the English parent) could be held liable for the judgment debts of its US and South African subsidiaries — whether the corporate veil of the group could be lifted to treat the parent and subsidiaries as a single entity.
+
+ISSUE:
+In what circumstances will a court pierce or lift the corporate veil to hold a parent company liable for the obligations of its subsidiaries?
+
+HELD (Court of Appeal):
+The court refused to pierce the corporate veil. Each company in the group was a separate legal entity. The mere fact that companies are in a group relationship — with the parent controlling the subsidiaries — does not justify treating them as a single economic entity or holding the parent liable for subsidiary debts. The judgment against the US subsidiaries could not be enforced against Cape.
+
+KEY PRINCIPLES:
+
+THE CORPORATE VEIL AND GROUP COMPANIES:
+Salomon v Salomon [1897] established that a company is a legal person distinct from its members. The same principle applies to groups of companies: each subsidiary is a separate legal person, distinct from the parent and from other subsidiaries. The group is not, in law, a single entity — even if it functions as one economically.
+
+GROUNDS FOR PIERCING THE CORPORATE VEIL (THE CAPE INDUSTRIES EXCEPTIONS):
+The Court of Appeal in Adams v Cape identified very limited grounds for piercing the veil:
+1. FRAUD OR SHAM: Where the corporate form is used as a sham to conceal fraud or to evade existing legal obligations — Gilford Motor v Horne [1933]
+2. AGENCY: Where the subsidiary is genuinely acting as the agent of the parent — established by the terms of the agency, not merely by the parent's control
+3. SINGLE ECONOMIC ENTITY (REJECTED): The court explicitly rejected the argument that being part of a group — with common management, common directors, and financial interdependence — was sufficient to justify treating the group as a single entity. This "single economic unit" theory was not adopted as a general rule.
+
+WHAT DOES NOT JUSTIFY PIERCING:
+- 100% shareholding by the parent in the subsidiary
+- Common directors across parent and subsidiary
+- The parent directing the subsidiary's business strategy
+- The subsidiary being under-capitalised
+- The subsidiary being formed specifically to carry on part of the parent's business in a particular jurisdiction
+
+CAPE INDUSTRIES IN THE CONTEXT OF NIGERIAN LAW — CAMA 2020:
+CAMA 2020 does not provide a general power to lift the corporate veil. Nigerian courts follow the common law position:
+- The corporate veil is lifted only in cases of fraud or sham (Gilford Motor v Horne; Jones v Lipman [1962])
+- Group companies are treated as separate legal entities
+- Directors of holding companies are not automatically personally liable for subsidiary debts
+- A holding company owes no duty of care to the employees of its subsidiary merely by reason of the group relationship (unless it has assumed responsibility directly)
+
+THE SINGLE ECONOMIC ENTITY ARGUMENT IN NIGERIA:
+Nigerian courts have occasionally been invited to treat a group as a single entity, particularly in labour disputes and tax cases. The courts have generally declined to do so in the absence of fraud — following the Adams v Cape approach.
+
+PRACTICAL IMPLICATIONS FOR NIGERIAN COMMERCIAL PRACTICE:
+1. A creditor of a Nigerian subsidiary cannot automatically pursue the parent simply because the subsidiary is insolvent
+2. Group guarantees and cross-default provisions are commercially essential — the corporate veil will not substitute for them
+3. Where a parent company has fraudulently used a subsidiary to evade an obligation, the court may pierce the veil — but the burden is on the claimant to prove the fraud
+
+APPLICATION IN NIGERIA:
+Adams v Cape Industries is the leading authority on the limits of the corporate veil in group companies, and it is applied in Nigerian courts whenever claimants seek to hold parent companies liable for subsidiary debts. The case reinforces the foundational principle of Salomon and underscores that separate incorporation is not a technicality — it is the bedrock of commercial law. Companies seeking to structure liability-isolation arrangements (e.g., a holding company owning project-specific subsidiaries) can rely on this principle in Nigerian law, provided there is no element of fraud.
+
+CITATION: [1990] Ch 433 (CA)

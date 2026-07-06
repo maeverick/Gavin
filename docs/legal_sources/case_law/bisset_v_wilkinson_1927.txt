@@ -1,0 +1,48 @@
+Subject: Contract Law — Misrepresentation
+Source: Bisset v Wilkinson [1927] AC 177 (Privy Council) — Applied in Nigerian courts
+
+CASE NAME: Bisset v Wilkinson [1927] AC 177
+
+FACTS:
+The plaintiff purchased land in New Zealand from the defendant for use as a sheep farm. The defendant stated that the land would support 2,000 sheep. Both parties knew the land had never been used for sheep farming. The land proved unsuitable. The plaintiff sought rescission for misrepresentation.
+
+ISSUE:
+Was the defendant's statement that the land could support 2,000 sheep a misrepresentation of fact or merely an opinion?
+
+HELD (Privy Council):
+The statement was an opinion, not a statement of fact. Both parties knew the land had not been used for sheep farming, so the statement could only be understood as the seller's opinion about the land's capacity. A statement of opinion is not a misrepresentation even if it turns out to be wrong, provided the person giving it genuinely holds that opinion.
+
+KEY PRINCIPLES:
+
+ELEMENTS OF ACTIONABLE MISREPRESENTATION:
+1. FALSE STATEMENT OF EXISTING FACT (not opinion, intention, or future prediction)
+2. Made by one contracting party to the other
+3. The statement induced the other party to enter the contract
+4. The other party suffered loss as a result
+
+FACT vs OPINION:
+- A statement of opinion is not a statement of fact
+- EXCEPTION: A statement of opinion carries an implied representation that the speaker actually holds that opinion and has reasonable grounds for it (Smith v Land and House Property Corporation)
+- EXCEPTION: Where a party has superior knowledge, what appears to be opinion may be treated as fact
+
+TYPES OF MISREPRESENTATION:
+1. FRAUDULENT: Made knowingly, without belief in its truth, or recklessly — Derry v Peek [1889]: liable in the tort of deceit; remedy: damages + rescission
+2. NEGLIGENT: Made without reasonable grounds for believing it true — liable; remedies: damages + rescission
+3. INNOCENT: Made honestly and with reasonable grounds — remedy: rescission only (no damages at common law)
+
+REMEDIES FOR MISREPRESENTATION:
+1. RESCISSION: Setting aside the contract — restores parties to pre-contract position
+   Bars to rescission: affirmation, lapse of time, third party rights, impossibility of restitution
+2. DAMAGES: Available for fraudulent misrepresentation (tort of deceit) and negligent misrepresentation
+
+SILENCE AS MISREPRESENTATION:
+General rule: silence is not misrepresentation
+EXCEPTIONS:
+- Contracts uberrimae fidei (utmost good faith) — e.g., insurance: duty to disclose all material facts
+- Partial disclosure that gives a misleading picture
+- Change of circumstances that makes an earlier true statement false
+
+APPLICATION IN NIGERIA:
+Bisset v Wilkinson is applied in Nigerian contract law on misrepresentation, distinguishing statements of fact from statements of opinion. The principles on misrepresentation are applied in property transactions, commercial contracts, and insurance disputes. Insurance contracts in Nigeria are governed by the utmost good faith principle — non-disclosure of material facts is ground for avoidance.
+
+CITATION: [1927] AC 177

@@ -1,0 +1,39 @@
+Subject: Tort Law — Duty of Care (Three-Stage Test)
+Source: Caparo Industries Plc v Dickman [1990] 2 AC 605 (House of Lords) — Applied in Nigeria
+
+CASE NAME: Caparo Industries Plc v Dickman [1990] 2 AC 605
+
+FACTS:
+Caparo Industries acquired shares in Fidelity Plc in reliance on audited accounts prepared by Dickman (auditors) which showed a profit of £1.3 million. The accounts were in fact negligently prepared and the company was running at a loss of £400,000. Caparo suffered financial loss and sued the auditors. The question was whether auditors owed a duty of care to investors who relied on the accounts.
+
+ISSUE:
+What is the test for establishing a duty of care in the tort of negligence?
+
+HELD (House of Lords):
+The three-stage Caparo test must be satisfied to establish a duty of care:
+1. It was reasonably foreseeable that the claimant would suffer damage
+2. There was a relationship of sufficient proximity between the parties
+3. It is fair, just and reasonable to impose a duty
+
+The auditors did not owe a duty to investors/potential investors because the statutory purpose of audited accounts was to enable existing shareholders to exercise control over the company — not to guide investment decisions.
+
+THE THREE-STAGE CAPARO TEST:
+STAGE 1 — FORESEEABILITY: Was damage to the claimant reasonably foreseeable?
+STAGE 2 — PROXIMITY: Was there sufficient proximity (closeness of relationship) between defendant and claimant?
+STAGE 3 — FAIR, JUST AND REASONABLE: Is it fair, just and reasonable to impose a duty in the circumstances?
+
+All three stages must be satisfied. Failure at any stage means no duty of care.
+
+KEY PRINCIPLES:
+1. Caparo refines and supplements the neighbour principle from Donoghue v Stevenson
+2. The three-stage test is incremental — courts build on existing categories of duty
+3. PURE ECONOMIC LOSS: Courts are reluctant to impose duty of care for pure financial loss without physical injury or property damage
+4. NEGLIGENT MISSTATEMENT: Where advice is given, duty requires:
+   (a) The advisor knew the purpose for which advice was sought
+   (b) The advisor knew reliance would be placed on it
+   (c) Reliance was reasonable in the circumstances (Hedley Byrne v Heller)
+
+APPLICATION IN NIGERIA:
+Caparo v Dickman is applied in Nigerian courts alongside Donoghue v Stevenson to determine whether a duty of care exists. The three-stage test is used in professional negligence cases (accountants, auditors, lawyers, doctors), pure economic loss cases, and cases involving negligent advice or statements. Nigerian courts apply the test incrementally in novel duty of care situations.
+
+CITATION: [1990] 2 AC 605

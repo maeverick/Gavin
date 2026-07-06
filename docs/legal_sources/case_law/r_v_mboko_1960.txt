@@ -1,0 +1,48 @@
+Subject: Criminal Law — Murder, Malice Aforethought, Unlawful Killing
+Source: R v Mboko [1960] WNLR 75 — Nigerian criminal law authority
+
+CASE NAME: R v Mboko [1960] WNLR 75
+
+FACTS:
+The accused stabbed the deceased with a knife following a dispute. The deceased died from the stab wounds. The prosecution charged the accused with murder. The defence argued the killing was not premeditated and that the accused lacked the necessary malice aforethought for murder.
+
+ISSUE:
+What constitutes malice aforethought for murder under Nigerian criminal law?
+
+HELD:
+Malice aforethought is established where the accused had:
+(a) The intention to kill; OR
+(b) The intention to cause grievous bodily harm; OR
+(c) Knowledge that the act was likely to cause death or grievous bodily harm
+
+The use of a knife to stab a vital part of the body raises a strong inference that the accused intended at least grievous bodily harm.
+
+KEY PRINCIPLES — MURDER UNDER THE CRIMINAL CODE ACT:
+Section 316 Criminal Code Act defines murder as unlawful killing with malice aforethought.
+
+MALICE AFORETHOUGHT under Section 316 includes:
+1. Intention to cause the death of any person
+2. Intention to cause grievous harm to any person
+3. Knowledge that the act or omission will probably cause death or grievous harm
+4. Intention to commit a felony (constructive malice — now abolished in many jurisdictions but still present in the Criminal Code)
+
+ELEMENTS OF MURDER:
+1. Causing the death of a human being
+2. Under the Queen's/Federal peace
+3. With malice aforethought
+4. The act or omission of the accused caused the death (causation)
+
+MURDER vs MANSLAUGHTER:
+Murder: killing with malice aforethought
+Manslaughter: unlawful killing WITHOUT malice aforethought (e.g., provocation, where the intent to kill is formed suddenly without time for passion to cool; or killing in an unlawful fight where death was unintended)
+
+PROVOCATION (Section 318 Criminal Code):
+Provocation may reduce murder to manslaughter where:
+(a) The act was done in the heat of passion caused by sudden provocation
+(b) Before there was time for passion to cool
+(c) The force used was proportionate to the provocation
+
+APPLICATION IN NIGERIA:
+R v Mboko is a foundational Nigerian criminal law authority on the elements of murder and the definition of malice aforethought. Applied in murder trials throughout Nigeria. The case illustrates the inference of intent from the nature and manner of the attack — use of a lethal weapon on a vital body part raises a strong inference of intent to kill or cause grievous bodily harm.
+
+CITATION: [1960] WNLR 75

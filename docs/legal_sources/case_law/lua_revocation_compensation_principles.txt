@@ -1,0 +1,49 @@
+Subject: Land Law — Land Use Act 1978, Right of Occupancy, Revocation, Compensation
+Source: Land Use Act 1978 (Cap L5 LFN 2004); Savannah Bank of Nigeria Ltd v Ajilo [1989] 1 NWLR (Pt. 97) 305 (SC); Nkwocha v Governor of Anambra State [1984] 6 SC (Pt. I) 362 (SC)
+
+RIGHTS OF OCCUPANCY, REVOCATION AND COMPENSATION UNDER THE LAND USE ACT 1978
+
+THE LAND USE ACT 1978 — FOUNDATIONAL FRAMEWORK:
+The Land Use Act 1978 (LUA) vests all land comprised in each state's territory in the Governor of that state, to be held in trust for the use and benefit of all Nigerians (s.1 LUA). Private freehold ownership of land was abolished; all private interests in land are now held as rights of occupancy.
+
+TWO TYPES OF RIGHT OF OCCUPANCY:
+1. STATUTORY RIGHT OF OCCUPANCY (SRO): Granted by the Governor for land in urban areas (s.5 LUA). The holder is entitled to exclusive possession for a term not exceeding 99 years. A certificate of occupancy (C of O) is the documentary evidence.
+2. CUSTOMARY RIGHT OF OCCUPANCY (CRO): Granted by the Local Government Council for land in non-urban (rural) areas (s.6 LUA). May be granted to any person or community using the land for agricultural, residential, or other purposes.
+
+GOVERNOR'S CONSENT REQUIREMENT — SECTION 22 LUA:
+Any alienation, mortgage, transfer, assignment, or subletting of a statutory right of occupancy requires the prior written consent of the Governor. This is a condition precedent — a transaction without consent is void ab initio.
+
+SAVANNAH BANK OF NIGERIA LTD v AJILO [1989] 1 NWLR (Pt. 97) 305:
+The Supreme Court held that a legal mortgage over land held under a right of occupancy, executed without the Governor's prior consent under s.22 LUA, is void and unenforceable. A bank that fails to obtain the Governor's consent before taking a mortgage has no valid security. This decision caused significant loss to financial institutions and remains one of the most consequential land law decisions in Nigeria.
+
+CONSTITUTIONALITY OF THE LAND USE ACT:
+NKWOCHA v GOVERNOR OF ANAMBRA STATE [1984] 6 SC (Pt. I) 362:
+The Supreme Court upheld the constitutionality of the LUA. The vesting of land in the Governor does not constitute a taking of property without compensation within the meaning of the Constitution because the Governor holds the land as trustee for all Nigerians, not as beneficial owner. Existing rights of occupancy are deemed to have been granted by the Governor under the Act.
+
+REVOCATION OF A RIGHT OF OCCUPANCY — SECTION 28 LUA:
+The Governor may revoke a right of occupancy for two reasons:
+1. OVERRIDING PUBLIC INTEREST: For a public purpose — road construction, government use, defence, mining, or any purpose that the State considers to be in the public interest.
+2. BREACH OF CONDITIONS: Where the holder breaches a condition of the right — e.g., failure to develop within a specified period, use of land for a purpose other than that for which the right was granted.
+
+PROCEDURE FOR REVOCATION:
+- The Governor must publish a notice of revocation in the State Gazette
+- The notice must specify the ground for revocation
+- The right is extinguished on publication, subject to the holder's right to compensation
+
+COMPENSATION ON REVOCATION — SECTION 29 LUA:
+The compensation payable depends on what is on the land:
+- UNIMPROVED LAND: No compensation is payable for the land itself — only for the value of improvements (buildings, structures, economic trees)
+- IMPROVED LAND: Compensation is payable for the value of unexhausted improvements at the date of revocation
+- CROPS: Compensation is payable for crops on the land at prescribed rates
+The market value of the land is NOT compensable — this is a major limitation and a source of sustained criticism.
+
+REVOCATION FOR BREACH:
+Where revocation is for breach of conditions rather than public interest, the holder has a right to be heard before revocation. Compensation may or may not be payable depending on the nature and terms of the breach.
+
+EFFECT OF REVOCATION ON MORTGAGES:
+Where a right of occupancy is revoked, a mortgage or charge on that right is also extinguished — the bank loses its security. This underscores the importance of monitoring compliance with LUA conditions and of ensuring that mortgaged land is not at risk of revocation.
+
+APPLICATION IN NIGERIA:
+The Land Use Act governs all land transactions in Nigeria. Revocation for public purposes occurs regularly in connection with infrastructure development — roads, power projects, and government buildings. The limited compensation basis (improvements only) has attracted criticism as inadequate, particularly where urban land values are high and the improvements are modest relative to the land value. The Governor's consent requirement under s.22 continues to be a critical compliance issue in commercial transactions involving land.
+
+CITATION: Land Use Act 1978 (Cap L5 LFN 2004), ss.1, 5, 6, 22, 28, 29; Savannah Bank of Nigeria Ltd v Ajilo [1989] 1 NWLR (Pt. 97) 305; Nkwocha v Governor of Anambra State [1984] 6 SC (Pt. I) 362

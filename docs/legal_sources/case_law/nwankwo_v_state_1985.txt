@@ -1,0 +1,38 @@
+Subject: Criminal Law — Sedition, Freedom of Expression
+Source: Arthur Nwankwo v The State (1985) 6 NCLR 228 — Nigerian Supreme Court
+
+CASE NAME: Arthur Nwankwo v The State (1985) 6 NCLR 228
+
+FACTS:
+The appellant, a publisher, was convicted of sedition under the Sedition Act for publishing a book critical of the Nigerian military government. The book contained statements that were alleged to have a seditious tendency — likely to bring the government into hatred and contempt and to excite disaffection against the government. The appellant challenged the conviction, arguing the sedition law was unconstitutional as it violated the right to freedom of expression.
+
+ISSUES:
+1. Does the offence of sedition infringe the constitutional right to freedom of expression?
+2. What is the scope of permissible restriction on freedom of expression?
+
+HELD (Supreme Court):
+The Sedition Act was valid and the conviction upheld. The right to freedom of expression under the Constitution is not absolute and may be restricted in the interest of public order, defence, and public safety. Seditious publications that threaten public order are within the permitted restrictions.
+
+KEY PRINCIPLES:
+1. FREEDOM OF EXPRESSION: Guaranteed under Section 39 Constitution of Nigeria 1999 — right to hold opinions and receive and impart information and ideas
+2. NOT ABSOLUTE: Freedom of expression may be derogated from in the interest of:
+   (a) Defence
+   (b) Public safety
+   (c) Public order
+   (d) Public morality
+   (e) Public health
+   (f) Protection of rights of others
+3. SEDITION: Publishing material with seditious intention — tendency to bring the government into hatred, contempt, or excite disaffection
+4. MENS REA FOR SEDITION: The prosecution must prove the accused had the seditious intention, not merely that the publication had seditious effect
+
+SECTION 39 CONSTITUTION 1999 (Freedom of Expression):
+"Every person shall be entitled to freedom of expression, including freedom to hold opinions and to receive and impart ideas and information without interference."
+Restrictions are permitted by Section 45 where "reasonably justifiable in a democratic society."
+
+PRESS FREEDOM IN NIGERIA:
+This case is significant for media law and press freedom in Nigeria. It establishes that journalists and publishers who publish seditious material may be criminally liable, but also that restrictions on freedom of expression must be justifiable in a democratic society.
+
+APPLICATION IN NIGERIA:
+Nwankwo v State is cited in Nigerian criminal law on sedition, and in constitutional law on the scope and limitations of freedom of expression. Applied in media law cases, press freedom cases, and constitutional litigation challenging restrictions on speech and publication.
+
+CITATION: (1985) 6 NCLR 228

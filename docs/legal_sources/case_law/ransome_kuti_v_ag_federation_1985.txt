@@ -1,0 +1,34 @@
+Subject: Constitutional Law — Derogation from Fundamental Rights
+Source: Ransome-Kuti v Attorney General of the Federation [1985] 2 NWLR (Pt. 6) 211
+
+CASE NAME: Ransome-Kuti v Attorney General of the Federation [1985] 2 NWLR (Pt. 6) 211
+
+FACTS:
+Following a military raid on Kalakuta Republic (the home of Fela Anikulapo-Kuti), the appellants brought an action for infringement of their fundamental rights. The appellants claimed that soldiers had unlawfully entered the premises, beaten residents, destroyed property, and violated their fundamental rights to personal liberty, dignity of the human person, privacy, and freedom of movement. The Federal Military Government argued the fundamental rights provisions did not apply to the military.
+
+ISSUES:
+1. Do fundamental rights provisions of the Constitution apply under military rule?
+2. What remedies are available for breach of fundamental rights?
+
+HELD (Supreme Court):
+The Supreme Court held that the fundamental rights provisions of the Constitution apply even under military government. The plaintiffs were entitled to compensation for the violations. However, the court limited the scope of what could be proved and the quantum of damages.
+
+KEY PRINCIPLES:
+1. FUNDAMENTAL RIGHTS APPLY UNIVERSALLY: Constitutional fundamental rights bind all persons and authorities including the military
+2. SECTION 35 — PERSONAL LIBERTY: Right not to be deprived of personal liberty except in accordance with law. Military raids without lawful authority violate this right
+3. SECTION 34 — DIGNITY OF THE HUMAN PERSON: The right to dignity includes freedom from torture, inhuman and degrading treatment
+4. SECTION 37 — RIGHT TO PRIVACY: Citizens have the right to privacy of their home, correspondence, and communications
+5. ENFORCEMENT: Fundamental rights may be enforced through the Fundamental Rights (Enforcement Procedure) Rules
+6. JUSTICIABILITY: Fundamental rights are justiciable — courts will enforce them and award remedies
+
+DEROGATION (Section 45):
+Rights may be derogated from by law that is reasonably justifiable in a democratic society:
+(a) In the interest of defence, public safety, public order, public morality, or public health
+(b) For the purpose of protecting the rights of others
+
+Such derogating laws must be proportionate and not nullify the substance of the right.
+
+APPLICATION IN NIGERIA:
+Ransome-Kuti v AG Federation is a landmark constitutional law case on fundamental rights enforcement in Nigeria. Cited in virtually all cases under the Fundamental Rights (Enforcement Procedure) Rules. Establishes that the military is bound by constitutional rights and that victims of military brutality may seek redress in court. Relevant to constitutional law, human rights law, and public law examinations.
+
+CITATION: [1985] 2 NWLR (Pt. 6) 211

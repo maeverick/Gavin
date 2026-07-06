@@ -1,0 +1,44 @@
+Subject: Constitutional Law — Tenure of Office, Computation of Time, Constitutional Interpretation
+Source: Peter Obi v Independent National Electoral Commission [2007] 11 NWLR (Pt. 1046) 565 — Nigerian Supreme Court
+
+CASE NAME: Peter Obi v Independent National Electoral Commission [2007] 11 NWLR (Pt. 1046) 565
+
+FACTS:
+Peter Obi was elected Governor of Anambra State in March 2006 following protracted litigation and a court order. The Independent National Electoral Commission (INEC) took the position that his four-year tenure of office commenced from May 2003 (when the original governor's term was supposed to begin) or from June 2006 (when he was first sworn in after the court order). Obi contended that his four-year term began when he was actually sworn in — and that he was entitled to serve a full four years from that date, not merely the balance of the term of the person he replaced. INEC scheduled elections to replace him before his claimed four-year term expired.
+
+ISSUE:
+When does a Governor's four-year term of office begin — from the date the office was originally meant to be filled (May 2003) or from the date the governor is actually sworn in?
+
+HELD (Supreme Court):
+Peter Obi was entitled to serve a full term of four years from the date of his swearing-in. His right to the office was established by a court order. He did not stand in the shoes of the person he replaced — he was not completing the unexpired term of another. His term of office ran from the date he was actually sworn in as Governor. INEC's attempt to cut short his tenure was unconstitutional.
+
+KEY PRINCIPLES:
+
+TENURE OF EXECUTIVE OFFICERS UNDER THE CONSTITUTION:
+1. Section 180(1) CFRN: A person elected to the office of Governor shall hold office for a period of four years
+2. Section 180(2): The period of four years runs from the date the person takes the oath of allegiance and oath of office
+3. The Constitution speaks of four years from the OATH — not from when the person "should have" taken office
+4. A governor who comes into office through a court order, or in other exceptional circumstances, is still entitled to a full four-year term from the date of their oath
+
+THE PRINCIPLE OF CONSTITUTIONAL LITERALISM (STRICT CONSTRUCTION):
+Where the Constitution uses clear and unambiguous language, the court must give effect to the plain meaning. The court will not substitute a different meaning based on what it thinks Parliament or the Constituent Assembly intended, if the words are clear.
+- Section 180(2) says "from the date the person takes the oath" — this is unambiguous
+- The court cannot add "unless it happens to be in unusual circumstances" — that would be judicial legislation
+
+THE RATIO IN PETER OBI v INEC:
+A person who takes office pursuant to a court order or other exceptional circumstances is NOT completing another person's tenure — they hold office in their own right. The four-year term runs fresh from the date of their own oath of office.
+
+CONTRAST — COMPLETION OF UNEXPIRED TERM:
+Where a deputy governor takes over on the death or removal of a sitting governor, the deputy serves out the unexpired balance of the original four-year term — they are completing the tenure already begun. The Peter Obi principle applies where the court determines that the incoming governor holds office in their own right.
+
+CONSTITUTIONAL INTERPRETATION — FURTHER PRINCIPLES:
+
+1. CONSTITUTION IS SUPREME: S.1(1) CFRN — the Constitution is supreme and its provisions shall have binding force on all authorities and persons throughout the Federal Republic
+2. INCONSISTENCY: S.1(3) — any law inconsistent with the Constitution is void to the extent of the inconsistency
+3. PROGRESSIVE INTERPRETATION: The Constitution should be interpreted broadly and liberally so as to give full effect to its provisions and the rights it guarantees — not interpreted in a technical or narrow way that would defeat its purpose
+4. EACH PROVISION READ IN CONTEXT: No provision is to be read in isolation — the Constitution is a document to be read as a whole
+
+APPLICATION IN NIGERIA:
+Peter Obi v INEC is a landmark authority on tenure calculation and constitutional interpretation. It arose in a charged political climate and its principles have been applied in subsequent gubernatorial, legislative, and presidential tenure disputes. The case confirms that the oath of office is the critical reference point for calculating tenure, regardless of the political or litigious history of how the person came to power. It also affirms that courts have jurisdiction to determine constitutional questions about the tenure of elected officials.
+
+CITATION: [2007] 11 NWLR (Pt. 1046) 565; also [2007] 5 SC (Pt. 1) 1

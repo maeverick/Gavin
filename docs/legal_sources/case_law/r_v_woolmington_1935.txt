@@ -1,0 +1,34 @@
+Subject: Criminal Law — Burden of Proof
+Source: R v Woolmington [1935] AC 462 (House of Lords) — Applied in Nigerian criminal law
+
+CASE NAME: R v Woolmington [1935] AC 462
+
+FACTS:
+Woolmington was charged with the murder of his wife. He claimed the gun went off accidentally while he was demonstrating to her that he would shoot himself if she did not return to him. The trial judge directed the jury that once the prosecution proved the killing, it was for the accused to prove it was accidental. Woolmington was convicted. The House of Lords allowed his appeal.
+
+ISSUE:
+Who bears the burden of proving the accused's guilt in a criminal trial?
+
+HELD (House of Lords, Viscount Sankey LC):
+Throughout criminal law the prosecution bears the burden of proving every element of the offence charged beyond a reasonable doubt. The accused does not have to prove anything. The prosecution must prove guilt — the accused does not prove innocence.
+
+THE GOLDEN THREAD:
+Viscount Sankey LC described the presumption of innocence as the "golden thread" running throughout English (and Nigerian) criminal law: "Throughout the web of the English criminal law one golden thread is always to be seen, that it is the duty of the prosecution to prove the prisoner's guilt."
+
+KEY PRINCIPLES:
+1. PRESUMPTION OF INNOCENCE: Every accused person is presumed innocent until proven guilty
+2. BURDEN OF PROOF: The prosecution bears the legal burden of proving guilt beyond reasonable doubt
+3. STANDARD OF PROOF: Beyond reasonable doubt — the highest standard in law
+4. The accused bears NO burden to prove innocence or explain conduct
+5. EXCEPTIONS (statutory reverse onus):
+   (a) Where statute expressly places the burden on the accused (e.g., insanity — M'Naghten Rules)
+   (b) Where statute creates a presumption of guilt rebuttable by the accused
+   (c) Special defences like diminished responsibility
+
+SECTION 36(5) CONSTITUTION OF NIGERIA 1999:
+The presumption of innocence is constitutionally guaranteed: "Every person who is charged with a criminal offence shall be presumed to be innocent until he is proved guilty." This provision reflects the Woolmington principle.
+
+APPLICATION IN NIGERIA:
+R v Woolmington is the foundational authority on the burden and standard of proof in Nigerian criminal law. Applied in every criminal trial. The principle is constitutionally entrenched in Section 36(5) of the Constitution. Nigerian courts consistently apply the golden thread — the prosecution must prove every element of the offence beyond reasonable doubt.
+
+CITATION: [1935] AC 462

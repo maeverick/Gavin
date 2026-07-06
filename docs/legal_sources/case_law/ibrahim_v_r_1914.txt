@@ -1,0 +1,68 @@
+Subject: Evidence Law — Confessions, Voluntariness Rule
+Source: Ibrahim v R [1914] AC 599 (Privy Council) — Applied extensively in Nigerian criminal law
+
+CASE NAME: Ibrahim v R [1914] AC 599
+
+FACTS:
+Ibrahim, a soldier, was accused of murder. After his arrest, a British officer asked him why he had done it, and Ibrahim made an incriminating statement in response. No caution had been administered before the question was asked. The question was whether the statement was admissible as a confession.
+
+ISSUE:
+Is a statement made by a suspect to a person in authority, without a prior caution, admissible as a confession?
+
+HELD (Privy Council):
+A statement made by a suspect to a person in authority is not admissible unless it was made voluntarily — that is, free from any threat or inducement held out by a person in authority. The absence of a formal caution does not automatically render a statement inadmissible, but the statement must still have been made voluntarily. On the facts, the statement was admitted.
+
+THE IBRAHIM RULE (THE VOLUNTARINESS TEST):
+"It has long been established as a positive rule of English criminal law that no statement by an accused is admissible in evidence against him unless it is shown by the prosecution to have been a voluntary statement, in the sense that it has not been obtained from him either by fear of prejudice or hope of advantage exercised or held out by a person in authority."
+
+KEY PRINCIPLES:
+
+1. THE VOLUNTARINESS REQUIREMENT:
+A confession is only admissible if it was made voluntarily. A confession is not voluntary if it was obtained:
+- By a threat or inducement from a person in authority (e.g., police officer, prison warden)
+- By a promise of favour or leniency held out by a person in authority
+- Under oppression or circumstances rendering it unreliable
+
+2. PERSON IN AUTHORITY:
+The threat or inducement must come from a "person in authority" — someone the accused reasonably believed had power to affect their prosecution or detention. Includes: police officers, prosecutors, prison officers, magistrates. Does NOT include: ordinary citizens, co-accused (generally).
+
+3. THE CAUTION:
+- The rule in Ibrahim does not technically require a caution, but failure to caution is a factor in assessing voluntariness
+- Under Nigerian law, a person in custody should be told of their right to remain silent and their right to counsel (Constitution s.35(6))
+- A statement taken without a caution may still be admitted if it was otherwise voluntary
+
+4. BURDEN OF PROOF:
+The prosecution bears the burden of proving beyond reasonable doubt that the confession was voluntary. The trial judge conducts a voir dire (trial within a trial) to determine admissibility before the jury or fact-finder hears the confession.
+
+5. VOIR DIRE:
+- A preliminary inquiry held in the absence of the jury/assessors to determine whether a confession is admissible
+- The prosecution leads evidence of how the confession was obtained
+- The accused may give evidence denying voluntariness without prejudice to their substantive defence
+- The judge then rules on admissibility
+
+THE EVIDENCE ACT 2011 — CONFESSIONS IN NIGERIA:
+
+S.28 — CONFESSIONS:
+A confession is an admission made at any time by a person accused of an offence, stating or suggesting that they committed that offence.
+
+S.29 — ADMISSIBILITY OF CONFESSIONS:
+(1) A confession made by an accused is admissible if voluntarily made
+(2) A confession is not voluntary if obtained by:
+- Inducement, threat, or promise having reference to the charge and held out by a person in authority
+- Torture, cruel treatment, or other inhuman or degrading treatment
+(3) Where a confession is obtained by oppression or in circumstances rendering it unreliable, it shall not be admitted
+(4) The court must conduct a trial within trial (voir dire) to determine voluntariness where it is challenged
+
+RETRACTED CONFESSIONS:
+- A confession that the accused later retracts is not automatically inadmissible
+- A retracted confession may be admitted but its weight is for the court to assess
+- The court may convict on a retracted confession if it is satisfied the confession was voluntarily made and is true: R v Itule [1961]; Alarape v State [2001]
+
+CONFESSIONS IMPLICATING CO-ACCUSED:
+- A confession by one accused implicating another is not evidence against the co-accused — it is only admissible against the maker
+- Exception: where the co-accused adopts the statement or where it is admissible as a dying declaration
+
+APPLICATION IN NIGERIA:
+Ibrahim v R remains the foundational authority on confessions in Nigerian criminal law, supplemented by the Evidence Act 2011 ss.28-32. Police confessions are a central feature of Nigerian criminal trials — challenges to their voluntariness are routine. Courts regularly conduct voir dires to determine admissibility. The practice of obtaining confessions through torture or oppressive questioning is a recognised problem, and Nigerian courts have increasingly scrutinised confession evidence carefully.
+
+CITATION: [1914] AC 599; Evidence Act 2011 ss.28-32

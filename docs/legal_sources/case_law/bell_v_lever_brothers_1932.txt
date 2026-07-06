@@ -1,0 +1,60 @@
+Subject: Contract Law — Mistake at Common Law, Common Mistake, Void Contract
+Source: Bell v Lever Brothers Ltd [1932] AC 161 (House of Lords) — Applied in Nigerian contract law
+
+CASE NAME: Bell v Lever Brothers Ltd [1932] AC 161
+
+FACTS:
+Bell and Snelling were directors of Niger Company, a subsidiary of Lever Brothers. Lever Brothers decided to reorganise and terminate the directors' contracts, paying them £50,000 and £30,000 respectively as compensation for loss of office. Unknown to Lever Brothers at the time, Bell and Snelling had committed breaches of their service agreements during their employment which would have entitled Lever Brothers to dismiss them without any compensation at all. When Lever Brothers discovered this, they sought to recover the compensation payments on the ground that the agreements to pay compensation were void for common mistake — both parties had been mistaken about the fundamental fact that the termination agreements were unnecessary.
+
+ISSUE:
+Was the compensation agreement void for common mistake — had both parties contracted under a fundamental error as to an existing fact?
+
+HELD (House of Lords, 3-2 majority):
+The agreements were not void for common mistake. The mistake (as to whether Bell and Snelling had committed dismissible breaches) was not sufficiently fundamental to avoid the contract. Both parties had contracted to terminate the employment agreements — and those agreements were validly terminated. The fact that Lever Brothers could have terminated for cause was a "quality" of the subject matter, not a fundamental error as to its existence. The contract remained valid and binding.
+
+THE DOCTRINE OF COMMON MISTAKE AT COMMON LAW:
+
+GENERAL PRINCIPLE:
+A contract may be void at common law where both parties are mistaken as to a fundamental fact existing at the time of contracting. The mistake must be:
+1. COMMON TO BOTH PARTIES (shared by both, not merely one)
+2. AS TO AN EXISTING FACT (not a future event or a matter of opinion)
+3. SUFFICIENTLY FUNDAMENTAL: going to the root of the contract — the very existence of the subject matter or the identity of a fundamental fact without which the contract would not have been made at all
+
+CATEGORIES OF OPERATIVE COMMON MISTAKE:
+1. RES EXTINCTA (subject matter does not exist):
+Where unknown to both parties, the subject matter of the contract has ceased to exist at the time of contracting — the contract is void
+Example: Couturier v Hastie (1856) — contract for goods that had already been sold before the contract was made
+
+2. RES SUA (the buyer already owns the thing):
+Where a person contracts to buy something they already own — the contract is void
+
+3. MISTAKE AS TO QUALITY:
+Bell v Lever Brothers: mistake as to the quality or attributes of the subject matter is NOT sufficient to avoid a contract at common law, even if the mistake was fundamental to the parties' commercial purposes. This is the critical limit of the doctrine.
+
+THE HIGH THRESHOLD:
+Bell v Lever Brothers sets an extremely high bar for operative common mistake:
+- The mistake must render the subject matter essentially different from what it was believed to be — not merely different in quality or value
+- A mistake that merely deprives the contract of its commercial purpose is insufficient
+- The court refused to enlarge the doctrine beyond cases involving the existence (not the quality) of the subject matter
+
+MISTAKE IN EQUITY:
+Even where a contract is valid at common law (no operative common mistake), equity may provide relief:
+- Solle v Butcher [1950]: rescission in equity available for a less fundamental common mistake
+- This equitable jurisdiction is controversial and its scope was questioned by the Court of Appeal in Great Peace Shipping v Tsavliris Salvage [2002], which suggested that if a mistake is insufficient to avoid a contract at common law, there is no equitable jurisdiction to rescind it
+- Nigerian courts have not finally resolved this tension; the broader equitable approach remains available in principle
+
+UNILATERAL MISTAKE:
+A different doctrine — where only ONE party is mistaken:
+- Generally not a ground for avoiding a contract: caveat emptor (buyer beware)
+- Exceptions: where the other party knew of the mistake and took advantage of it (Smith v Hughes [1871])
+- Where the mistake is as to identity and the identity of the other party is fundamental — may void the contract (Cundy v Lindsay [1878])
+
+NON EST FACTUM:
+A special plea where a party signed a document under a fundamental misapprehension of its nature — not merely its contents. Requires:
+1. The document was fundamentally different in character from what the signer believed it to be
+2. The signer was not careless in signing — Saunders v Anglia Building Society [1971]
+
+APPLICATION IN NIGERIA:
+Bell v Lever Brothers is the leading authority on common mistake in Nigerian contract law. The strict high threshold it sets is applied in Nigerian commercial disputes where parties allege their contract was void because of a shared misunderstanding of facts. The case limits the common mistake doctrine firmly to cases of non-existent subject matter. Nigerian courts also recognise the equitable jurisdiction to rescind for mistake in cases not meeting the common law threshold, though the parameters remain developing.
+
+CITATION: [1932] AC 161; [1931] All ER Rep 1

@@ -1,0 +1,72 @@
+Subject: Company Law — Partnership Law in Nigeria
+Source: Partnership Act (Cap P1 LFN 2004); Nigerian partnership cases
+
+PARTNERSHIP LAW IN NIGERIA:
+
+DEFINITION OF PARTNERSHIP (Section 1 Partnership Act):
+"The relation which subsists between persons carrying on a business in common with a view of profit."
+
+Key elements:
+1. Business — any trade, occupation, or profession
+2. Carried on in common — two or more persons
+3. With a view to profit — profit motive essential (not just sharing losses)
+4. Not incorporated — distinguished from a company
+
+TYPES OF PARTNERS:
+1. GENERAL PARTNER: Fully liable for partnership debts without limit
+2. LIMITED PARTNER: Liability limited to their capital contribution (Limited Liability Partnership)
+3. SLEEPING/DORMANT PARTNER: Takes no active role in management but is fully liable as a general partner
+4. PARTNER BY ESTOPPEL (Holding out): A person who represents themselves as a partner or knowingly allows themselves to be represented as one is liable as a partner to third parties who rely on the representation
+
+FORMATION OF PARTNERSHIP:
+- No formalities required — a partnership may be formed by oral or written agreement
+- Written partnership deed is advisable (sets out rights and duties)
+- Partnership may be implied from conduct
+
+RELATIONS BETWEEN PARTNERS:
+In the absence of agreement to the contrary (Section 24 Partnership Act defaults):
+1. Partners share profits and losses equally
+2. Every partner may take part in management
+3. No partner is entitled to a salary
+4. No interest on capital contributions
+5. Interest at 5% per annum on advances beyond capital contribution
+6. Partnership books to be kept at place of business
+
+AUTHORITY OF PARTNERS:
+Section 8: Every partner is an agent of the firm for the purposes of the business of the partnership
+- Acts of a partner in carrying on the usual business of the firm bind the firm and all partners
+- Third parties dealing in good faith with a partner are protected even if the partner had no actual authority
+
+DUTIES OF PARTNERS:
+1. Duty of good faith (uberrimae fidei) — partners must act in the utmost good faith
+2. Duty to account — must account for all profits made in the course of partnership business
+3. Duty not to compete — must not engage in competing business without consent
+4. Duty not to make secret profits
+
+DISSOLUTION OF PARTNERSHIP:
+Automatic dissolution:
+(a) Expiry of fixed term
+(b) Achievement of the purpose
+(c) Death, bankruptcy, or charging order on a partner's share (unless otherwise agreed)
+
+Dissolution by notice: In a partnership at will, any partner may dissolve by notice
+
+Dissolution by court (Section 35):
+- Partner of unsound mind
+- Permanent incapacity
+- Conduct prejudicial to the business
+- Persistent breach of partnership agreement
+- Where the business can only be carried on at a loss
+- Just and equitable
+
+LIMITED LIABILITY PARTNERSHIPS IN NIGERIA:
+Companies Act and LLP Act provide for limited liability entities. CAMA 2020 Part B provides for Limited Liability Partnerships as a separate legal entity with limited liability for partners.
+
+DISTINCTION: PARTNERSHIP vs COMPANY:
+PARTNERSHIP: No separate legal entity; partners personally liable; no formal registration required; governed by Partnership Act
+COMPANY: Separate legal entity (Salomon); members have limited liability; registration required; governed by CAMA 2020
+
+APPLICATION IN NIGERIA:
+Partnership law is a core topic in the Nigerian Bar examination under Company Law and Partnership. Applied in professional partnership disputes (law firms, medical practices), business partnership litigation, and dissolution proceedings. Understanding the distinction between partnership and company is fundamental.
+
+CITATION: Partnership Act Cap P1 LFN 2004; Companies and Allied Matters Act 2020

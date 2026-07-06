@@ -1,0 +1,58 @@
+Subject: Contract Law — Duress, Economic Duress, Voidable Contracts
+Source: Pao On v Lau Yiu Long [1980] AC 614 (Privy Council) — Applied in Nigerian contract law
+
+CASE NAME: Pao On v Lau Yiu Long [1980] AC 614
+
+FACTS:
+Pao On agreed to sell shares in a company to a subsidiary of Lau Yiu Long's company. As part of a complex transaction, the defendants agreed to indemnify Pao On against losses on certain shares. Later, Pao On threatened not to complete the main contract unless the defendants entered into a more favourable supplemental agreement (modifying the indemnity). The defendants, fearing that Pao On's refusal to complete would damage the reputation of their public company, agreed under protest. They later refused to honour the supplemental agreement, arguing it was voidable for duress.
+
+ISSUE:
+Was the supplemental agreement voidable for economic duress — had the defendants entered into it under illegitimate pressure from Pao On?
+
+HELD (Privy Council, per Lord Scarman):
+The supplemental agreement was not voidable for duress. Although the defendants had acted under commercial pressure, there had been no coercion of their will which vitiated their consent. The defendants had a reasonable alternative — they could have refused and sought legal remedies. They had also not protested at the time and had taken no steps to repudiate the agreement promptly.
+
+THE DOCTRINE OF ECONOMIC DURESS:
+
+DEFINITION:
+Economic duress is illegitimate pressure of an economic or commercial nature that overrides the free will of the victim and causes them to enter into a contract or variation they would not otherwise have agreed to.
+
+THE PAO ON TEST — ELEMENTS OF ECONOMIC DURESS:
+Lord Scarman identified the key question as whether there was "coercion of the will that vitiates consent." The court considers:
+1. DID THE PRESSURE AMOUNT TO COERCION? Was the victim's free will overborne — did they have no practical choice?
+2. WAS THE PRESSURE ILLEGITIMATE? Not all commercial pressure is duress — ordinary hard bargaining and threats to exercise legal rights are legitimate
+3. DID THE PRESSURE CAUSE THE CONTRACT? The coercion must have induced the entry into the contract or variation
+4. DID THE VICTIM PROTEST AND SEEK TO RESCIND PROMPTLY? Affirming the contract or delaying challenge undermines a duress claim
+
+LEGITIMATE vs ILLEGITIMATE PRESSURE:
+LEGITIMATE (not duress):
+- Threatening to exercise a legal right (e.g., threatening to commence litigation)
+- Hard bargaining in a commercial context
+- Refusing to contract except on favourable terms
+
+ILLEGITIMATE (may constitute duress):
+- Threatening to break a contract without legal justification
+- Threatening criminal conduct
+- Threatening tortious acts
+- Exploiting a monopoly position to extract unreasonable terms in circumstances that overbear the victim's will
+
+PRACTICAL ALTERNATIVE:
+A key factor: if the victim had a practical, adequate alternative (e.g., could obtain the goods elsewhere, could pursue legal remedies), the pressure is less likely to constitute duress. No practical alternative suggests the will was overborne.
+
+AFFIRMATION AND DELAY:
+- A contract entered into under duress is VOIDABLE, not void — the victim must elect to rescind it
+- Delay in repudiating, or taking benefits under the contract, may amount to affirmation — barring rescission
+- The victim must act promptly once free of the pressure
+
+DURESS IN NIGERIAN LAW:
+The traditional Nigerian (and English) law recognised only duress to the person (threats of physical violence). Economic duress as a doctrine was established in Universe Tankships v ITWF [1983] and Pao On. Nigerian courts have accepted economic duress as a vitiating factor, though cases remain relatively rare in reported Nigerian jurisprudence. The principles are most commonly applied in commercial contract disputes, banking transactions, and employer-employee settlement agreements.
+
+RELATIONSHIP WITH UNDUE INFLUENCE:
+- Duress: coercion of the will through threats — active pressure
+- Undue influence: one party abuses a position of trust or influence over another — may be actual (Class 1) or presumed from a relationship (Class 2)
+- Both duress and undue influence render a contract voidable and may be grounds for rescission
+
+APPLICATION IN NIGERIA:
+Pao On v Lau Yiu Long is the foundational Privy Council authority on economic duress applied in Nigerian contract law. It is cited in cases involving commercial pressure, forced renegotiations, and situations where a party claims their consent to a contract or variation was not freely given. Nigerian courts assess economic duress using the Pao On factors: illegitimate pressure, absence of practical alternative, causation, and timely repudiation.
+
+CITATION: [1980] AC 614; [1979] 3 All ER 65

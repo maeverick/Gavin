@@ -1,0 +1,32 @@
+Subject: Tort Law — Causation (But For Test)
+Source: Barnett v Chelsea and Kensington Hospital Management Committee [1968] 1 QB 428
+
+CASE NAME: Barnett v Chelsea and Kensington Hospital Management Committee [1968] 1 QB 428
+
+FACTS:
+Three night watchmen attended a hospital casualty department complaining of vomiting after drinking tea. The duty doctor, who was himself unwell, sent a message through a nurse that they should go home and see their own doctors. He did not examine them. One of the men, Mr Barnett, died several hours later from arsenic poisoning. His widow sued the hospital in negligence.
+
+ISSUE:
+Even if the hospital was negligent in failing to examine and treat Mr Barnett, was the negligence the cause of his death?
+
+HELD:
+Although the hospital owed a duty of care and had breached it by failing to examine the patient, the breach did not cause the death. Medical evidence showed that even if Mr Barnett had been properly examined and treated, he would have died anyway because by the time he attended the hospital, the arsenic poisoning was already fatal and beyond treatment. The claim failed.
+
+THE BUT-FOR TEST:
+The basic test for factual causation in negligence:
+"But for the defendant's breach of duty, would the claimant have suffered the loss or damage complained of?"
+
+If the answer is NO — the damage would not have occurred but for the breach — causation is established.
+If the answer is YES — the damage would have occurred anyway even without the breach — causation is not established and the claim fails.
+
+KEY PRINCIPLES:
+1. BUT-FOR TEST: The primary test for causation in negligence — would the harm have occurred but for the breach?
+2. LEGAL CAUSATION DISTINCT FROM FACTUAL CAUSATION: Even where factual causation exists, courts may deny liability where the causal chain is broken
+3. BURDEN OF PROOF: The claimant bears the burden of proving causation on the balance of probabilities
+4. MULTIPLE CAUSES: Where multiple causes contribute to damage, modified tests apply (material contribution: Bonnington Castings v Wardlaw)
+5. NOVUS ACTUS INTERVENIENS: An intervening act may break the chain of causation
+
+APPLICATION IN NIGERIA:
+Barnett v Chelsea and Kensington Hospital is the leading authority on factual causation (the but-for test) applied in Nigerian negligence cases. Particularly relevant in medical negligence cases before Nigerian courts. Applied where defendants argue that their breach did not cause the harm complained of. The but-for test is the starting point for causation analysis in all Nigerian tort cases.
+
+CITATION: [1968] 1 QB 428

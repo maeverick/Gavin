@@ -1,0 +1,34 @@
+Subject: Contract Law — Acceptance and Communication
+Source: Entores Ltd v Miles Far East Corporation [1955] 2 QB 327 (Court of Appeal)
+
+CASE NAME: Entores Ltd v Miles Far East Corporation [1955] 2 QB 327
+
+FACTS:
+The plaintiffs in London made an offer by telex to the defendants' agents in Amsterdam. The defendants accepted by telex. The question arose as to where the contract was formed — London or Amsterdam — which was relevant to jurisdiction.
+
+ISSUE:
+When is acceptance by instantaneous communication (telex) complete and where is the contract formed?
+
+HELD (Court of Appeal, Denning LJ):
+Acceptance by instantaneous means of communication is complete when and where it is received by the offeror, not when it is sent. The contract was therefore formed in London where the acceptance was received. The postal rule (Adams v Lindsell) does not apply to instantaneous communications.
+
+THE POSTAL RULE (for contrast):
+In Adams v Lindsell (1818), acceptance by post is complete when the letter is posted, not when received. The postal rule applies where post is the agreed or reasonably contemplated means of acceptance.
+
+THE RECEIPT RULE (Entores):
+For instantaneous communications (telex, telephone, fax, email), acceptance is complete:
+(a) When received by the offeror
+(b) At the place of receipt
+(c) If the offeree's message does not reach the offeror through no fault of the offeror, no contract is formed
+
+KEY PRINCIPLES:
+1. POSTAL RULE: Acceptance by post complete on posting (Adams v Lindsell)
+2. RECEIPT RULE: Acceptance by instantaneous communication complete on receipt
+3. The rule determines both WHEN and WHERE the contract is formed
+4. Modern application extends to fax, email, and electronic contracts
+5. An offeror who misses a telex/fax acceptance due to their own failure has no complaint
+
+APPLICATION IN NIGERIA:
+Entores v Miles Far East is applied in Nigerian contract law cases involving electronic communication, telex, fax, and internet contracts. The receipt rule governs acceptance in commercial transactions by instantaneous means. Relevant to cross-border contracts and e-commerce under the Electronic Transactions provisions of Nigerian law.
+
+CITATION: [1955] 2 QB 327

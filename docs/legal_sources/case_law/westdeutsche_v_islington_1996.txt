@@ -1,0 +1,58 @@
+Subject: Equity and Trusts — Resulting Trusts, Constructive Trusts, Unconscionability
+Source: Westdeutsche Landesbank Girozentrale v Islington London Borough Council [1996] AC 669 (House of Lords) — Applied in Nigerian equity
+
+CASE NAME: Westdeutsche Landesbank Girozentrale v Islington LBC [1996] AC 669
+
+FACTS:
+Westdeutsche (a German bank) entered into an interest rate swap agreement with Islington Borough Council. The agreement was subsequently held to be ultra vires the council and therefore void ab initio (void from the beginning). The bank had paid money to the council under the void contract and sought to recover it, including compound interest. The House of Lords had to decide whether a resulting trust arose over the money paid under the void contract, and whether equity would award compound interest.
+
+ISSUE:
+(1) Does a resulting trust arise over money paid under a void contract? (2) What is the basis for a resulting trust?
+
+HELD (House of Lords, per Lord Browne-Wilkinson):
+No resulting trust arose. A resulting trust requires the recipient to have knowledge of the circumstances that give rise to the trust at the time of receipt — at the moment the council received the bank's money, it had no knowledge that the contract was void. Therefore, it could not be a trustee from the outset. The money had been paid under a contract believed to be valid. A resulting trust does not automatically arise whenever money is paid under a void transaction.
+
+KEY PRINCIPLES:
+
+WHEN A RESULTING TRUST ARISES:
+Lord Browne-Wilkinson identified two circumstances:
+1. AUTOMATIC RESULTING TRUST: Where property is transferred on trusts which fail to exhaust the beneficial interest — the undisposed-of beneficial interest results back to the settlor. This is automatic and does not depend on intention.
+2. PRESUMED RESULTING TRUST: Where A transfers property to B gratuitously (without consideration) — a resulting trust is presumed in B's favour of A unless the circumstances rebut the presumption. The presumption may be rebutted by evidence of a gift or other explanation.
+
+CONSCIENCE AS THE BASIS OF CONSTRUCTIVE TRUST:
+Lord Browne-Wilkinson confirmed that a constructive trust arises when:
+- The recipient holds property
+- In circumstances where it would be unconscionable to assert full beneficial ownership
+- AND the recipient has knowledge of the facts making it unconscionable
+
+KNOWLEDGE IS ESSENTIAL:
+A key holding: a trust (whether resulting or constructive) cannot arise unless the legal owner has knowledge of the circumstances that impose the obligation. A recipient who receives property innocently, without notice of any claim, holds it as absolute owner — not as a trustee. The trustee's conscience must be affected before equity imposes a trust.
+
+COMPOUND INTEREST:
+The court refused compound interest. Courts of equity may award compound interest in limited circumstances (where money has been held by a trustee and should have been invested, or where money has been obtained through fraud), but not simply because a cause of action is restitutionary.
+
+TYPES OF TRUST COMPARED:
+
+EXPRESS TRUST:
+- Deliberately created by the settlor using words or conduct showing intention
+- Three certainties must be present
+
+RESULTING TRUST:
+- Arises by operation of law where beneficial interest returns to the transferor
+- Two types: automatic (trust fails to exhaust beneficial interest) and presumed (gratuitous transfer)
+
+CONSTRUCTIVE TRUST:
+- Imposed by equity regardless of the parties' intentions
+- Arises where it would be unconscionable for the legal owner to assert full beneficial ownership
+- Common examples: vendor under a specifically enforceable contract of sale, common intention constructive trust in family property disputes, a fiduciary who profits from their position
+
+PRESUMPTION OF RESULTING TRUST vs PRESUMPTION OF ADVANCEMENT:
+- Resulting trust is presumed where A pays money and property is vested in B (without consideration)
+- Presumption of advancement (gift) displaces resulting trust where: husband transfers to wife; father transfers to child
+- Both presumptions are rebuttable by evidence of the true intention
+- In Nigeria, the presumption of advancement applies in the above relationships; courts are willing to consider evidence rebutting it
+
+APPLICATION IN NIGERIA:
+Westdeutsche is the leading House of Lords authority on resulting and constructive trusts applied in Nigerian equity. The case is cited in disputes over joint property, failed transactions, family trusts, and commercial trust arrangements. The principle that a trust cannot arise without the recipient's knowledge of the relevant circumstances is particularly important in commercial contexts. Nigerian courts follow the Westdeutsche analysis to determine whether equitable proprietary claims succeed.
+
+CITATION: [1996] AC 669; [1996] 2 All ER 961

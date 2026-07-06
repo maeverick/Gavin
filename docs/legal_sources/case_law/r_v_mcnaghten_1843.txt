@@ -1,0 +1,67 @@
+Subject: Criminal Law — Insanity Defence, M'Naghten Rules
+Source: M'Naghten's Case (1843) 10 Cl & Fin 200 (House of Lords) — Applied in Nigerian criminal law
+
+CASE NAME: M'Naghten's Case (1843) 10 Cl & Fin 200
+
+FACTS:
+Daniel M'Naghten believed he was being persecuted by the Tory Party and the Pope. Under this delusion, he shot and killed Edward Drummond, intending to kill the Prime Minister Sir Robert Peel. M'Naghten was acquitted on the ground of insanity. The House of Lords, responding to questions from the House, laid down the rules governing the defence of insanity in criminal law.
+
+ISSUE:
+In what circumstances is a person not criminally responsible by reason of insanity?
+
+HELD (House of Lords):
+Every person is presumed to be sane. To establish a defence of insanity, the accused must prove:
+(1) That at the time of committing the act, they were labouring under such a defect of reason, from disease of the mind; AND
+(2) As not to know the nature and quality of the act they were doing, OR, if they did know it, that they did not know that what they were doing was wrong.
+
+THE M'NAGHTEN RULES:
+
+ELEMENT 1 — DEFECT OF REASON:
+- The accused's reasoning powers must have been so impaired as to amount to a defect — not merely confused thinking, but a fundamental failure of reason
+- Absent-mindedness or failure to use one's mental powers does not amount to a defect of reason
+
+ELEMENT 2 — DISEASE OF THE MIND:
+- The defect of reason must arise from a "disease of the mind" — a legal, not purely medical, concept
+- Includes: schizophrenia, severe depression with psychotic features, paranoid delusions
+- Whether a condition qualifies as a "disease of the mind" is a legal question, decided by the judge
+- Covers both organic and functional mental disorders
+- R v Sullivan [1984]: even epilepsy can amount to a disease of the mind if it causes a defect of reason affecting knowledge of wrongdoing
+
+ELEMENT 3 — NOT KNOWING THE NATURE AND QUALITY OF THE ACT:
+- The accused did not understand what they were physically doing (e.g., thought they were cutting bread but was actually killing a person)
+- This limb covers cases of complete unawareness of the physical nature of the act
+
+ELEMENT 4 (ALTERNATIVE TO ELEMENT 3) — NOT KNOWING THE ACT WAS WRONG:
+- The accused knew the physical nature of the act but did not know it was legally (or morally) wrong
+- "Wrong" generally means legally wrong — contrary to law
+- If the accused knew the act was illegal but committed it under an insane delusion, the delusion only excuses if it would have provided a complete defence even if true (the delusional belief must negate an element of the offence or provide a justification)
+
+BURDEN OF PROOF:
+- The prosecution must prove sanity (the presumption of sanity means the accused is presumed sane until proved otherwise)
+- HOWEVER: The accused bears the burden of raising the defence of insanity — and must prove it on the balance of probabilities
+- This is an exception to the general rule that the prosecution proves all elements of the offence
+
+VERDICT: "NOT GUILTY BY REASON OF INSANITY"
+- If the defence succeeds, the verdict is not guilty by reason of insanity (not a straightforward acquittal)
+- The court may order hospital detention, supervision, or an absolute discharge depending on the circumstances and the applicable statute
+
+INSANITY IN NIGERIAN CRIMINAL LAW:
+The Criminal Code Act (applicable in Southern Nigeria) and the Penal Code (applicable in Northern Nigeria) both incorporate the M'Naghten Rules:
+
+CRIMINAL CODE ACT, S.28:
+"A person is not criminally responsible for an act or omission if at the time of doing the act or making the omission he is in such a state of mental disease or natural mental infirmity as to deprive him of capacity to understand what he is doing, or of capacity to control his actions, or of capacity to know that he ought not to do the act or make the omission."
+
+Note: The Nigerian Criminal Code is slightly broader than M'Naghten — it includes incapacity to CONTROL one's actions (the irresistible impulse test), which is not part of the English M'Naghten Rules. This is an important distinction.
+
+PENAL CODE (NORTHERN STATES):
+S.51: Similar provisions — no criminal liability if at the time of the act the accused did not know the nature of the act, or did not know it was contrary to law or wrong.
+
+AUTOMATISM (RELATED PRINCIPLE):
+- Where the accused's act was involuntary — not the product of their conscious mind — automatism may provide a complete defence (not insanity)
+- Distinction: insane automatism (disease of the mind) leads to a special verdict; sane automatism (external factor, e.g., concussion) leads to a full acquittal
+- Nigeria recognises both
+
+APPLICATION IN NIGERIA:
+M'Naghten's Case remains the foundational authority on the insanity defence in Nigerian criminal law, supplemented by s.28 of the Criminal Code and s.51 of the Penal Code. The defence arises infrequently but is of critical importance in homicide cases and serious criminal matters. Expert psychiatric evidence is essential to establish the defence. Courts must carefully distinguish between insanity (which negates criminal responsibility) and diminished responsibility or intoxication (which may mitigate but not excuse).
+
+CITATION: (1843) 10 Cl & Fin 200; 8 ER 718; Criminal Code Act s.28

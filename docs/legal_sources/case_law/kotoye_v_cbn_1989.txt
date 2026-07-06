@@ -1,0 +1,61 @@
+Subject: Civil Procedure — Interlocutory Injunctions, Balance of Convenience
+Source: Kotoye v Central Bank of Nigeria & Ors [1989] 1 NWLR (Pt. 98) 419 — Nigerian Supreme Court
+
+CASE NAME: Kotoye v Central Bank of Nigeria & Ors [1989] 1 NWLR (Pt. 98) 419
+
+FACTS:
+Kotoye sought an interlocutory injunction to restrain the Central Bank of Nigeria from taking certain actions pending the hearing and determination of his substantive suit. The question was on what principles a Nigerian court should grant or refuse an interlocutory injunction. The Supreme Court took the opportunity to authoritatively state the applicable principles.
+
+ISSUE:
+On what principles should a court grant an interlocutory (interim) injunction in Nigerian civil proceedings?
+
+HELD (Supreme Court):
+The court laid down the governing principles for granting interlocutory injunctions in Nigeria, adopting and adapting the approach from American Cyanamid Co v Ethicon Ltd [1975] AC 396 (House of Lords). The court must apply a three-stage test: (1) Is there a serious question to be tried? (2) Would damages be an adequate remedy? (3) Where does the balance of convenience lie?
+
+THE KOTOYE THREE-STAGE TEST:
+
+STAGE 1 — SERIOUS QUESTION TO BE TRIED:
+- The applicant must show there is a genuine, non-frivolous dispute — a serious question that deserves to be tried on its merits
+- This is a LOW THRESHOLD — the court does not conduct a mini-trial or assess the merits in depth at this stage
+- The applicant need not show a strong prima facie case — merely that the claim is not frivolous or vexatious
+- The court asks: is there a real (not fanciful) prospect of the applicant succeeding at trial?
+
+STAGE 2 — ADEQUACY OF DAMAGES:
+If there is a serious issue to be tried, the court asks:
+(a) IF THE INJUNCTION IS GRANTED AND THE APPLICANT ULTIMATELY LOSES:
+Would damages payable under the undertaking in damages (which the applicant must give) adequately compensate the respondent? If yes, the injunction should generally be granted.
+
+(b) IF THE INJUNCTION IS REFUSED AND THE APPLICANT ULTIMATELY WINS:
+Would damages payable by the respondent at trial adequately compensate the applicant for the harm suffered in the interim? If yes, the injunction should generally be refused.
+
+STAGE 3 — BALANCE OF CONVENIENCE (BALANCE OF JUSTICE):
+If the question of adequacy of damages cannot resolve the matter, the court considers:
+- What is the balance of hardship if the injunction is granted vs refused?
+- What is the practical effect of granting or refusing?
+- Which course of action is least likely to cause injustice if the court's decision at this stage turns out to be wrong?
+- Status quo: if all else is equal, it is usually safer to preserve the existing state of affairs
+
+UNDERTAKING IN DAMAGES:
+- A condition for granting an interlocutory injunction
+- The applicant undertakes to compensate the respondent for any damage caused by the injunction if it turns out at trial that the injunction was wrongly granted
+- A public authority may be excused from giving an undertaking in some circumstances
+- Failure to honour an undertaking in damages is contempt of court
+
+STATUS QUO:
+- The "status quo" to be preserved is the state of affairs at the time the application is made (not at some earlier date when the dispute first arose)
+- Where the respondent's alleged wrong is continuing, the status quo may favour granting the injunction to stop it immediately
+
+EX PARTE (WITHOUT NOTICE) INJUNCTIONS:
+- May be granted in cases of extreme urgency or where giving notice would defeat the purpose
+- The applicant must make full and frank disclosure of all material facts — even those adverse to their case
+- Failure of full disclosure is a ground for discharging the injunction
+- The respondent must be given an early return date to challenge the order
+
+CONTRAST — MANDATORY INTERLOCUTORY INJUNCTION:
+- An order requiring the respondent to do a positive act is granted more sparingly than a prohibitory order
+- The court requires a higher threshold of showing that the applicant is likely to succeed at trial
+
+APPLICATION IN NIGERIA:
+Kotoye v CBN is the leading Nigerian Supreme Court authority on interlocutory injunctions. It is cited in virtually every application for injunctive relief in Nigerian courts. The three-stage test is the standard framework. Nigerian courts have emphasised that the applicant bears the onus of satisfying all three stages. The case is of particular importance in commercial disputes, election matters, and enforcement of constitutional rights.
+
+CITATION: [1989] 1 NWLR (Pt. 98) 419

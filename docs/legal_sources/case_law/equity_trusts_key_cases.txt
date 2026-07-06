@@ -1,0 +1,54 @@
+Subject: Equity and Trusts — Key Cases and Principles
+Source: Compiled from English and Nigerian equity and trusts cases applied in Nigerian courts
+
+PROPRIETARY ESTOPPEL:
+
+WILLMOTT v BARBER (1880) 15 Ch D 96 — Probanda of Proprietary Estoppel:
+For proprietary estoppel to arise:
+1. The claimant must have made a mistake as to their legal rights
+2. The claimant must have expended money or done some act on the faith of their mistaken belief
+3. The defendant must know of the existence of their own right inconsistent with the claimant's
+4. The defendant must know of the claimant's mistaken belief
+5. The defendant must have encouraged the claimant's expenditure
+
+MODERN TEST — Taylors Fashions v Liverpool Victoria Trustees [1982]:
+Proprietary estoppel arises where it would be unconscionable for a party to deny the equity arising from their acquiescence in or encouragement of another's belief or expectation.
+
+CONSTRUCTIVE TRUSTS IN NIGERIA:
+A constructive trust arises by operation of law where it would be unconscionable for the legal owner to deny the beneficial interest of another.
+COMMON SITUATIONS:
+1. Secret profits by a fiduciary (trustee, director, agent)
+2. Vendor under a specifically enforceable contract of sale holds on constructive trust for purchaser
+3. Mutual wills — where parties agree to make mutual wills and one dies, survivor holds on constructive trust
+
+RESULTING TRUSTS:
+Arise automatically where:
+1. PURCHASE MONEY RESULTING TRUST: A contributes to the purchase price of property in B's name — B holds on resulting trust for A in proportion to contribution (Dyer v Dyer)
+2. FAILED EXPRESS TRUST: Where an express trust fails — property results back to the settlor
+3. SURPLUS AFTER PURPOSE FULFILLED: Where purpose trust fulfilled with surplus — surplus results back
+
+RE DENLEY — PURPOSE TRUSTS:
+Trusts for non-charitable purposes are generally void (no beneficiary to enforce)
+EXCEPTION — Re Denley [1969]: A purpose trust may be valid where there are identifiable individuals who are directly or indirectly benefited and who can enforce it
+
+HALF-SECRET AND SECRET TRUSTS:
+FULLY SECRET TRUST: Testator leaves gift to X absolutely, with oral agreement that X holds on trust for Y
+- X takes as trustee if the trust was communicated to X before or at the time the will was made
+HALF-SECRET TRUST: Will refers to a trust but does not name the beneficiary
+- Trust communicated before or at time of execution of will is binding
+
+BREACH OF FIDUCIARY DUTY:
+A fiduciary (trustee, company director, agent, solicitor) must not:
+1. Make a secret profit from their position
+2. Place themselves in a position where their duty and interest conflict
+3. Act for two parties without disclosure and consent
+REMEDIES: Account of profits; constructive trust imposed on the profit
+
+KEECH v SANDFORD (1726):
+A trustee who renews a lease for themselves (where the landlord would not renew for the trust) holds the lease on trust for the beneficiaries — the NO-PROFIT rule applies absolutely to trustees.
+
+RULE IN SAUNDERS v VAUTIER (1841):
+Where all beneficiaries are of full age, legally competent, and together hold the entire beneficial interest, they may unanimously bring the trust to an end and direct the trustee to transfer legal title to them.
+
+APPLICATION IN NIGERIA:
+These principles form the core of equity and trusts law examined in Nigerian Bar examinations. Applied in property disputes, family law cases, corporate governance, and professional responsibility. Nigerian courts apply English equitable principles where not superseded by Nigerian legislation.

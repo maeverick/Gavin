@@ -1,0 +1,46 @@
+Subject: Equity and Trusts — Declaration of Trust, Informal Trusts
+Source: Paul v Constance [1977] 1 WLR 527 (Court of Appeal) — Applied in Nigerian equity
+
+CASE NAME: Paul v Constance [1977] 1 WLR 527
+
+FACTS:
+Mr Constance separated from his wife and began living with Mrs Paul. He received compensation money from an injury at work and deposited it into a bank account in his sole name. On several occasions, Constance said to Paul "the money is as much yours as mine." He also deposited bingo winnings shared between them into the same account. When Constance died intestate, his estranged wife claimed the money in the account. Mrs Paul claimed she was entitled to half as a beneficiary under an express trust.
+
+ISSUE:
+Was there a valid declaration of trust over the bank account in favour of Mrs Paul, given that Constance never used the technical language of trusts?
+
+HELD (Court of Appeal):
+A valid express trust had been declared over the money in the account. Constance's repeated statements that "the money is as much yours as mine" were, in the context of their relationship and conduct, sufficient to constitute a declaration of trust. Technical language is not required — what matters is that the owner of property makes sufficiently clear, by words or conduct, an intention to hold it on trust for another.
+
+KEY PRINCIPLES:
+
+EXPRESS DECLARATION OF TRUST:
+1. NO MAGIC WORDS REQUIRED: A settlor need not use the word "trust" — the intention to hold property for another's benefit, clearly manifested, is sufficient
+2. CONTEXT MATTERS: Words that are informal or even ambiguous may constitute a declaration of trust when understood in context — including the conduct of the parties, their relationship, and their dealings with the property
+3. CERTAINTY OF INTENTION: The declaration must demonstrate a clear intention to create a trust — the court asks whether an objectively reasonable person would understand the words/conduct as constituting a trust
+4. SUBJECT MATTER MUST BE CERTAIN: The property subject to the trust must be identifiable (here: the bank account)
+5. BENEFICIARIES MUST BE CERTAIN: The persons entitled must be identifiable (here: Mrs Paul)
+
+THE THREE CERTAINTIES (recap):
+A valid express trust requires:
+1. CERTAINTY OF INTENTION — words or conduct showing the intention to create a trust obligation
+2. CERTAINTY OF SUBJECT MATTER — the trust property must be identifiable
+3. CERTAINTY OF OBJECTS — the beneficiaries must be identifiable
+
+If any of the three certainties is absent, no trust arises.
+
+SELF-DECLARATION AS AN ALTERNATIVE TO TRANSFER:
+Paul v Constance illustrates that a trust can be created by a self-declaration — where the legal owner declares themselves trustee for another. No transfer of property is needed. This contrasts with Milroy v Lord where the settler tried (and failed) to transfer property to a third-party trustee.
+
+RESULTING TRUST — ALTERNATIVE ANALYSIS:
+Had no express trust been found, a resulting trust might have arisen from the deposit of bingo winnings shared between Constance and Paul — in proportion to their respective contributions. Paul v Constance was decided on express trust grounds, making it unnecessary to rely on resulting trust.
+
+FORMALITIES FOR DECLARATIONS OF TRUST:
+- LAND: A declaration of trust of land must be in writing and signed — s.7 of the Statute of Frauds 1677 (and Nigerian equivalent under the Property and Conveyancing Law)
+- PERSONALTY (including money, bank accounts, shares): No writing required — an oral declaration of trust of personal property is valid (as in Paul v Constance)
+- Once constituted, the beneficiary acquires an equitable interest that binds the trustee and third parties with notice
+
+APPLICATION IN NIGERIA:
+Paul v Constance is a leading authority on informal declarations of trust applied in Nigerian equity proceedings. Particularly relevant in family law, cohabitation disputes, and situations where one person holds property that another has contributed to or been promised a share of. The case demonstrates that equity looks to substance over form — a clear intention to share property, evidenced by conduct and statements, can create an enforceable trust even without legal formalities (except for land).
+
+CITATION: [1977] 1 WLR 527

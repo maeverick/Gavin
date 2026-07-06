@@ -1,0 +1,31 @@
+Subject: Criminal Law — Necessity as a Defence
+Source: R v Dudley and Stephens (1884) 14 QBD 273 — Applied in Nigerian criminal law
+
+CASE NAME: R v Dudley and Stephens (1884) 14 QBD 273
+
+FACTS:
+The defendants, Dudley and Stephens, were shipwrecked on a small lifeboat with a cabin boy, Parker, and a fourth crew member, Brooks. After 20 days at sea with no food and no prospect of rescue, Dudley and Stephens killed and ate Parker, who was the weakest and near death. Four days later they were rescued. They were charged with murder.
+
+ISSUE:
+Is necessity a complete defence to murder?
+
+HELD (Queen's Bench Division):
+No. Necessity is not a defence to murder. The defendants were convicted of murder (later commuted to six months imprisonment by Royal Prerogative). The court rejected the argument that the necessity of self-preservation could justify taking an innocent life.
+
+KEY PRINCIPLES:
+1. NECESSITY IS NOT A DEFENCE TO MURDER: Where the charge is murder, the taking of an innocent life to save one's own cannot be justified by necessity
+2. THE VALUE OF HUMAN LIFE: The law cannot weigh human lives against each other — the life of an innocent person cannot be sacrificed to preserve others
+3. NECESSITY AS A DEFENCE GENERALLY: Necessity may be available as a defence in less serious offences where:
+   (a) There is an imminent threat of death or serious harm
+   (b) The accused reasonably believed it was necessary
+   (c) The response was proportionate
+   (d) The harm caused was not disproportionate to the harm avoided
+4. DURESS of circumstances (modern development): differs from necessity — focuses on threats from another person
+
+LIMITATIONS IN NIGERIA:
+Under the Criminal Code Act, necessity is not expressly codified as a general defence. Section 25 provides a limited defence of compulsion. Courts have generally held that necessity cannot justify murder.
+
+APPLICATION IN NIGERIA:
+R v Dudley and Stephens is applied in Nigerian criminal law to establish that necessity cannot justify the deliberate killing of an innocent person. The case is fundamental to understanding the limits of defences in criminal law and the absolute protection afforded to human life. Discussed in Nigerian criminal law courses in relation to defences, homicide, and the criminal law of self-preservation.
+
+CITATION: (1884) 14 QBD 273

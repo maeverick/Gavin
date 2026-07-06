@@ -1,0 +1,36 @@
+Subject: Contract Law — Incorporation of Terms by Signature
+Source: L'Estrange v F Graucob Ltd [1934] 2 KB 394
+
+CASE NAME: L'Estrange v F Graucob Ltd [1934] 2 KB 394
+
+FACTS:
+The plaintiff, a café owner, purchased an automatic cigarette vending machine from the defendants. She signed a sales agreement without reading it. The agreement contained in small print a clause excluding all conditions, warranties and liabilities implied by statute or common law. The machine was faulty. The plaintiff sued for breach of the implied condition of merchantable quality. The defendants relied on the exclusion clause.
+
+ISSUE:
+Is a party bound by the terms of a written document they have signed, even if they have not read it?
+
+HELD (Divisional Court):
+Yes. When a party signs a contractual document they are bound by its terms, whether or not they have read them, provided:
+(a) There is no misrepresentation as to the nature of the document
+(b) There is no non est factum (it is not my deed) defence available
+
+The plaintiff was bound by the exclusion clause she had signed even though she had not read it and the clause was in small print.
+
+KEY PRINCIPLES:
+1. SIGNATURE RULE: A party who signs a document is presumed to have read and agreed to all its terms
+2. Ignorance of the terms is no defence — the signature manifests assent
+3. EXCEPTIONS to the signature rule:
+   (a) Misrepresentation — if the other party misrepresented the effect of a clause
+   (b) Non est factum — if the signer was misled about the fundamental nature of the document (limited to those with disability or extreme old age who are not negligent)
+   (c) Fraud or duress
+4. The rule applies even to onerous or unusual terms if the document is signed
+
+DISTINCTION — UNSIGNED DOCUMENTS:
+For unsigned documents (tickets, notices), terms are only incorporated if:
+(a) Reasonable notice was given before or at the time of contracting (Parker v South Eastern Railway)
+(b) Unusual or onerous terms require special, prominent notice (Interfoto Picture Library v Stiletto)
+
+APPLICATION IN NIGERIA:
+L'Estrange v Graucob is the leading authority on incorporation of contractual terms by signature in Nigerian law. Applied in cases involving standard form contracts, bank account agreements, insurance policies, and commercial contracts. Nigerian courts consistently hold that a party who signs is bound regardless of whether they read the document.
+
+CITATION: [1934] 2 KB 394

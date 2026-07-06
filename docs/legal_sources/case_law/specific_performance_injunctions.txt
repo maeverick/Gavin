@@ -1,0 +1,79 @@
+Subject: Equity and Trusts — Specific Performance, Injunctions, Equitable Remedies
+Source: Specific performance and injunctions under Nigerian equity; Beswick v Beswick [1968]; Lumley v Wagner (1852); Nigerian case law
+
+EQUITABLE REMEDIES IN NIGERIA: SPECIFIC PERFORMANCE AND INJUNCTIONS
+
+EQUITABLE REMEDIES — GENERAL PRINCIPLES:
+Equitable remedies are discretionary — unlike the common law right to damages, equity will not grant specific performance or an injunction as of right. The court considers:
+1. Whether damages would be an adequate remedy
+2. The conduct of the parties (clean hands doctrine)
+3. Delay (laches)
+4. The balance of hardship
+
+SPECIFIC PERFORMANCE:
+
+DEFINITION:
+An order of specific performance compels a party to perform their contractual obligations. It is the primary remedy for breach of a contract for the sale of land.
+
+WHEN SPECIFIC PERFORMANCE IS GRANTED:
+1. DAMAGES ARE INADEQUATE: The primary requirement — specific performance is ordered only where monetary compensation would not adequately compensate the claimant
+2. LAND AND PROPERTY: Every piece of land is considered unique — specific performance is almost always available for breach of a contract to sell land (Adagun v Faloye — Nigerian authority)
+3. UNIQUE GOODS: Specific performance may be ordered for goods with unique characteristics where damages cannot compensate (e.g., a famous painting, a one-of-a-kind item)
+4. THE CONTRACT IS VALID AND ENFORCEABLE: The contract must satisfy all requirements — offer, acceptance, consideration, capacity, legality, and any required formalities
+
+WHEN SPECIFIC PERFORMANCE IS REFUSED:
+1. CONSTANT SUPERVISION: Contracts requiring ongoing supervision by the court are not specifically enforced (Ryan v Mutual Tontine Association [1893]) — e.g., contracts for personal services
+2. PERSONAL SERVICE CONTRACTS: Cannot be specifically enforced (cannot compel a person to work for another) — De Francesco v Barnum (1890)
+3. MUTUALITY: Specific performance should be available to both parties — if one party could not have obtained it, it will generally not be granted against the other (subject to exceptions)
+4. HARDSHIP: Where enforcement would cause severe hardship to the defendant disproportionate to the benefit to the claimant
+5. WANT OF CLEAN HANDS: A claimant who has acted inequitably in connection with the contract will be refused the remedy
+6. LACHES: Unreasonable delay by the claimant in seeking the remedy
+
+SPECIFIC PERFORMANCE IN NIGERIA:
+- Widely available for breach of contracts for the sale of land — the most common application
+- The claimant must show they were ready, willing, and able to perform their own obligations
+- Nigerian courts follow English equity principles, applied through the received common law and the Judicature Acts
+
+INJUNCTIONS:
+
+TYPES OF INJUNCTION:
+
+1. PROHIBITORY INJUNCTION:
+- Orders the defendant to refrain from doing a specified act
+- Most common type — restrains a threatened or continuing wrong
+- Examples: restraining breach of contract, nuisance, trespass, defamation
+
+2. MANDATORY INJUNCTION:
+- Orders the defendant to do a positive act
+- Granted more sparingly than prohibitory injunctions — may require supervision
+- Examples: requiring removal of a wall built in breach of covenant
+
+3. INTERLOCUTORY (INTERIM) INJUNCTION:
+- Granted before trial to preserve the status quo pending the hearing of the substantive dispute
+- Test: American Cyanamid Co v Ethicon Ltd [1975] — is there a serious issue to be tried? Would damages be adequate? What does the balance of convenience require?
+- Nigerian test: Kotoye v CBN [1989] — similar principles applied
+
+4. PERPETUAL (FINAL) INJUNCTION:
+- Granted at trial as final relief
+
+5. EX PARTE (WITHOUT NOTICE) INJUNCTION:
+- Granted urgently without hearing the defendant — only where giving notice would defeat the purpose of the order
+- Defendant must be given an early opportunity to apply to discharge
+
+THE CLEAN HANDS DOCTRINE:
+"He who comes to equity must come with clean hands."
+A claimant who has acted inequitably in connection with the subject matter of the dispute will be refused equitable relief. The misconduct need not be illegal — it must be related to the transaction in question and sufficiently serious.
+
+LACHES:
+Delay defeats equity. A claimant who sits on their rights unreasonably and allows the defendant to alter their position will be refused equitable relief. The doctrine does not apply mechanical time limits — it considers whether the delay was unreasonable and prejudicial.
+
+APPLICATION IN NIGERIA:
+Specific performance and injunctions are the cornerstone equitable remedies in Nigerian civil litigation. Specific performance is routinely sought in property disputes and commercial contracts. Interlocutory injunctions are a primary tool in commercial, employment, and constitutional law litigation. Nigerian courts have developed a rich jurisprudence on the principles governing these remedies, drawing on English equity while adapting to local conditions.
+
+KEY AUTHORITIES:
+- Beswick v Beswick [1968] AC 58 — specific performance available to enforce contract for benefit of a third party
+- Lumley v Wagner (1852) 1 De GM & G 604 — injunction to restrain breach of personal service contract (indirect enforcement)
+- Kotoye v CBN [1989] — Nigerian principles for interlocutory injunctions
+- American Cyanamid v Ethicon [1975] — balance of convenience test
+
+CITATION: Judicature Act principles (received law); Rules of Professional Conduct; Nigerian case law

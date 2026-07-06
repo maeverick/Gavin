@@ -1,0 +1,58 @@
+Subject: Evidence Law — Confessions, Retracted Confessions, Voir Dire, Nigerian Criminal Procedure
+Source: Chukwu v State [1996] 7 NWLR (Pt. 463) 686 — Nigerian Supreme Court; Evidence Act 2011 ss.28–29
+
+CASE NAME: Chukwu v State [1996] 7 NWLR (Pt. 463) 686
+
+FACTS:
+The appellant was charged with murder. During investigation, he made a confessional statement to the police which was reduced to writing and signed. At trial, the prosecution sought to tender the confessional statement in evidence. The appellant objected, alleging that the confession was obtained through torture, threats, and inducement — that it was not voluntary. The trial court admitted the statement without conducting a voir dire (trial within a trial) to determine its voluntariness, and the appellant was convicted. He appealed.
+
+ISSUE:
+Where an accused disputes the voluntariness of a confessional statement, is the trial court obliged to conduct a voir dire before admitting or rejecting the statement? And what is the effect of a retracted or disputed confession?
+
+HELD (Supreme Court):
+Where an accused person disputes the voluntariness of a confessional statement, the trial court must conduct a voir dire — a trial within a trial — to determine whether the statement was made voluntarily. Failure to conduct a voir dire where one is required is a fundamental procedural error that may render the conviction unsafe. The court also restated the principles governing retracted confessions.
+
+KEY PRINCIPLES:
+
+CONFESSIONS UNDER THE EVIDENCE ACT 2011:
+- s.28 Evidence Act: A confession is an admission made at any time by a person charged with a crime stating or suggesting that he committed that crime
+- s.29 Evidence Act: A confession is not admissible if it was obtained by oppression, or in consequence of anything said or done which was likely to render it unreliable
+
+VOLUNTARINESS — THE FOUNDATIONAL REQUIREMENT:
+A confession is only admissible if it was made voluntarily — i.e., without being induced by any threat, promise, or oppressive conduct (physical or psychological) emanating from a person in authority (typically a police officer or investigator).
+
+THE IBRAHIM TEST (applied in Nigeria):
+Ibrahim v R [1914] AC 599 established the rule: a confession is only admissible if it was free and voluntary — not extracted by any sort of threats or violence, nor obtained by any direct or implied promises, however slight.
+
+THE VOIR DIRE PROCEDURE:
+Where the voluntariness of a confession is challenged:
+1. The accused signals to the court that they dispute the confession — alleging threats, torture, inducement, or oppression
+2. The court conducts a voir dire — a trial within a trial on the single issue of whether the confession was voluntarily made
+3. At the voir dire, the prosecution calls evidence to establish voluntariness (the police officers who obtained the statement); the accused may give evidence and cross-examine
+4. The court then rules — if the confession was voluntary, it is admitted; if not, it is excluded
+5. Evidence given at the voir dire is not evidence on the substantive charge — it is strictly limited to the admissibility question
+
+THE EFFECT OF WRONGLY ADMITTING A CONFESSION:
+- If the court wrongly admits a confession that was not made voluntarily, this is a fundamental error
+- It does not automatically quash the conviction — the appellate court asks whether a conviction on the remaining evidence would have been inevitable
+- However, where the confession was the only or principal evidence, the conviction will likely be quashed
+
+RETRACTED CONFESSIONS — THE PRINCIPLES:
+A retracted confession is one that the accused, having made it, subsequently withdraws or denies at trial. The law is:
+1. A retracted confession is still admissible — the accused's retraction goes to WEIGHT, not to admissibility
+2. A court may convict on the basis of a retracted confession if it is satisfied that the confession was in fact made and was true
+3. Where the only evidence of guilt is the retracted confession, the court may still convict — but must be especially careful to scrutinise the confession to ensure it is cogent, detailed, and consistent with other established facts
+
+THE CORROBORATION PRINCIPLE:
+Although a court may technically convict on an uncorroborated retracted confession, Nigerian courts have developed a practice (bordering on a rule) of looking for corroboration before acting on a retracted confession. Corroboration may be found in:
+- Physical evidence consistent with the facts stated in the confession
+- Evidence of other witnesses
+- Post-statement conduct of the accused consistent with guilt
+
+CONFESSIONS AND CO-ACCUSED:
+A confession made by one accused is evidence only against the maker — it is not evidence against a co-accused. Where multiple accused persons are tried together and one has confessed, the jury/court must be directed to use the confession only against the maker.
+
+APPLICATION IN NIGERIA:
+Chukwu v State is the leading authority on the voir dire procedure in Nigerian criminal trials. The requirement of a voir dire is strictly enforced by the Supreme Court — failure to conduct one when required has led to numerous appeals being allowed and convictions quashed. Practitioners appearing in criminal cases must be alert to any indication that the accused disputes the voluntariness of a confessional statement — the trial judge must be asked to conduct a voir dire immediately. The principles on retracted confessions are equally important — many accused persons retract confessions at trial, and the court must carefully assess whether the confession bears the hallmarks of reliability.
+
+CITATION: [1996] 7 NWLR (Pt. 463) 686 (SC); Evidence Act 2011, ss.28–29

@@ -1,0 +1,37 @@
+Subject: Contract Law — Promissory Estoppel
+Source: Central London Property Trust Ltd v High Trees House Ltd [1947] KB 130 (King's Bench)
+
+CASE NAME: Central London Property Trust Ltd v High Trees House Ltd [1947] KB 130
+
+FACTS:
+In 1937, the plaintiff let a block of flats to the defendant at a rent of £2,500 per year. Due to the Second World War, the flats could not be fully let. In 1940, the parties agreed in writing to reduce the rent to £1,250. No consideration was given for this reduction. After the war, when the flats were fully occupied, the plaintiff claimed the full rent going forward. The question arose whether the plaintiff could also claim the arrears of rent at the full rate for the war years.
+
+ISSUE:
+Where a party makes a clear and unambiguous promise to accept less than their strict legal rights, and the other party has acted upon it, can the promisor simply go back on the promise?
+
+HELD (Denning J):
+A promise intended to be binding, intended to be acted upon, and in fact acted upon, is binding to the extent that it will not be allowed to be withdrawn where it would be inequitable to do so. The plaintiff could claim full rent going forward (the promise was only meant to last for the war period) but could not claim arrears during the war years.
+
+THE DOCTRINE OF PROMISSORY ESTOPPEL:
+Where:
+(a) There is an existing legal relationship between the parties
+(b) One party makes a clear and unambiguous promise to waive or not to enforce their strict legal rights
+(c) The other party relies on that promise (acts or refrains from acting)
+(d) It would be inequitable to allow the promisor to go back on the promise
+
+Then the promisor is estopped (prevented) from asserting their strict legal rights to the extent that it would be inequitable.
+
+KEY PRINCIPLES:
+1. SUSPENSORY NOT EXTINCTIVE: Promissory estoppel suspends (not extinguishes) rights — rights may revive on reasonable notice
+2. SHIELD NOT A SWORD: Promissory estoppel can only be used as a defence, not as a cause of action (it cannot found an independent claim)
+3. NO CONSIDERATION REQUIRED: The promisee need not provide consideration for the promise
+4. INEQUITY: The court asks whether it would be inequitable for the promisor to go back on the promise
+5. EXISTING RELATIONSHIP: There must be an existing legal relationship — the doctrine does not apply to create new rights
+
+RELATIONSHIP WITH FOAKES v BEER:
+Foakes v Beer (1884) held that part payment of a debt is no satisfaction. High Trees creates an equitable exception where the creditor has clearly promised to accept less and the debtor has relied — the creditor cannot then resile and claim the balance.
+
+APPLICATION IN NIGERIA:
+Central London v High Trees is applied in Nigerian contract law as the foundational authority on promissory estoppel. Nigerian courts apply the doctrine as a shield — a defence against a claim that the promisor has promised not to enforce. Applied in commercial disputes, landlord-tenant cases, and cases involving waivers of contractual rights.
+
+CITATION: [1947] KB 130; [1946] 1 All ER 256

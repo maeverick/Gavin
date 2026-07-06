@@ -1,0 +1,71 @@
+Subject: Land Law — Proof of Title, Five Methods of Proving Ownership of Land
+Source: Idundun v Okumagba [1976] 9-10 SC 227 — Nigerian Supreme Court
+
+CASE NAME: Idundun v Okumagba [1976] 9-10 SC 227
+
+FACTS:
+The plaintiff claimed title to a piece of land against the defendant. The central question in the case was what methods a claimant may legitimately use to prove title to land in Nigeria. The Supreme Court took the opportunity to comprehensively enumerate and explain the recognised methods of proving ownership of land.
+
+ISSUE:
+What are the recognised methods by which a party may prove title to land in a Nigerian court?
+
+HELD (Supreme Court):
+Title to land in Nigeria may be established by any of five recognised methods. The Supreme Court enumerated these methods clearly and stated that each is a sufficient, independent basis for a declaration of title if established on the facts. Proof by any one of the five methods is enough — a claimant is not required to establish all five.
+
+THE FIVE METHODS OF PROVING TITLE TO LAND:
+
+1. TRADITIONAL EVIDENCE OF ORIGINAL OWNERSHIP:
+Evidence of how the land was originally acquired by the claimant's predecessors — by settlement, by conquest, by gift, by purchase from the original owner, or by grant from a competent authority. The claimant traces title from the root — the first acquisition — through to themselves by a chain of inheritance, grant, or purchase.
+
+Key requirements:
+- The root of title must be clear and uncontradicted
+- The chain of devolution from the original owner to the claimant must be established
+- Oral evidence of customary law transactions (gifts, inheritances) is admissible
+
+2. PRODUCTION OF DOCUMENTS OF TITLE:
+Production of registered title documents, deeds of conveyance, deeds of assignment, governor's consent (under the Land Use Act), statutory rights of occupancy, customary rights of occupancy, or other instruments vesting title in the claimant.
+
+Key requirements:
+- Documents must be genuine and properly executed
+- Where land is governed by the Land Use Act 1978, governor's consent to any alienation is required (s.22 LUA) — a transaction without consent is void
+- Under the Land Use Act, the highest form of title is a Certificate of Occupancy (C of O)
+
+3. ACTS OF LONG POSSESSION AND ENJOYMENT:
+Evidence of long, uninterrupted, exclusive, and open possession and enjoyment of land under a claim of right. This method reflects the principle that long possession itself is evidence of title.
+
+Key requirements:
+- Possession must be long, consistent, and uninterrupted
+- Must be open and adverse — not permissive or by leave of another
+- Must be under a claim of right (not acknowledging another's superior title)
+- Factual examples: paying taxes on the land, building on it, farming it, granting portions to others
+
+4. ACTS OF OWNERSHIP OVER CONNECTED OR ADJACENT LAND:
+Where the claimant cannot establish direct possession of the exact parcel in dispute, evidence of ownership of adjacent or connected parcels may support the claim over the disputed land. The inference is that one who clearly owns surrounding land probably owns the disputed piece as well.
+
+Key requirements:
+- The adjacent land must be clearly the claimant's
+- The disputed land must be contiguous or closely connected
+- The inference must be reasonable on the facts
+
+5. PROOF OF POSSESSION OF CONNECTED LAND:
+Similar to method 4 — where a claimant proves possession of land contiguous or closely related to the land in dispute, this may be used to support a claim of title to the disputed portion. In practice, methods 4 and 5 are often cited together and the distinction may be one of degree.
+
+BURDEN OF PROOF IN LAND CASES:
+- The plaintiff who claims title to land bears the burden of proof — on the balance of probabilities in civil cases
+- The plaintiff must prove their own title by credible evidence using one or more of the five methods
+- A plaintiff does not succeed by showing weakness in the defendant's title — their own title must be positively established: Kodilinye v Odu [1935]
+
+CERTIFICATE OF OCCUPANCY (C OF O):
+- A Certificate of Occupancy issued by the government is prima facie evidence of a right of occupancy
+- It can be challenged by showing fraud, irregularity in its grant, or that it was issued over land already subject to another valid right
+- The C of O does not necessarily determine who the "true owner" is under customary law — it grants a statutory right
+
+FAMILY LAND:
+- Under customary law, land may be held by a family collectively
+- No individual member can alienate family land without consent of the family head and principal members
+- A grant of family land without proper consent is voidable
+
+APPLICATION IN NIGERIA:
+Idundun v Okumagba is the most frequently cited case in Nigerian land law. It is virtually impossible to conduct a land dispute case without reference to it. Every counsel in a title action must frame their client's case within one or more of the five methods. Trial judges routinely structure their analysis of the evidence around the Idundun framework. The case is of equal importance whether the dispute involves urban property under the Land Use Act or rural/customary land.
+
+CITATION: [1976] 9-10 SC 227; also reported as [1976] 1 NMLR 200

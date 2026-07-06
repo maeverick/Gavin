@@ -1,0 +1,50 @@
+Subject: Equity and Trusts — Common Intention Constructive Trust, Beneficial Interests in Family Home
+Source: Lloyds Bank Plc v Rosset [1991] 1 AC 107 (House of Lords) — Applied in Nigerian property and equity law
+
+CASE NAME: Lloyds Bank Plc v Rosset [1991] 1 AC 107
+
+FACTS:
+Mr and Mrs Rosset purchased a semi-derelict farmhouse, with the purchase price coming entirely from a trust fund in Mr Rosset's family. The property was registered in Mr Rosset's sole name. Mrs Rosset supervised extensive renovation works, directed contractors, and undertook some decorating herself. Mr Rosset mortgaged the property to Lloyds Bank without Mrs Rosset's consent. When he defaulted, the bank sought possession. Mrs Rosset claimed an overriding interest in the property based on a constructive trust arising from her contributions.
+
+ISSUE:
+Did Mrs Rosset have a beneficial interest in the property under a common intention constructive trust, capable of binding the bank?
+
+HELD (House of Lords, per Lord Bridge):
+Mrs Rosset did not have a beneficial interest. There was no evidence of any express common intention between the parties that she was to have a beneficial interest. Her contributions — supervising builders and doing some decorating — fell far short of what would be required to give rise to a constructive trust in the absence of an express common intention. The bank was entitled to possession.
+
+KEY PRINCIPLES:
+
+THE TWO CATEGORIES OF COMMON INTENTION CONSTRUCTIVE TRUST:
+
+CATEGORY 1 — EXPRESS COMMON INTENTION:
+- There is evidence of an express agreement, arrangement, or understanding between the parties that the property is to be shared beneficially
+- The non-legal-owner must have acted to their detriment in reliance on that common intention
+- Once established, the court gives effect to the trust — the size of the share is determined by what is fair having regard to the whole course of dealing (Stack v Dowden [2007])
+- Evidence of express intention: discussions, assurances ("this will be your home too"), promises made during negotiations
+
+CATEGORY 2 — INFERRED COMMON INTENTION FROM CONDUCT:
+- No express discussion — the court infers a common intention from the parties' conduct
+- Lord Bridge: the only conduct sufficient to infer a common intention is DIRECT FINANCIAL CONTRIBUTION to the purchase price or mortgage repayments
+- Mere domestic contributions (cooking, childcare, decorating) are NOT sufficient to infer a common intention
+- Supervising builders, doing minor renovations — NOT sufficient (on the Rosset facts)
+
+QUANTIFYING THE BENEFICIAL INTEREST:
+Once a constructive trust is established, the court must quantify the share:
+- Express intention: the court gives effect to the parties' stated intention
+- Inferred intention: the court looks at the whole course of dealing to determine a fair share — Stack v Dowden [2007]; Jones v Kernott [2011]
+- Resulting trust approach (proportional to financial contribution) may also be used where no common intention on quantum can be found
+
+DETRIMENT:
+- Detrimental reliance is essential to Category 1 (express common intention)
+- The non-owner must have acted differently because of the shared intention — moved in, given up other housing, contributed to the property
+- Detriment need not be financial — it can include personal sacrifice or significant lifestyle changes made in reliance on the shared intention
+
+RELATIONSHIP TO PROPRIETARY ESTOPPEL:
+- Constructive trust and proprietary estoppel overlap significantly in family property cases
+- Key difference: constructive trust gives rise to a specific property right from the outset; proprietary estoppel gives rise to an "equity" satisfied by the court in the most appropriate way
+- In practice, Nigerian courts may approach either doctrine flexibly to achieve a just result
+
+APPLICATION IN NIGERIA:
+Lloyds Bank v Rosset is the foundational authority on common intention constructive trusts applied in Nigerian family property disputes. Where property is registered in one spouse's or partner's name but the other claims a beneficial share, Nigerian courts apply the Rosset two-category framework. The strict requirement for direct financial contribution in Category 2 has been criticised as harsh on non-earning partners (typically women). Nigerian courts have shown some flexibility in extending the categories where justice demands, particularly in matrimonial property disputes under the Matrimonial Causes Act.
+
+CITATION: [1991] 1 AC 107

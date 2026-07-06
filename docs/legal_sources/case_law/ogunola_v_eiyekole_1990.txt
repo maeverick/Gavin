@@ -1,0 +1,61 @@
+Subject: Land Law — Customary Tenancy, Forfeiture, Customary Land Rights
+Source: Ogunola v Eiyekole [1990] 4 NWLR (Pt. 146) 632 — Nigerian Supreme Court
+
+CASE NAME: Ogunola v Eiyekole [1990] 4 NWLR (Pt. 146) 632
+
+FACTS:
+The respondents' ancestors were granted land by the appellants' ancestors under a customary tenancy arrangement. Under the customary tenancy, the tenants were obliged to pay periodic tribute (known as "ishakole") to the overlord (the grantor family). Over time, the tenants stopped paying tribute and began to claim the land as their absolute property, denying the appellants' superior title. The appellants sought forfeiture of the customary tenancy and recovery of possession.
+
+ISSUE:
+What are the rules governing customary tenancies, and in what circumstances may a customary landlord forfeit the tenancy?
+
+HELD (Supreme Court):
+The respondents held the land as customary tenants. Their refusal to pay tribute and their denial of the appellants' superior title constituted a repudiation of the tenancy, amounting to conduct warranting forfeiture. The appellants were entitled to recover possession.
+
+KEY PRINCIPLES:
+
+THE CUSTOMARY TENANCY IN NIGERIA:
+A customary tenancy (also called a customary right of occupancy under customary law) is a form of land holding under which:
+- A landowner (the "overlord" or "grantor family") grants land to a tenant (a stranger, immigrant, or settler)
+- The tenant holds the land on terms customary to the area — usually including payment of tribute (ishakole, osu, or similar)
+- The grant is usually permanent in character — the tenant cannot be arbitrarily ejected as long as they observe the terms
+- The tenant's right is heritable — it passes to their descendants
+
+OBLIGATIONS OF THE CUSTOMARY TENANT:
+1. PAYMENT OF TRIBUTE (ISHAKOLE/OSU): The most common obligation — periodic payment of a portion of produce or a fixed sum to acknowledge the overlord's superior title
+2. ACKNOWLEDGMENT OF SUPERIOR TITLE: The tenant must not deny or challenge the overlord's reversionary interest
+3. RENDERING CUSTOMARY SERVICES: In some communities, customary services (attending the overlord's functions, assisting in community obligations) may be required
+4. NOT ALIENATING WITHOUT CONSENT: The tenant generally cannot assign or sublet the land without the overlord's consent
+
+RIGHTS OF THE CUSTOMARY TENANT:
+- Right to exclusive possession as against everyone except the overlord
+- Right to cultivate, build, and make improvements
+- Right to transmit the tenancy to descendants by inheritance
+- Right not to be evicted as long as customary obligations are observed
+
+GROUNDS FOR FORFEITURE OF CUSTOMARY TENANCY:
+1. FAILURE TO PAY TRIBUTE: Persistent non-payment of tribute is the most common ground
+2. DENIAL OF SUPERIOR TITLE: Where the tenant claims the land as their own absolute property, repudiating the overlord's title — this is the most serious breach
+3. ABANDONMENT: Where the tenant abandons the land for an extended period
+4. COMMITTING WASTE: Seriously damaging or degrading the land
+5. ALIENATION WITHOUT CONSENT: Selling or subletting without the overlord's permission
+
+PROCEDURE FOR FORFEITURE:
+- The overlord must demand performance of the obligation (payment of tribute, acknowledgment of title) before seeking forfeiture
+- Where the ground is denial of title, no prior demand may be necessary — the denial itself is the breach
+- Forfeiture is sought by action in court — the overlord cannot resort to self-help (forcibly ejecting the tenant)
+
+THE LAND USE ACT AND CUSTOMARY TENANCY:
+The Land Use Act 1978 vests all land in each state in the Governor. This has affected customary land tenure:
+- Land in urban areas is governed entirely by the LUA — customary tenancies in urban areas are converted to statutory rights of occupancy
+- Land in rural areas may still be held under customary law — the Governor has power to grant customary rights of occupancy in rural areas
+- The interaction between the LUA and pre-existing customary tenancies remains a complex area of Nigerian land law
+
+DISTINCTION — CUSTOMARY TENANCY vs STATUTORY TENANCY (RENT ACT):
+- Customary tenancy: based on customary law; the tenancy arises from a grant by an overlord family under customary terms
+- Statutory tenancy: based on the Recovery of Premises Law or Rent Control Law; governed entirely by statute; applies typically to urban residential and commercial premises
+
+APPLICATION IN NIGERIA:
+Ogunola v Eiyekole is a key authority on customary tenancy and forfeiture in Nigerian land law. The case is particularly relevant in communities in Yoruba, Edo, and other areas where customary tenancy arrangements are common. It establishes that denial of the overlord's title is the most egregious breach and automatically warrants forfeiture. Nigerian courts regularly deal with disputes between overlord families and long-established tenants, especially where urban development has increased the value of previously rural land and tenants seek to assert absolute ownership.
+
+CITATION: [1990] 4 NWLR (Pt. 146) 632

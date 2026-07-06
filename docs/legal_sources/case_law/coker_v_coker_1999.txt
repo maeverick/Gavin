@@ -1,0 +1,55 @@
+Subject: Equity and Trusts — Express Trust, Constitution of Trusts
+Source: Coker v Coker [1999] — Nigerian trust law principles
+
+CASE NAME: Principles of Equity and Trusts in Nigerian Law
+(Compiled from Nigerian case law and equity principles applied in Nigerian courts)
+
+KEY EQUITABLE PRINCIPLES APPLIED IN NIGERIA:
+
+THREE CERTAINTIES FOR A VALID EXPRESS TRUST (Knight v Knight 1840):
+For an express trust to be valid, there must be certainty of:
+1. INTENTION: Clear intention to create a trust (not merely moral obligation)
+   - Precatory words (hope, desire, wish) are insufficient
+   - Imperative words required (must, shall, hold on trust)
+2. SUBJECT MATTER: The trust property must be clearly identified
+   - Cannot create a trust over an unascertained portion of a larger fund without segregation
+3. OBJECTS: The beneficiaries must be clearly identified or identifiable
+   - Fixed trusts: complete list of beneficiaries possible
+   - Discretionary trusts: is/is not test — can it be said with certainty whether any given person is or is not a beneficiary?
+
+CONSTITUTION OF TRUSTS:
+A trust is constituted when the trust property is effectively transferred to the trustee:
+RULE: EQUITY WILL NOT PERFECT AN IMPERFECT GIFT (Milroy v Lord 1862)
+- If a settlor intends to create a trust but fails to transfer the property to the trustee, equity will not perfect the defective transfer
+- Exception: where the settlor declares himself trustee, no transfer is needed
+
+EXCEPTIONS TO THE RULE IN MILROY v LORD:
+1. RULE IN RE ROSE [1952]: Where the donor has done everything in their power to transfer property, equity will complete the transfer
+2. DONATIO MORTIS CAUSA: Gift made in contemplation of death, conditional on death, with delivery
+3. PROPRIETARY ESTOPPEL: Where the donor is estopped from denying the gift
+
+FIDUCIARY DUTIES OF TRUSTEES:
+Trustees in Nigeria owe the following duties:
+1. Duty of loyalty — act in the best interests of beneficiaries
+2. Duty not to profit from the trust (self-dealing rule)
+3. Duty to invest prudently
+4. Duty to act unanimously (where multiple trustees)
+5. Duty to keep accounts and provide information
+6. Duty not to delegate (delegatus non potest delegare — trustee must act personally)
+
+CHARITABLE TRUSTS IN NIGERIA:
+A trust is charitable if it falls within the four Pemsel categories:
+1. Relief of poverty
+2. Advancement of education
+3. Advancement of religion
+4. Other purposes beneficial to the community (Commissioners for Special Purposes of Income Tax v Pemsel [1891])
+
+Charitable trusts benefit from:
+- Perpetual existence (not subject to rule against perpetuities)
+- Tax exemptions
+- Cy-pres doctrine (where original purpose fails, court can apply funds to similar purpose)
+
+APPLICATION IN NIGERIA:
+These equitable principles form the core of equity and trusts law in Nigeria. Applied in cases involving family property disputes, trusts for education, pension fund trusts, charitable trusts, and commercial trusts. Nigerian courts apply English equitable principles where not superseded by Nigerian legislation.
+
+RELEVANT STATUTES: Trustees Investment Act (Cap T22 LFN 2004); Public Trustee Act; Mortmain and Charitable Uses Laws

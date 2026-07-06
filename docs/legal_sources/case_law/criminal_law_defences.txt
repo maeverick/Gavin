@@ -1,0 +1,68 @@
+Subject: Criminal Law — General Defences under the Criminal Code Act
+Source: Criminal Code Act Cap C38 LFN 2004; key defences in Nigerian criminal law
+
+GENERAL DEFENCES IN NIGERIAN CRIMINAL LAW:
+
+1. SELF-DEFENCE (Section 32(3) Criminal Code Act):
+A person is not criminally responsible for an act done in the exercise of the right of self-defence.
+CONDITIONS:
+(a) The accused must have reasonably believed they were in imminent danger of death or grievous bodily harm
+(b) The force used must be reasonably proportionate to the threat
+(c) The accused must not have provoked the attack
+(d) There must be no opportunity to retreat in complete safety (in some circumstances)
+
+2. PROVOCATION (Section 283 — Manslaughter):
+Provocation may reduce murder to manslaughter where:
+(a) The accused was deprived of self-control by the provocation
+(b) The provocation was sudden (not time to cool)
+(c) The force used was proportionate to the provocation
+OBJECTIVE TEST: Would a reasonable person in the accused's circumstances have lost self-control?
+
+3. INSANITY — M'NAGHTEN RULES [1843]:
+An accused is not guilty by reason of insanity if at the time of the act they were:
+(a) Suffering from a DISEASE OF THE MIND such that they did not know:
+   (i) The NATURE AND QUALITY of the act, OR
+   (ii) That what they were doing was WRONG
+NOTE: The burden of proving insanity lies on the ACCUSED on the balance of probabilities
+DISPOSAL: Accused found not guilty by reason of insanity may be detained in a psychiatric facility
+
+4. AUTOMATISM:
+A person who acts in a state of automatism (without conscious control) is not criminally responsible.
+TYPES:
+- Insane automatism: caused by internal factor (disease of the mind) — treated as insanity defence
+- Sane automatism: caused by external factor (blow to the head, etc.) — complete acquittal
+
+5. INTOXICATION:
+VOLUNTARY INTOXICATION: Generally no defence — the accused is responsible for getting drunk
+EXCEPTION: For specific intent offences, evidence of intoxication may negate the mens rea
+INVOLUNTARY INTOXICATION: May be a complete defence if it negated the mens rea
+
+6. DURESS:
+A person who commits a crime under immediate threat of death or serious injury may be excused.
+CONDITIONS:
+(a) Imminent threat of death or serious injury
+(b) From a person present (or immediately capable of carrying out the threat)
+(c) The threat must be so great that a person of reasonable firmness would also have yielded
+LIMITATIONS: Duress is NOT available for murder (R v Howe [1987])
+
+7. NECESSITY:
+Generally NOT a defence to murder (R v Dudley and Stephens [1884])
+May be available for less serious offences where:
+(a) There is an immediate peril of death or serious injury
+(b) No reasonable alternative available
+(c) The harm caused is not disproportionate to the harm avoided
+
+8. MISTAKE:
+An honest and reasonable mistake of FACT may negative the mens rea
+MISTAKE OF LAW: Generally no defence — "ignorance of the law is no excuse" (ignorantia juris non excusat)
+
+9. CONSENT:
+Consent may be a defence in some offences (e.g., assault, battery)
+BUT consent is NOT a defence where:
+(a) The harm caused is more than merely transient or trifling (R v Brown [1994])
+(b) The offence is of a nature that cannot be consented to (e.g., murder)
+
+APPLICATION IN NIGERIA:
+These defences are codified in the Criminal Code Act (Southern Nigeria) and Penal Code (Northern Nigeria) and are applied in criminal trials throughout Nigeria. Understanding the elements and limitations of each defence is essential for the Nigerian Bar examination in Criminal Law and Procedure.
+
+CITATION: Criminal Code Act Cap C38 LFN 2004, Sections 24-32

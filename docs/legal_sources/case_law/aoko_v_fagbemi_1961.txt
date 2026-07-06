@@ -1,0 +1,57 @@
+Subject: Criminal Law — Provocation, Manslaughter, Loss of Self-Control
+Source: Aoko v Fagbemi & Anor [1961] 1 All NLR 400 — Nigerian Supreme Court
+
+CASE NAME: Aoko v Fagbemi & Anor [1961] 1 All NLR 400
+
+FACTS:
+The accused found his wife in a compromising position with another man (the deceased). In a state of violent emotion on witnessing this, the accused killed the deceased. The trial court convicted him of murder. The question on appeal was whether the defence of provocation was available to reduce the conviction to manslaughter, given that the accused had acted in the heat of passion upon sudden provocation.
+
+ISSUE:
+Was the defence of provocation available to the accused, and if so, what is the proper test for provocation in Nigerian criminal law?
+
+HELD:
+The defence of provocation applied. The Supreme Court considered the circumstances — the sudden discovery of a spouse's infidelity — as capable of amounting to sufficient provocation for the purposes of the Criminal Code. A conviction for manslaughter was substituted for murder.
+
+KEY PRINCIPLES:
+
+THE DEFENCE OF PROVOCATION (CRIMINAL CODE ACT, S.283):
+"When a person who unlawfully kills another under circumstances which, but for the provisions of this section, would constitute murder, does the act which causes death in the heat of passion caused by sudden provocation, and before there is time for his passion to cool, he is guilty of manslaughter only."
+
+ELEMENTS OF THE DEFENCE:
+1. UNLAWFUL KILLING: The accused killed the deceased (all elements of murder or manslaughter present except the reduction)
+2. HEAT OF PASSION: The accused was in a state of extreme emotional disturbance — rage, fear, or similar intense emotion
+3. SUDDEN PROVOCATION: The provocation must have been sudden — not anticipated or brooded over
+4. BEFORE PASSION COOLED: There must be no significant interval between the provocation and the killing — no "cooling time." If there was time for the accused to calm down and they still killed, provocation fails.
+5. CAUSAL CONNECTION: The provocation must have actually caused the loss of self-control that led to the killing
+
+WHAT CONSTITUTES PROVOCATION:
+Under the Criminal Code s.283:
+- Unlawful assault on the accused
+- Witnessing an unlawful assault on a near relative
+- Words or gestures that cause extreme affront (in some circumstances)
+- Discovery of adultery (Aoko v Fagbemi — still good law in Nigeria)
+
+NOTE — THE OBJECTIVE ELEMENT:
+The Criminal Code s.283 uses the standard of "provocation sufficient to deprive an ordinary person of the power of self-control." Nigerian courts apply both:
+(a) SUBJECTIVE: Did the accused actually lose self-control?
+(b) OBJECTIVE: Was the provocation sufficient to cause an ordinary person to lose self-control in the same circumstances?
+
+COOLING TIME:
+If there is evidence of a significant gap between the provocation and the act of killing, during which the accused had time to compose themselves, the defence will fail. The law requires that the accused acted immediately upon the provocation. Premeditation or delay defeats the defence.
+
+PROVOCATION vs SELF-DEFENCE:
+- Provocation: the accused kills in a loss of self-control resulting from provocation — reduces murder to manslaughter; the killing is still unlawful
+- Self-defence: the accused kills in reasonable defence of themselves or another — if successful, is a complete defence and the accused is not guilty at all
+- A single set of facts may raise both defences; the jury/court considers each separately
+
+ADULTERY AS PROVOCATION:
+Aoko v Fagbemi is frequently cited for the principle that discovering a spouse in the act of adultery constitutes provocation in Nigerian criminal law — consistent with the Criminal Code's broad approach. This remains the position in southern Nigerian states under the Criminal Code. It is less firmly established under the Penal Code in northern states, where the categories of provocation may differ.
+
+PROVOCATION IN PENAL CODE STATES (NORTHERN NIGERIA):
+- Penal Code s.222(1): Culpable homicide not punishable with death where the offender, "owing to grave and sudden provocation, causes the death of the person who gave the provocation"
+- Similar principles apply: the provocation must be grave, sudden, and the act must occur before passion has cooled
+
+APPLICATION IN NIGERIA:
+Aoko v Fagbemi is the foundational Nigerian authority on provocation as a partial defence to murder. It is cited in all homicide cases where provocation is raised. The case confirms that the defence is fact-specific and depends on the suddenness of the provocation, the heat of passion, and the lack of cooling time. Nigerian courts apply both subjective and objective elements. The case remains relevant in domestic homicide cases, crimes of passion, and situations involving sudden violent discovery of a wrong.
+
+CITATION: [1961] 1 All NLR 400

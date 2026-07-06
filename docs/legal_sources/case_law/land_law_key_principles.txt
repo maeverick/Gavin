@@ -1,0 +1,68 @@
+Subject: Land Law — Key Principles under the Land Use Act 1978 and Nigerian land tenure
+Source: Land Use Act 1978 (Cap L5 LFN 2004); Nigerian land law cases
+
+LAND TENURE IN NIGERIA — THE LAND USE ACT 1978:
+
+SECTION 1 LAND USE ACT: All land comprised in the territory of each state in Nigeria is vested in the Governor of that State, to be held in trust and administered for the use and common benefit of all Nigerians in accordance with the provisions of the Act.
+
+TYPES OF LAND HOLDING:
+
+1. STATUTORY RIGHT OF OCCUPANCY (Section 5):
+- Granted by the Governor for any land in urban areas
+- Evidenced by Certificate of Occupancy (C of O)
+- Maximum term: 99 years
+- May be granted to any person (individual or company)
+- Confers right to exclusive possession of the land
+
+2. CUSTOMARY RIGHT OF OCCUPANCY (Section 6):
+- Granted by the Local Government for any land not in an urban area
+- Applies to agricultural and residential land in rural areas
+- Governed by customary law
+
+3. DEEMED GRANT (Section 34-36):
+Land held before the Act came into force (28 March 1978) is deemed to have been granted:
+- Urban land: deemed statutory right of occupancy
+- Rural land: deemed customary right of occupancy
+
+ALIENATION OF RIGHT OF OCCUPANCY:
+Section 21-22 LUA: A holder of a right of occupancy cannot alienate without CONSENT:
+- Statutory right: Governor's consent required
+- Customary right: Local Government's consent required
+CONSEQUENCE OF ALIENATION WITHOUT CONSENT: Transaction is VOID (Section 26)
+
+REVOCATION OF RIGHT OF OCCUPANCY (Section 28):
+The Governor may revoke a right of occupancy for:
+1. Overriding public interest
+2. Breach of conditions of the right of occupancy
+COMPENSATION: Must be paid where land is revoked for public purposes
+
+FAMILY LAND IN NIGERIA:
+Land held under family ownership — all members of the family have beneficial interest
+- Family land cannot be alienated without consent of the family head and principal members
+- A transaction by one family member without family consent is voidable
+- KODILINYE: "Family land is owned by the family jointly — no single member can sell without consent of the family"
+
+FIVE METHODS OF PROVING TITLE TO LAND:
+1. Traditional evidence (how the family first acquired the land)
+2. Documents of title
+3. Acts of ownership over a long period
+4. Positive acts of possession
+5. Proof of recent possession
+
+REGISTRATION OF TITLE:
+- Land Registration Act requires registration of instruments affecting land
+- Unregistered instrument has no effect against a subsequent purchaser for value without notice
+- Priority: registered instruments take priority over unregistered ones
+
+MORTGAGES UNDER THE LUA:
+A right of occupancy may be mortgaged with the Governor's consent (statutory) or Local Government's consent (customary). Default on mortgage: mortgagee may apply to court for possession and sale — Governor's consent required for sale.
+
+KEY CASES:
+1. SAVANNAH BANK v AJILO [1989]: Where a party mortgages land without the Governor's consent, the mortgage is void — but the bank may still recover the loan as a personal debt
+2. OLOHUNDE v ADEYOJU [2000]: Five methods of proving customary title to land
+3. AJIBOLA v AJADI [2004]: Certificate of Occupancy is prima facie but not conclusive proof of title
+
+APPLICATION IN NIGERIA:
+Land law is a core subject for the Nigerian Bar examination. The Land Use Act fundamentally changed Nigerian land tenure by vesting all land in the State Governor. Understanding the LUA, rights of occupancy, alienation restrictions, and proof of title is essential for practice in property law, conveyancing, and land litigation.
+
+CITATION: Land Use Act 1978, Cap L5 LFN 2004

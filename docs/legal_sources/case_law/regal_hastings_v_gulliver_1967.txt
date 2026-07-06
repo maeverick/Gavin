@@ -1,0 +1,59 @@
+Subject: Company Law — Directors' Fiduciary Duties, Corporate Opportunity, Secret Profits
+Source: Regal (Hastings) Ltd v Gulliver [1967] 2 AC 134 (House of Lords) — Applied in Nigerian company law
+
+CASE NAME: Regal (Hastings) Ltd v Gulliver [1967] 2 AC 134
+
+FACTS:
+Regal (Hastings) Ltd owned a cinema. The directors decided to acquire two more cinemas by forming a subsidiary company. The owner of the new cinemas required a personal guarantee from the directors unless the subsidiary had a paid-up capital of £5,000. Regal could only contribute £2,000. The directors personally subscribed for the remaining shares and made a profit when all the shares (including Regal's) were later sold. The new owners of Regal sued the directors to recover the profits they had made on the sale of their personal shareholdings.
+
+ISSUE:
+Were the directors accountable to Regal for the profits they made on the shares they had acquired in the subsidiary company?
+
+HELD (House of Lords):
+The directors were liable to account to Regal for the profits they had made. They had obtained the opportunity to acquire the shares by virtue of their position as directors of Regal. The fact that they acted honestly and that Regal itself could not have taken the shares (because it lacked the funds) was irrelevant. A fiduciary who makes a profit from their position must account for it to their principal, regardless of good faith.
+
+KEY PRINCIPLES:
+
+THE NO-PROFIT RULE:
+"The rule of equity which insists on those, who by use of a fiduciary position make a profit, being liable to account for that profit, in no way depends on fraud or absence of bona fides; or upon such questions or considerations as whether the profit would or should otherwise have gone to the plaintiff, or whether the profiteer was under a duty to obtain the source of the profit for the plaintiff, or whether he took a risk or acted as he did for the benefit of the plaintiff."
+— Lord Russell of Killowen
+
+1. A director must not make a secret profit from their position as director without the informed consent of the company
+2. The profit may have been honestly made — that is irrelevant
+3. The company need not have been able or willing to take the opportunity itself — that is irrelevant
+4. Consent of the shareholders in general meeting is required to authorise the profit
+
+THE CORPORATE OPPORTUNITY DOCTRINE:
+A director who takes for themselves a business opportunity that came to them by virtue of their directorship must account for any profit made.
+
+Requirements for liability:
+- The opportunity came to the director in their capacity as director (not in a purely personal capacity)
+- The director exploited the opportunity for personal profit
+- The company did not give informed consent to the director's personal exploitation
+
+CONTRAST — OPPORTUNITY THAT DID NOT COME VIA DIRECTORSHIP:
+- If a director learns of a business opportunity through purely personal channels unconnected with their directorship, they may exploit it freely
+- The line between "came by virtue of directorship" and "came personally" is often fine and fact-specific
+
+HOW TO AUTHORISE A DIRECTOR'S PROFIT:
+1. FULL DISCLOSURE to the board and shareholders in general meeting
+2. INFORMED CONSENT by ordinary resolution of shareholders (or as provided in the company's articles)
+3. Under CAMA 2020 s.307: a director must disclose any interest in a contract or transaction with the company and is not allowed to vote on it
+
+REMEDIES:
+- Account of profits: the director must hand over the profit to the company
+- The remedy is proprietary — the company can trace the profit into investments or other assets
+- The remedy is available regardless of whether the company suffered loss
+
+DIRECTORS' FIDUCIARY DUTIES (CAMA 2020):
+CAMA 2020 ss.305-311 codifies directors' duties, drawing from the common law:
+- s.305: Duty to act in good faith in the interests of the company
+- s.306: Duty to act for proper purposes
+- s.307: Duty to avoid conflicts of interest
+- s.308: Duty not to accept benefits from third parties
+- s.310: Duty to disclose interest in proposed transaction or arrangement
+
+APPLICATION IN NIGERIA:
+Regal (Hastings) v Gulliver is the foundational authority on the no-profit rule in Nigerian company law. It is applied in cases where directors have made secret profits, exploited corporate opportunities, or received benefits by virtue of their position. CAMA 2020 now provides a statutory framework but the common law principles remain relevant. Nigerian courts hold directors strictly to the no-profit rule — good faith and company benefit are not defences without shareholder consent.
+
+CITATION: [1967] 2 AC 134; [1942] 1 All ER 378

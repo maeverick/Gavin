@@ -1,0 +1,56 @@
+Subject: Equity and Trusts — Constitution of Trusts, Perfect and Imperfect Gifts
+Source: Milroy v Lord (1862) 4 De GF & J 264 (Court of Appeal in Chancery) — Applied in Nigerian equity
+
+CASE NAME: Milroy v Lord (1862) 4 De GF & J 264
+
+FACTS:
+Thomas Medley executed a deed purporting to transfer shares in a Louisiana bank to Lord, to hold on trust for the plaintiff Milroy. The shares could only be transferred by registration in the bank's books. Lord held a power of attorney from Medley authorising him to transfer the shares, but he never actually registered the transfer. Medley later died. The question was whether an effective trust over the shares had been created.
+
+ISSUE:
+Was a valid trust constituted over the shares, given that the legal formalities for transferring shares had not been completed?
+
+HELD (Turner LJ):
+No valid trust was constituted. To make a gift effective, the donor must have done everything necessary according to the nature of the property to transfer it to the donee or trustee. An imperfect gift cannot be treated as a declaration of trust — equity will not perfect an imperfect gift. Because the shares had never been registered in Lord's name, no valid trust arose.
+
+THE RULE IN MILROY v LORD:
+"There is no equity in this Court to perfect an imperfect gift."
+
+A valid trust requires one of three things:
+1. TRANSFER TO TRUSTEE: The settlor must have effectively transferred the trust property to the trustee using all the legal formalities required for that type of property
+2. SELF-DECLARATION: The settlor declares themselves trustee of the property for the beneficiary — no transfer required since the settlor already holds the property
+3. DIRECTION TO LEGAL OWNER: The settlor directs the existing legal owner to hold on trust (rare, typically in testamentary contexts)
+
+KEY PRINCIPLES:
+
+CONSTITUTION OF A TRUST:
+1. A trust is constituted when the trust property is vested in the trustee
+2. For land: transfer by deed + registration
+3. For shares in a company: proper instrument of transfer executed and registered in the company's register
+4. For choses in action (debts): written notice to the debtor (s.136 Law of Property Act 1925, or the Nigerian equivalent)
+5. For chattels: physical delivery or deed of gift
+6. For a trust to be effective, ALL required formalities for that type of property must be completed
+
+THE RULE — EQUITY WILL NOT PERFECT AN IMPERFECT GIFT:
+- Where a donor or settlor has not done everything necessary to complete a transfer, the court will not treat it as complete
+- The donor's intention alone is insufficient — intention must be accompanied by proper legal steps
+- An incompletely constituted trust cannot be enforced by the intended beneficiaries (unless they are objects of a covenant to settle — a separate issue)
+- "Equity will not assist a volunteer" — a person who has given no consideration cannot enforce an imperfect gift
+
+EXCEPTIONS TO THE RULE (WAYS A TRUST CAN BE CONSTITUTED WITHOUT FULL FORMALITIES):
+
+1. RE ROSE [1952] — THE "DONE EVERYTHING" EXCEPTION:
+Where the settlor has done everything in their power to transfer the property and only a ministerial act by a third party remains, the trust is constituted even before that act is completed
+
+2. DONATIO MORTIS CAUSA:
+A gift made in contemplation of impending death, conditional on the donor's death — special rules apply that allow an incomplete gift to take effect without full formalities
+
+3. PROPRIETARY ESTOPPEL:
+Where the donee has relied to their detriment on a representation that they would receive the property, the court may prevent the donor from resiling
+
+4. STRONG v BIRD (1874):
+Where the donor appoints the donee as executor of their will, the intention to give is perfected by the appointment — the donee takes the property free from the imperfect gift issue
+
+APPLICATION IN NIGERIA:
+Milroy v Lord is the foundational authority on trust constitution in Nigerian equity jurisprudence. It is applied whenever questions arise about whether a trust or gift has been effectively created — particularly in family property disputes, testamentary trusts, and commercial trust arrangements. The principle that equity will not perfect an imperfect gift is strictly applied. Practitioners advising settlors must ensure all formalities are completed contemporaneously with the expression of intention to create a trust.
+
+CITATION: (1862) 4 De GF & J 264; (1862) 45 ER 1185

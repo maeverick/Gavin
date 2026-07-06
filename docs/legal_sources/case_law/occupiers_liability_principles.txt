@@ -1,0 +1,54 @@
+Subject: Tort Law — Occupiers' Liability, Duty of Care to Visitors and Trespassers, Premises Liability
+Source: Occupiers' Liability Act 1957 (UK, received in Nigeria); Nigerian common law on occupiers' liability; Indermaur v Dames [1866]; Robert Addie & Sons v Dumbreck [1929]
+
+OCCUPIERS' LIABILITY IN NIGERIA
+
+DEFINITION — OCCUPIER AND PREMISES:
+An occupier is any person who has a sufficient degree of control over premises to put them under a duty of care towards those who come onto those premises. Control, not ownership, is the test. Where more than one person shares control, each may be an occupier simultaneously.
+
+"Premises" is broadly defined — it includes land, buildings, movable structures (vehicles, ships, scaffolding), and any fixed or movable structure used as a place of work.
+
+THE TRADITIONAL COMMON LAW CATEGORIES:
+Before statutory reform, English (and Nigerian received) common law divided entrants to premises into three categories, each attracting a different standard of care:
+
+1. INVITEES:
+Definition: Persons who enter the premises with the occupier's express or implied invitation for a purpose connected with the occupier's business — e.g., customers in a shop, patients in a hospital, guests at a paid event.
+Duty: The occupier must use reasonable care to prevent damage from unusual dangers of which the occupier knows or ought to know, and which the visitor would not reasonably expect to encounter.
+Case: Indermaur v Dames [1866] — the classic statement of the duty to invitees.
+
+2. LICENSEES:
+Definition: Persons who enter the premises with the occupier's permission (express or implied), but not for the occupier's business purposes — e.g., social guests, friends visiting.
+Duty: The occupier must warn the licensee of any concealed dangers (traps) known to the occupier that the licensee would not reasonably discover. There is no duty to inspect or to make the premises safe.
+
+3. TRESPASSERS:
+Definition: Persons who enter the premises without permission — either because they were never permitted to enter or because they exceeded the limits of a permission.
+Duty: Under the old common law (Robert Addie & Sons v Dumbreck [1929]), the occupier owed a duty only not to set deliberate traps for trespassers or to act with reckless disregard for their safety. No general duty of care was owed to trespassers.
+
+CHILD TRESPASSERS — THE ALLUREMENT DOCTRINE:
+Where a child is attracted onto premises by an "allurement" (something attractive to children but dangerous — e.g., machinery, a pool of water), the courts developed a special rule: even a trespassing child may be owed a duty of care if:
+- The dangerous thing was likely to attract children
+- The occupier knew or ought to have known children were likely to trespass
+- The occupier failed to take reasonable steps to prevent access or warn of the danger
+
+THE UK OCCUPIERS' LIABILITY ACT 1957 — RECEPTION IN NIGERIA:
+The Occupiers' Liability Act 1957 (UK) simplified the common law by replacing the invitee/licensee distinction with a single "common duty of care" owed to all "visitors" (i.e., all lawful entrants). The Act has been applied by Nigerian courts as part of received English law:
+- The occupier owes a common duty of care to all visitors — to take such care as in all the circumstances is reasonable to see that the visitor will be reasonably safe in using the premises for the purposes for which they are invited or permitted to be there
+- The duty can be modified by agreement (warning notices, exclusion clauses) — but exclusion of liability for negligence causing personal injury may be unenforceable
+
+TRESPASSERS — THE MODERN POSITION (BRITISH RAILWAYS BOARD v HERRINGTON [1972]):
+The House of Lords held that occupiers owe trespassers a "duty of common humanity" — a less stringent but real duty not to allow known dangers to harm trespassers whom the occupier knows or ought to know are likely to be present. This expanded the duty to trespassers beyond the old Addie rule.
+
+INDEPENDENT CONTRACTORS:
+Where the occupier employs an independent contractor to carry out work on the premises, the occupier may still be liable to visitors if:
+- The occupier failed to take reasonable steps to satisfy themselves that the contractor was competent
+- The occupier failed to inspect the work (to the extent that such inspection was practicable)
+
+DEFENCES:
+1. VOLENTI NON FIT INJURIA (CONSENT): If the claimant consented to the risk of harm (e.g., knowingly entering premises with a visible danger), the occupier may have a defence
+2. CONTRIBUTORY NEGLIGENCE: Where the claimant's own negligence contributed to their injury, damages are reduced proportionately
+3. WARNINGS: An adequate warning may discharge the occupier's duty — but must be specific enough to enable the visitor to avoid the danger
+
+APPLICATION IN NIGERIA:
+Occupiers' liability is an important area of Nigerian tort law, particularly in cases involving shopping malls, construction sites, factories, and public spaces. Nigerian courts apply the common law framework alongside the general law of negligence. Employers and property owners must take reasonable steps to ensure their premises are safe for visitors. Failure to maintain premises, failure to warn of hidden dangers, and failure to supervise independent contractors have all given rise to successful claims in Nigerian courts. The distinction between invitees, licensees, and trespassers, though simplified by the 1957 Act, remains analytically useful in Nigerian negligence cases.
+
+CITATION: Occupiers' Liability Act 1957 (UK, received); Indermaur v Dames (1866) LR 1 CP 274; Robert Addie & Sons v Dumbreck [1929] AC 358; British Railways Board v Herrington [1972] AC 877

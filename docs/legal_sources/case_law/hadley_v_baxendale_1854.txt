@@ -1,0 +1,32 @@
+Subject: Contract Law — Remoteness of Damage
+Source: Hadley v Baxendale (1854) 9 Exch 341 — Applied in Nigerian courts
+
+CASE NAME: Hadley v Baxendale (1854) 9 Exch 341
+
+FACTS:
+The plaintiffs owned a flour mill in Gloucester. The crankshaft broke and needed to be sent to the manufacturers in Greenwich as a pattern for a new one. The defendants, carriers, delayed delivery causing the mill to be idle for several extra days. The plaintiffs claimed for loss of profits during the period of delay. The defendants argued they had no notice that delay would cause the mill to stop operating.
+
+ISSUE:
+What is the correct test for remoteness of damage in a breach of contract claim?
+
+HELD (Court of Exchequer, Alderson B):
+Damages for breach of contract should be such as may fairly and reasonably be considered either:
+(1) Arising naturally from the breach according to the usual course of things; OR
+(2) Such as may reasonably be supposed to have been in the contemplation of both parties at the time of the contract as the probable result of breach.
+
+The loss of profits was not recoverable because the defendants did not know the mill would be idle — they were not told the shaft was the only one. The loss did not arise naturally and was not within reasonable contemplation.
+
+THE TWO LIMBS OF HADLEY v BAXENDALE:
+LIMB 1 (General damages): Losses arising naturally from the breach in the ordinary course of things — what any reasonable person in the defendant position would foresee.
+LIMB 2 (Special damages): Losses that both parties knew, at the time of contracting, would be the probable result of breach — requires actual knowledge of special circumstances.
+
+KEY PRINCIPLES:
+1. Damages in contract are limited to what was in the reasonable contemplation of the parties at the time of contracting
+2. Limb 1 covers ordinary losses; Limb 2 covers extraordinary losses known to both parties
+3. A defendant cannot be liable for consequences he could not have contemplated
+4. Special circumstances must be communicated at the time of contracting, not merely at time of breach
+
+APPLICATION IN NIGERIA:
+Hadley v Baxendale is the foundational authority on remoteness of damage in Nigerian contract law. Applied by Nigerian courts in breach of contract cases involving loss of profits, consequential loss, and special damages claims. The two-limb test is consistently applied in commercial contract disputes before the Supreme Court and Court of Appeal.
+
+CITATION: (1854) 9 Exch 341; 156 ER 145

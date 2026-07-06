@@ -1,0 +1,53 @@
+Subject: Constitutional Law — Immunity Clause, Section 308 CFRN, Jurisdiction, Separation of Powers
+Source: Senate President v Nzeribe [1992] 8 NWLR (Pt. 259) 284 — Nigerian Court of Appeal; principles on s.308 immunity and related constitutional matters
+
+CASE NAME: Senate President v Nzeribe [1992] 8 NWLR (Pt. 259) 284
+
+FACTS:
+Nzeribe, a member of the National Assembly, brought an action challenging certain decisions made by the Senate President in the exercise of senatorial powers. The Senate President raised a preliminary objection, contending that the court lacked jurisdiction to entertain a suit that challenged the internal proceedings of the National Assembly. Questions arose about the extent of the court's jurisdiction over legislative proceedings and the interplay between judicial power and the immunity of legislative proceedings under the 1979 Constitution (as applicable at the time).
+
+ISSUE:
+What is the scope of judicial immunity enjoyed by legislative proceedings, and in what circumstances may a court review the internal proceedings of the National Assembly?
+
+HELD (Court of Appeal):
+The internal proceedings of the National Assembly, and the acts of its presiding officers in conducting those proceedings, are protected from judicial review by the doctrine of legislative immunity (parliamentary privilege). Courts cannot inquire into the manner in which the legislature conducts its own proceedings, subject to constitutional limits. However, the immunity is not absolute — where a clear constitutional provision is violated, or where jurisdiction depends on a constitutional question, the courts retain oversight.
+
+KEY PRINCIPLES:
+
+PARLIAMENTARY PRIVILEGE IN NIGERIA:
+Under s.60 of the 1999 Constitution:
+"The National Assembly shall have power to regulate its own procedure, including the procedure for summoning and recess of its sittings."
+Additionally, s.60 provides that any question proposed for decision by either House shall be determined by the required majority of members present and voting — and this determination is not subject to judicial review in ordinary circumstances.
+
+Parliamentary privilege in Nigeria includes:
+1. FREEDOM OF SPEECH AND DEBATE: Every member of the National Assembly and State Houses of Assembly has absolute immunity for anything said in the course of proceedings. No civil or criminal action may be brought against a member for words spoken in debate — s.60 CFRN; Article 9 Bill of Rights 1689 (received).
+2. POWER TO REGULATE OWN PROCEEDINGS: The legislature is the master of its own procedure. Courts will not dictate how the legislature conducts its business or invalidate procedural decisions.
+3. POWER TO PUNISH FOR CONTEMPT: Each House has power to punish members and non-members for contempt of the legislature.
+
+LIMITS ON PARLIAMENTARY PRIVILEGE — WHERE COURTS INTERVENE:
+Courts will intervene where:
+1. The legislature exceeds its constitutional powers (ultra vires legislation or proceedings)
+2. A constitutional provision requires a specific procedure and the legislature departs from it in a way that affects the validity of the act (e.g., failure to obtain required majority for constitutional amendment)
+3. Fundamental rights of individuals are infringed — the court may review whether the legislature has acted within its constitutional authority
+
+SECTION 308 IMMUNITY — EXECUTIVE IMMUNITY (DISTINGUISHED):
+Section 308 CFRN grants immunity from civil and criminal proceedings to the President, Vice-President, Governors, and Deputy Governors during their tenure. This immunity:
+- Is personal — it attaches to the individual office-holder, not to the institution
+- Covers civil, criminal, and process-based claims
+- Does NOT extend to legislative members (senators and representatives have parliamentary privilege, not s.308 immunity)
+- Does NOT protect against impeachment, which is a legislative (not judicial) process
+
+THE INTERPLAY BETWEEN s.308 AND THE COURTS:
+Senate President v Nzeribe illustrates the broader principle that constitutional immunities and privileges are not identical:
+- s.308: Executive immunity — bars courts from entertaining suits against protected persons during tenure
+- Parliamentary privilege: Bars courts from reviewing legislative proceedings, but permits constitutional review of ultra vires acts
+- Judicial independence: Protects judges from removal except through the prescribed constitutional process
+
+IMPEACHMENT AND ITS RELATIONSHIP TO IMMUNITY:
+- The legislature's power to impeach the President (s.143), Vice-President (s.143), and Governors (s.188) is a constitutional check on executive power — it is not a "proceeding" within the meaning of s.308 and is therefore not barred by the s.308 immunity.
+- The constitutional requirements for impeachment (e.g., notice, investigation by a panel, voting majorities) must be scrupulously observed — courts have intervened where the procedural requirements for impeachment were not followed: Inakoju v Adeleke [2007].
+
+APPLICATION IN NIGERIA:
+Senate President v Nzeribe is an important authority on the limits of parliamentary privilege and the court's jurisdiction over legislative proceedings. The broader principle — that constitutional immunities are strictly defined and courts retain jurisdiction over constitutional questions — is well established in Nigerian jurisprudence. The case is particularly relevant to questions about the jurisdiction of courts to review legislative decisions, the immunity of presiding officers, and the rights of individual legislators. Practitioners should note that while a court cannot review the substance of legislative debate, it can and will review whether the legislature has acted within its constitutional powers.
+
+CITATION: [1992] 8 NWLR (Pt. 259) 284 (CA); Constitution of the Federal Republic of Nigeria 1999, ss.60, 143, 188, 308

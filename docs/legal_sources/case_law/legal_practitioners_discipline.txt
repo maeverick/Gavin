@@ -1,0 +1,83 @@
+Subject: Professional Ethics — Discipline of Legal Practitioners, LPDC, Striking Off
+Source: Legal Practitioners Act (Cap L11 LFN 2004); Rules of Professional Conduct for Legal Practitioners 2007
+
+DISCIPLINE OF LEGAL PRACTITIONERS IN NIGERIA
+
+THE DISCIPLINARY FRAMEWORK:
+
+LEGAL PRACTITIONERS DISCIPLINARY COMMITTEE (LPDC):
+- Established under s.10 of the Legal Practitioners Act (Cap L11 LFN 2004)
+- Has exclusive jurisdiction to hear and determine complaints of professional misconduct against legal practitioners
+- Composition: a retired judge (as chairman), senior members of the Bar, and laypersons
+- Powers: caution, suspend from practice, or strike the practitioner's name off the Roll
+- Appeal: from the LPDC to the Court of Appeal (s.11 LPA)
+
+THE GENERAL COUNCIL OF THE BAR:
+- The General Council of the Bar oversees the conduct of the legal profession collectively
+- Receives complaints and may refer them to the LPDC
+- The Body of Benchers (comprising senior lawyers and judges) is responsible for calling candidates to the Bar
+
+GROUNDS FOR PROFESSIONAL DISCIPLINE:
+
+1. PROFESSIONAL MISCONDUCT:
+Definition: conduct that falls short of the standard reasonably expected of a legal practitioner — Siskina v Distos SA [applied in Nigerian courts]
+Examples:
+- Dishonesty, fraud, or deceit towards a client, court, or third party
+- Misappropriation of client funds held in trust
+- Failure to account for money received on behalf of a client
+- Abandoning a client's case without notice or good reason
+- Making false statements in court proceedings
+- Bribing or attempting to bribe judicial officers
+
+2. CONVICTION OF A CRIMINAL OFFENCE:
+- A legal practitioner convicted of a criminal offence involving dishonesty, fraud, or moral turpitude may be referred to the LPDC
+- The LPDC does not retry the criminal matter — the conviction is treated as established
+- Minor traffic offences or purely technical offences generally do not constitute grounds for discipline
+- Serious offences (theft, obtaining by false pretences, conspiracy to defraud) almost invariably result in striking off
+
+3. CONDUCT UNBECOMING:
+- Behaviour that brings the profession into disrepute even if not constituting a criminal offence
+- May include scandalous personal conduct affecting the practitioner's fitness to practice
+
+PROCEDURE BEFORE THE LPDC:
+1. COMPLAINT: Any person may lodge a complaint with the Secretary of the LPDC
+2. INVESTIGATION: The LPDC investigates the complaint; the practitioner is notified
+3. HEARING: The practitioner is given full opportunity to be heard — may appear in person and call witnesses
+4. NATURAL JUSTICE: Strict observance required — audi alteram partem and nemo iudex in causa sua
+5. STANDARD OF PROOF: The criminal standard (beyond reasonable doubt) applies to findings of professional misconduct given the serious consequences — Bello v LPDC
+6. DECISION: The LPDC may caution, suspend, or strike off; reasons must be given
+7. APPEAL: To the Court of Appeal within 28 days of the decision
+
+CONSEQUENCES OF STRIKING OFF:
+- The practitioner's name is removed from the Roll of Legal Practitioners
+- They may no longer practice as a barrister or solicitor in Nigeria
+- Any court process signed after striking off is a nullity
+- Holding out as a legal practitioner after striking off is a criminal offence
+- Re-admission is possible but requires a fresh application and proof of rehabilitation
+
+CLIENT ACCOUNTS AND TRUST MONEY:
+- Rule 23 RPC: Every legal practitioner who receives money on behalf of a client must keep it in a separate client account
+- Mixing client money with personal money (commingling) is professional misconduct
+- Failure to account for client money on demand is professional misconduct — referral to LPDC is almost automatic
+- The Solicitors Accounts Rules (analogous to English rules) govern client account obligations in Nigeria
+
+KEY OBLIGATIONS UNDER THE RULES OF PROFESSIONAL CONDUCT 2007:
+- Rule 1: A legal practitioner must uphold and observe the rule of law
+- Rule 15: Must not knowingly make false statements to the court
+- Rule 19: Must preserve the confidences and secrets of a client
+- Rule 23: Must maintain a separate account for client funds
+- Rule 24: Must not charge unconscionable fees
+- Rule 30: Must conduct themselves with dignity and courtesy toward the court and fellow practitioners
+- Rule 55: Must not engage in touting or advertising in an unprofessional manner
+
+FEES AND CHARGING:
+- Legal Practitioners (Remuneration for Legal Documentation and Other Legal Matters) Order — sets minimum fees for certain work
+- Rule 24 RPC: A practitioner must not charge or accept unconscionably low or high fees
+- Fee agreements should preferably be in writing
+- Contingency fees (payment only if the case is won) are generally not permissible under Nigerian professional rules
+- Speculative fees may be acceptable in some circumstances but must be disclosed
+
+APPLICATION IN NIGERIA:
+The LPDC regularly hears cases of misappropriation of client funds (the most common ground for striking off), court process irregularities, and dishonest conduct. Nigerian courts have consistently held that the right to practice law is not absolute — it is subject to the maintenance of professional standards. The LPDC process, when properly conducted, provides a fair and effective mechanism for maintaining the integrity of the Nigerian Bar.
+
+CITATION: Legal Practitioners Act (Cap L11 LFN 2004) ss.10-12; Rules of Professional Conduct for Legal Practitioners 2007

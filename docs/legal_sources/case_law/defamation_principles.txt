@@ -1,0 +1,95 @@
+Subject: Tort Law — Defamation, Libel, Slander, Defences
+Source: Nigerian law of defamation; Defamation Act (received law); Nigerian case law
+
+DEFAMATION IN NIGERIA
+
+DEFINITION:
+Defamation is the publication of a false statement of fact that lowers the claimant in the estimation of right-thinking members of society generally, or causes them to be shunned or avoided, or exposes them to hatred, contempt, or ridicule.
+
+TWO FORMS OF DEFAMATION:
+
+1. LIBEL:
+- Defamation in a permanent, visible form — written, printed, broadcast, or recorded
+- Actionable per se — the claimant does not need to prove actual damage
+- Examples: newspaper articles, social media posts, books, online publications, permanent recordings
+- In Nigeria: newspapers are governed by the Newspapers Act; online publications are increasingly regulated
+
+2. SLANDER:
+- Defamation in a transient form — spoken words or gestures
+- Generally NOT actionable per se — the claimant must prove actual damage (special damage)
+- Exceptions — actionable per se without proof of damage:
+  a. Imputation of a criminal offence punishable by imprisonment
+  b. Imputation of a contagious or infectious disease
+  c. Imputation calculated to disparage the claimant in their office, profession, or trade
+  d. Imputation of unchastity (in some jurisdictions)
+
+THE ELEMENTS OF DEFAMATION:
+The claimant must prove:
+1. DEFAMATORY MEANING: The statement in question bears a defamatory meaning — it would lower the claimant in the estimation of right-thinking members of society
+2. REFERENCE TO THE CLAIMANT: The statement was understood by its recipients to refer to the claimant (need not name them — description, circumstances, or innuendo may identify them)
+3. PUBLICATION: The statement was communicated to at least one person other than the claimant
+
+DEFAMATORY MEANING — NATURAL AND ORDINARY MEANING vs INNUENDO:
+- Natural and ordinary meaning: the plain, ordinary meaning of the words as a reasonable person would understand them
+- True (legal) innuendo: the words carry a defamatory meaning only when combined with extrinsic facts known to some recipients — the claimant must plead and prove those extrinsic facts
+
+REFERENCE TO THE CLAIMANT:
+- Hulton & Co v Jones [1910]: A claimant may be defamed even if the defendant did not intend to refer to them — if a reasonable person knowing the relevant facts would understand the statement to refer to the claimant
+- Defamation of a class: "All Nigerian lawyers are corrupt" does not defame any particular lawyer unless the class is small enough that the statement points to the individual
+
+PUBLICATION:
+- Every repetition is a fresh publication — the original author and every republisher may be liable
+- Responsible publication standard: a media organisation may be liable for defamation by employees acting in the course of employment
+
+DEFENCES TO DEFAMATION:
+
+1. JUSTIFICATION (TRUTH):
+- Complete defence: it is a complete defence to prove that the defamatory statement was substantially true
+- The defendant must prove the truth — the burden is on the defendant, not the claimant
+- Truth is a complete defence even if the publication was malicious
+
+2. FAIR COMMENT (HONEST OPINION):
+- A comment (opinion, not fact) on a matter of public interest, honestly held, is not actionable even if defamatory
+- Requirements:
+  a. The statement must be comment, not fact
+  b. The subject matter must be of public interest
+  c. The comment must be based on true facts (or facts privileged in other proceedings)
+  d. The comment must be one that a person could honestly hold — however extreme
+- Malice defeats the defence of fair comment
+
+3. ABSOLUTE PRIVILEGE:
+- Statements made in Parliament, in judicial proceedings, and in certain official communications attract absolute privilege — no action lies even if the statement was false and malicious
+- Nigeria: statements made in the National Assembly or State Houses of Assembly are absolutely privileged (Constitution s.60)
+- Statements made in the course of judicial proceedings by judges, counsel, parties, and witnesses are absolutely privileged
+
+4. QUALIFIED PRIVILEGE:
+- Where a person has a legal, social, or moral duty to make a statement and the recipient has a corresponding interest in receiving it, the statement is protected by qualified privilege — unless made with malice
+- Examples: references for employment, reports to disciplinary bodies, communication between employers about employees
+- MALICE: Where the defendant was actuated by malice (spite, ill-will, or use of the privileged occasion for an improper purpose), qualified privilege is lost
+
+5. INNOCENT DISSEMINATION:
+- A distributor (newspaper vendor, internet service provider) who had no reason to know the publication was defamatory and was not negligent is not liable
+
+REMEDIES FOR DEFAMATION:
+1. DAMAGES: Compensatory (to vindicate reputation and compensate for injury), aggravated (where defendant's conduct is outrageous), exemplary/punitive (in limited circumstances)
+2. INJUNCTION: To restrain threatened or continuing publication — courts are reluctant to grant prior restraints on publication where justification or fair comment is a realistic defence
+3. APOLOGY AND RETRACTION: May mitigate damages but are not complete defences
+
+DEFAMATION AND THE NIGERIAN PRESS:
+- Newspapers and media organisations are frequently defendants in defamation actions in Nigeria
+- The defence of qualified privilege may protect responsible reporting on matters of public interest where reasonable steps are taken to verify facts
+- Reynolds v Times Newspapers [2001] (UK HL) — the "Reynolds privilege" for responsible journalism; applied with modification in Nigerian courts
+
+CRIMINAL DEFAMATION:
+- In some Nigerian states (and under the Penal Code in the north), criminal libel remains an offence — a person may be prosecuted, not merely sued, for defamation
+- Criminal libel requires proof beyond reasonable doubt
+
+APPLICATION IN NIGERIA:
+The law of defamation in Nigeria is based on the received English common law and is supplemented by local statutes. It is particularly relevant to media law, political discourse, commercial reputation, and social media disputes. As online publication becomes more prevalent, Nigerian courts are increasingly dealing with defamation via social media, email, and online platforms. The same principles apply regardless of the medium.
+
+KEY CASES:
+- Nsirim v Nsirim [1990] 3 NWLR (Pt. 138) 285 — leading Nigerian defamation case
+- Sketch Publications v Ajagbemokeferi [1989] 1 NWLR (Pt. 97) 294 — media defamation, damages
+- Lewis v Daily Telegraph [1964] AC 234 — natural and ordinary meaning (applied in Nigeria)
+
+CITATION: Received English common law; Nigerian case law

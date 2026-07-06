@@ -1,0 +1,28 @@
+Subject: Tort Law — Remoteness of Damage
+Source: Overseas Tankship (UK) Ltd v Morts Dock & Engineering Co (The Wagon Mound No 1) [1961] AC 388 — Applied in Nigeria
+
+CASE NAME: Overseas Tankship (UK) Ltd v Morts Dock (The Wagon Mound) [1961] AC 388
+
+FACTS:
+The defendants negligently spilled furnace oil into Sydney Harbour. The oil spread to the plaintiffs wharf 200 yards away where welding was underway. Molten metal ignited floating cotton waste which set the oil alight, destroying the wharf. The trial judge found the defendants could not reasonably have foreseen that oil would ignite on water.
+
+ISSUE:
+What is the correct test for remoteness of damage in negligence — the direct consequence test (Re Polemis) or reasonable foreseeability?
+
+HELD (Privy Council):
+Re Polemis was overruled. The correct test for remoteness of damage is reasonable foreseeability. A defendant is only liable for damage of a type that was reasonably foreseeable at the time of the negligent act. Since ignition of oil on water was not reasonably foreseeable, the defendants were not liable for the fire damage.
+
+KEY PRINCIPLES:
+1. REMOTENESS TEST: Defendant liable only for damage of a kind that was reasonably foreseeable
+2. Re Polemis direct consequence rule is overruled
+3. Foreseeability of the type of damage is required, not the precise manner of occurrence
+4. Once a foreseeable type of damage occurs, defendant liable for full extent (thin skull rule preserved)
+
+DISTINCTION:
+- Duty of care: tested by neighbour principle (Donoghue v Stevenson)
+- Remoteness: tested by reasonable foreseeability of the type of damage (Wagon Mound)
+
+APPLICATION IN NIGERIA:
+The Wagon Mound test is the applicable standard for remoteness of damage in Nigerian tort law. Applied in personal injury, property damage, and professional negligence cases. Nigerian courts distinguish between the duty of care question and the remoteness question in negligence analysis.
+
+CITATION: [1961] AC 388; [1961] UKPC 2 (also known as The Wagon Mound No 1)

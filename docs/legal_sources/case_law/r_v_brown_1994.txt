@@ -1,0 +1,48 @@
+Subject: Criminal Law — Consent as a Defence, Assault, Bodily Harm, Public Policy
+Source: R v Brown [1994] 1 AC 212 — House of Lords (UK); Nigerian Criminal Code Act, ss.252–253
+
+CASE NAME: R v Brown [1994] 1 AC 212
+
+FACTS:
+A group of adult men who were all consenting participants in sado-masochistic activities were convicted of assault occasioning actual bodily harm (ABH) and unlawful wounding. The activities were conducted in private, no lasting injury resulted, and no participant complained to the police. The issue before the House of Lords was whether the victims' consent was a valid defence to the charges of assault occasioning ABH and unlawful wounding.
+
+ISSUE:
+Can consent of the victim be a defence to charges of assault occasioning actual bodily harm or unlawful wounding where the harm is deliberately inflicted?
+
+HELD (House of Lords — majority):
+Consent is NOT a defence to the deliberate infliction of actual bodily harm or more serious injury, even where all participants are consenting adults acting in private. The public interest in preventing the commission of bodily harm outweighs the private autonomy of the individuals. Convictions were upheld.
+
+KEY PRINCIPLES:
+
+THE GENERAL RULE ON CONSENT IN ASSAULT:
+- Consent is a complete defence to common assault (assault or battery not causing injury) — a person who consents to being touched or to a trivial battery cannot complain that they have been assaulted
+- However, as a general rule, a person cannot consent to the infliction of actual bodily harm (ABH) or more serious injury upon themselves in circumstances that are not recognised as legally valid
+
+LEGALLY RECOGNISED EXCEPTIONS WHERE CONSENT IS A VALID DEFENCE TO HARM:
+The House of Lords (both majority and minority) agreed that consent is valid in the following circumstances:
+1. SURGERY AND MEDICAL TREATMENT: A patient's informed consent to a surgical operation or medical procedure is a complete defence — the surgeon causing harm is not criminally liable
+2. TATTOOING AND BODY PIERCING: Consent to tattooing or piercing is valid
+3. CONTACT SPORTS: Participants in lawful sports such as boxing, rugby, or football consent to the foreseeable physical contact of the game — no assault liability for the normal incidents of lawful sport
+4. HORSEPLAY: Rough but consensual horseplay among friends where no injury is intended and the risk is minimal
+5. COSMETIC PROCEDURES: Consent to cosmetic surgery or procedures is valid
+
+THE PUBLIC POLICY LIMIT:
+The majority in Brown held that the categories of valid consent are not open-ended — courts must ask whether the activity in question serves a recognisable good purpose that justifies the harm. Deliberate infliction of pain purely for pleasure does not serve a recognised public interest, and therefore consent does not provide a defence.
+
+THE DISSENT — LORD MUSTILL AND LORD SLYNN:
+The minority held that the criminal law should not intrude into the private consensual activities of adults. Where no permanent injury results, no public nuisance is caused, and all parties consent, criminal sanctions are an unjustified invasion of personal autonomy.
+
+APPLICATION UNDER THE NIGERIAN CRIMINAL CODE:
+- s.252 Criminal Code Act: A person commits assault if they apply force to another without their consent
+- s.253: Consent to an assault is valid provided the harm caused does not exceed what the person consented to
+- The Criminal Code does not have a specific provision equivalent to the House of Lords' analysis in Brown
+- Nigerian courts have not directly applied Brown in the same factual context, but the principle that consent to serious harm does not excuse the harm is consistent with the Criminal Code's framework
+- Medical consent, surgical procedures, and contact sports are treated analogously under Nigerian law
+
+SPORT AND CONSENT IN NIGERIA:
+A participant in a contact sport (boxing, football, wrestling) impliedly consents to the ordinary and lawful physical contact of the sport. Intentional foul play causing injury outside the rules of the sport is not protected by implied consent and may give rise to both civil (tort) and criminal liability.
+
+APPLICATION IN NIGERIA:
+R v Brown is the leading authority on the limits of consent as a defence to physical harm. The case is cited in criminal law courses to illustrate the boundary between personal autonomy and the state's interest in preventing bodily harm. In Nigerian bar examinations, questions on consent as a defence to assault typically require candidates to identify when consent is valid (minor contact, surgery, sport, tattooing) and when it is not (deliberate infliction of serious harm). The Nigerian courts have not departed from the general common law principle, and the case remains persuasive authority.
+
+CITATION: [1994] 1 AC 212 (HL)

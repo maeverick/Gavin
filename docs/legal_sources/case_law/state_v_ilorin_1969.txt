@@ -1,0 +1,50 @@
+Subject: Criminal Law — Theft, Stealing under the Criminal Code
+Source: Principles of theft and stealing under the Nigerian Criminal Code Act (Cap C38 LFN 2004)
+
+THEFT AND STEALING UNDER THE NIGERIAN CRIMINAL CODE:
+
+SECTION 383 CRIMINAL CODE ACT — DEFINITION OF STEALING:
+A person steals who fraudulently takes anything capable of being stolen, or fraudulently converts to his own use or the use of any other person anything capable of being stolen.
+
+ELEMENTS OF STEALING:
+1. TAKING OR CONVERSION: Physical taking, or conversion of property already in the accused's possession
+2. ANYTHING CAPABLE OF BEING STOLEN: Property of any kind capable of being owned — moveable things; not land (but fixtures if severed may be stolen)
+3. FRAUDULENTLY: The taking must be fraudulent — with dishonest intent
+4. WITHOUT CLAIM OF RIGHT: Taking property under a genuine (even if mistaken) claim of right is not stealing — there must be no honest belief in a right to take
+
+FRAUDULENT TAKING:
+Taking is fraudulent if done:
+- Without consent of the owner, OR
+- With consent obtained by fraud, threats, or false pretences
+- Where the thing is found (and the finder knows the owner or can discover the owner) and the finder converts it without reasonable efforts to return it
+
+CLAIM OF RIGHT:
+A genuine belief that one has a right to take the property negates the fraudulent element, even if the belief is unreasonable. Key: was the belief GENUINE (subjective test)?
+
+ROBBERY — SECTION 401 CRIMINAL CODE:
+A person is guilty of robbery if they steal anything and at or immediately before or after the time of stealing use or threaten to use actual violence in order to obtain the thing stolen or to prevent or overcome resistance.
+
+ARMED ROBBERY — ROBBERY AND FIREARMS (SPECIAL PROVISIONS) ACT:
+Armed robbery: robbery while armed with offensive weapon or firearm
+PENALTY: Death by hanging (mandatory)
+Key cases: Okonkwo v State; numerous robbery cases in Nigerian courts
+
+KEY DISTINCTIONS:
+STEALING: Fraudulent taking without violence
+ROBBERY: Stealing accompanied by actual or threatened violence
+ARMED ROBBERY: Robbery with a weapon — attracts death penalty
+
+OBTAINING BY FALSE PRETENCES (Section 419):
+Obtaining anything capable of being stolen by means of any false pretence with intent to defraud.
+Elements:
+(a) False representation of existing fact (not future promise)
+(b) The representation induced the victim to hand over property
+(c) Intent to defraud
+
+ADVANCE FEE FRAUD (Section 419A):
+Nigeria's notorious "419" fraud — obtaining by false pretences through correspondence (letters, emails) promising large financial returns. Subject to enhanced penalties under the Advance Fee Fraud and Other Fraud Related Offences Act and the Economic and Financial Crimes Commission (EFCC) Act.
+
+APPLICATION IN NIGERIA:
+These principles govern all theft-related offences in Nigeria. The Criminal Code Act applies in Southern Nigeria; the Penal Code applies in Northern states. Armed robbery cases are prosecuted under the Robbery and Firearms (Special Provisions) Act with mandatory death penalty. Financial crimes are prosecuted by the EFCC under the EFCC Act and related legislation.
+
+CITATION: Criminal Code Act Cap C38 LFN 2004, Sections 383-419; Robbery and Firearms (Special Provisions) Act Cap R11 LFN 2004

@@ -1,0 +1,45 @@
+Subject: Company Law — Directors' Duties, Bona Fide Exercise of Powers, Discretion of Directors
+Source: Re Smith and Fawcett Ltd [1942] Ch 304 — Court of Appeal (England); applied in Nigerian company law
+
+CASE NAME: Re Smith and Fawcett Ltd [1942] Ch 304
+
+FACTS:
+Smith and Fawcett Ltd had two shareholders and directors: Smith and Fawcett. The company's articles of association gave the directors an absolute and uncontrolled discretion to refuse to register any transfer of shares. On Fawcett's death, his executors applied to have his shares transferred to a nominee. Smith refused to register the full transfer and instead offered to register only half the shares, insisting that the remaining half be sold to him at a price he named. The executors sought a court order compelling registration of the full transfer.
+
+ISSUE:
+When directors exercise a discretionary power (here, the power to refuse registration of a share transfer), what is the standard by which the court reviews their decision?
+
+HELD (Court of Appeal — Lord Greene MR):
+The court would not interfere with the directors' exercise of a discretion vested in them by the articles as long as the directors acted bona fide in the interests of the company as a whole. Directors holding a discretionary power must exercise it in good faith for the purposes for which the power was conferred, not for collateral purposes. The application failed — there was insufficient evidence that the directors' refusal was not bona fide.
+
+KEY PRINCIPLES:
+
+THE BONA FIDE STANDARD FOR DIRECTORS:
+Lord Greene MR stated the foundational principle: "Directors must exercise their discretion bona fide in what they consider — not what a court may consider — is in the interests of the company, and not for any collateral purpose."
+
+This establishes two limbs:
+1. SUBJECTIVE TEST (BONA FIDE): The directors must honestly believe they are acting in the interests of the company. The court does not second-guess the commercial merits of the decision — if the directors genuinely believed it was in the company's interest, the decision will stand even if a court would have decided differently.
+2. PROPER PURPOSE: The power must be exercised for the purpose for which it was conferred. Using a power for a collateral or improper purpose — even if honestly motivated — is a breach of duty.
+
+DIRECTORS' DUTIES IN NIGERIAN LAW — CAMA 2020:
+Under the Companies and Allied Matters Act 2020 (CAMA), the duties of directors are now partly codified:
+- s.305: A director shall act in good faith and in the best interests of the company
+- s.306: A director shall exercise the care, diligence, and skill that a reasonably diligent person would exercise in the circumstances
+- s.307: A director shall avoid conflicts of interest
+- s.308: A director shall not receive benefits from third parties in connection with company business (the no-profit rule)
+The common law bona fide principle in Re Smith and Fawcett continues to inform the interpretation of these statutory duties.
+
+POWER TO REFUSE SHARE TRANSFER:
+- Where the articles of association grant directors an absolute discretion to refuse share transfers, the discretion is not truly "absolute" in law — it must be exercised bona fide in the interests of the company
+- If the refusal is motivated by personal self-interest (e.g., a director seeking to buy the shares cheaply for themselves), it is an improper exercise of the power
+- The burden is on the person challenging the exercise of discretion to show that it was exercised improperly — the court will not lightly infer bad faith from a refusal
+
+LIMITATIONS ON DIRECTORS' POWERS:
+1. PROPER PURPOSE: Even if the directors honestly believe they are acting in the company's interest, their exercise of a power for a purpose not contemplated by the articles is void — Howard Smith v Ampol Petroleum [1974] (PC)
+2. FIDUCIARY CHARACTER: Directors are fiduciaries — they owe duties of loyalty, honesty, and undivided allegiance to the company. The fiduciary obligation is co-extensive with the bona fide duty.
+3. MAJORITY RATIFICATION: Shareholders by ordinary resolution (or in some cases special resolution) may ratify an improper exercise of directors' powers — unless the act constitutes a fraud on the minority shareholders.
+
+APPLICATION IN NIGERIA:
+Re Smith and Fawcett is a foundational case in Nigerian company law, particularly as it relates to directors' fiduciary duties and the exercise of discretionary powers. It is cited in disputes about refusal of share registration, the proper exercise of powers of allotment, and challenges to board decisions. CAMA 2020 has codified much of the common law framework, but the bona fide standard and the proper purpose doctrine remain relevant tools for litigants challenging directors' decisions. Nigerian courts have consistently held that directors exercising powers granted by the articles must do so in good faith — self-dealing or using corporate powers for personal benefit will be struck down.
+
+CITATION: [1942] Ch 304 (CA)

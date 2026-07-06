@@ -1,0 +1,30 @@
+Subject: Contract Law — Anticipatory Breach
+Source: Hochster v De La Tour (1853) 2 E&B 678 — Applied in Nigerian courts
+
+CASE NAME: Hochster v De La Tour (1853) 2 E&B 678
+
+FACTS:
+In April, the defendant engaged the plaintiff as a courier for a European tour beginning 1 June. On 11 May the defendant wrote repudiating the contract, saying he no longer needed the plaintiff's services. The plaintiff immediately commenced an action for breach of contract on 22 May, before the date performance was due to begin.
+
+ISSUE:
+Can an innocent party sue for breach of contract immediately upon receiving a repudiation, before the date on which performance was due?
+
+HELD (Queen's Bench):
+Yes. Where one party to a contract, before the time for performance, declares their intention not to perform, the other party may treat this as an immediate breach — an anticipatory breach — and sue at once without waiting for the date of performance.
+
+KEY PRINCIPLES:
+1. ANTICIPATORY BREACH: An unequivocal declaration by one party before the performance date that they will not perform constitutes an anticipatory breach
+2. THE INNOCENT PARTY HAS TWO OPTIONS upon receiving anticipatory breach:
+   OPTION A — Accept the repudiation immediately: treat the contract as discharged and sue at once for damages
+   OPTION B — Affirm the contract: wait until the performance date, keep the contract alive, and sue only if the other party actually fails to perform
+3. Consequences of accepting repudiation: innocent party relieved of their own future obligations
+4. Consequences of affirming: contract remains alive and both parties remain bound — the repudiating party may retract repudiation before performance date
+5. Duty to mitigate arises from the date the innocent party accepts repudiation
+
+ELECTION DOCTRINE:
+Once the innocent party clearly elects to accept or affirm, they cannot change their position. Affirmation must be unequivocal.
+
+APPLICATION IN NIGERIA:
+Hochster v De La Tour is the leading authority on anticipatory breach in Nigerian contract law. Applied in cases involving advance notice of non-performance in employment contracts, sale of goods, and service contracts. Nigerian courts consistently apply the two-option doctrine — accept or affirm — in anticipatory breach scenarios.
+
+CITATION: (1853) 2 E&B 678; 118 ER 922

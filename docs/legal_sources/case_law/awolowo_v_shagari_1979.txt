@@ -1,0 +1,32 @@
+Subject: Constitutional Law — Electoral Law, Presidential Election
+Source: Obafemi Awolowo v Alhaji Shehu Shagari [1979] 6-9 SC 51 — Nigerian Supreme Court
+
+CASE NAME: Obafemi Awolowo v Alhaji Shehu Shagari [1979] 6-9 SC 51
+
+FACTS:
+In the 1979 presidential election, Alhaji Shehu Shagari of the National Party of Nigeria (NPN) was declared winner by FEDECO (Federal Electoral Commission). Chief Obafemi Awolowo of the Unity Party of Nigeria (UPN) challenged the result. The issue was whether Shagari had satisfied the constitutional requirement of securing at least one-quarter of the votes cast in at least two-thirds of all states.
+
+THE CONSTITUTIONAL PROVISION:
+Section 34A(1)(c)(ii) of the Electoral Decree 1977 required a presidential candidate to win a majority of the votes AND obtain not less than one-quarter of all the votes cast at the election in each of at least two-thirds of all the states of the Federation.
+
+ISSUE:
+Did Shagari satisfy the constitutional requirement of one-quarter of votes in two-thirds of all states? Nigeria had 19 states — two-thirds was 12.67 states. Shagari won one-quarter in 12 states and a fraction of the requirement in the 13th state.
+
+HELD (Supreme Court):
+Shagari was validly elected. The majority held that the requirement of "two-thirds of all states" could be satisfied where the candidate obtained the required fraction of votes in 12 complete states plus a proportionate fraction of the requirement in the 13th state. The election was upheld.
+
+KEY PRINCIPLES:
+1. PRESIDENTIAL ELECTION REQUIREMENTS: Section 134 Constitution 1999 (formerly Section 34A) requires:
+   (a) Majority of the total votes cast; AND
+   (b) Not less than one-quarter of the votes cast in at least two-thirds of all the states plus the FCT
+2. ELECTORAL DISPUTES: Presidential election petitions go to the Court of Appeal, with final appeal to the Supreme Court
+3. JUDICIAL INTERPRETATION: Courts may apply purposive interpretation to constitutional electoral provisions
+4. LOCUS STANDI in electoral matters: A candidate in the election has standing to challenge the result
+
+SIGNIFICANCE:
+Awolowo v Shagari is the most significant electoral law case in Nigerian legal history. It established the precedent for interpreting the constitutional requirements for presidential elections and the jurisdiction of courts in electoral matters. The controversy surrounding this decision contributed to political tensions in Nigeria in the Second Republic. Cited in subsequent presidential election petition cases.
+
+APPLICATION IN NIGERIA:
+This case is essential for constitutional law and electoral law examinations. Applied in all subsequent presidential election petition cases. Establishes judicial principles for interpreting constitutional electoral thresholds and the role of the judiciary in electoral disputes.
+
+CITATION: [1979] 6-9 SC 51

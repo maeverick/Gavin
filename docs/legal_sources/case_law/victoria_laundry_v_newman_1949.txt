@@ -1,0 +1,35 @@
+Subject: Contract Law — Remoteness of Damage, Loss of Profits
+Source: Victoria Laundry (Windsor) Ltd v Newman Industries Ltd [1949] 2 KB 528 (Court of Appeal)
+
+CASE NAME: Victoria Laundry (Windsor) Ltd v Newman Industries Ltd [1949] 2 KB 528
+
+FACTS:
+The plaintiffs, launderers and dyers, contracted to buy a large boiler from the defendants for immediate use in their business. The defendants knew the plaintiffs were launderers and that they wanted the boiler for immediate use. Delivery was delayed by five months due to the defendants' negligence. The plaintiffs claimed for:
+(1) Loss of normal business profits during the delay
+(2) Loss of exceptionally lucrative dyeing contracts they had hoped to obtain using the boiler
+
+ISSUE:
+Which heads of loss were recoverable applying the rule in Hadley v Baxendale?
+
+HELD (Court of Appeal, Asquith LJ):
+The plaintiffs recovered for ordinary loss of business profits (limb 1 of Hadley v Baxendale) because the defendants knew the boiler was needed immediately for the laundry business. However, the exceptionally lucrative dyeing contracts were not recoverable because the defendants had no knowledge of these special contracts — they were not within the reasonable contemplation of the parties.
+
+REFINEMENT OF HADLEY v BAXENDALE:
+Asquith LJ reformulated the test as follows:
+1. What was in the reasonable contemplation of the parties at the time of contracting as the probable result of the breach?
+2. Knowledge: parties are taken to know what is in the ordinary course of things AND any special circumstances actually communicated
+3. The test is not what loss was FORESEEABLE but what loss was FAIRLY AND REASONABLY WITHIN THE CONTEMPLATION of both parties
+
+KEY PRINCIPLES:
+1. OBJECTIVE TEST: Not what the defendant actually contemplated but what they ought reasonably to have contemplated
+2. TWO TYPES OF KNOWLEDGE:
+   - Imputed knowledge: what everyone as a reasonable person knows happens in the ordinary course of things
+   - Actual knowledge: special circumstances communicated to the defendant
+3. NORMAL PROFITS: Lost normal business profits are recoverable if the defendant knew the plaintiff was in business and would suffer such losses
+4. SPECIAL/EXCEPTIONAL PROFITS: Only recoverable if the defendant had actual knowledge of the special contract or exceptional circumstances
+5. PROBABILITY: Loss must be a "serious possibility" or "real danger" not a mere possibility
+
+APPLICATION IN NIGERIA:
+Victoria Laundry v Newman is applied alongside Hadley v Baxendale in Nigerian contract law cases involving loss of profits claims. Applied in commercial contract disputes, supply chain failures, and breach of service agreements. The distinction between ordinary and exceptional loss of profits is frequently applied in Nigerian commercial litigation.
+
+CITATION: [1949] 2 KB 528

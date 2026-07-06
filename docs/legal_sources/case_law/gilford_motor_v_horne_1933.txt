@@ -1,0 +1,59 @@
+Subject: Company Law — Lifting the Corporate Veil, Fraud and Evasion of Legal Obligations
+Source: Gilford Motor Co Ltd v Horne [1933] Ch 935 (Court of Appeal) — Applied in Nigerian company law
+
+CASE NAME: Gilford Motor Co Ltd v Horne [1933] Ch 935
+
+FACTS:
+Horne had been employed by Gilford Motor Co and had entered into a covenant not to solicit the company's customers after leaving employment. He left and, to evade the covenant, incorporated a new company (in his wife's name) through which he solicited Gilford's former customers. Gilford sought an injunction against both Horne and the new company.
+
+ISSUE:
+Could the court pierce (lift) the corporate veil of the new company so as to hold Horne bound by the restrictive covenant, and could an injunction be granted against both Horne and his company?
+
+HELD (Court of Appeal):
+The court lifted the corporate veil. The new company was a sham — it was formed for the sole purpose of enabling Horne to evade the restrictive covenant. The company was a mere cloak or mask for Horne's own activity. An injunction was granted against both Horne personally and against the company.
+
+KEY PRINCIPLES:
+
+THE CORPORATE VEIL AND ITS LIMITS:
+The foundational principle from Salomon v Salomon [1897] is that a company is a separate legal person, distinct from its members and directors. The corporate veil protects that separation.
+
+HOWEVER — WHEN THE VEIL WILL BE LIFTED:
+
+1. WHERE THE COMPANY IS A SHAM/MERE FACADE (Gilford Motor v Horne):
+- The veil will be pierced where the company is formed or used for a fraudulent or improper purpose — to evade legal obligations, defraud creditors, or conceal wrongdoing
+- The company is treated as the agent or alter ego of the person behind it
+- The test: is the company a genuine commercial enterprise, or merely a device to achieve a result that would otherwise be prohibited?
+
+2. AGENCY:
+- Where a subsidiary acts as the agent of its parent company, the parent may be liable for the subsidiary's acts
+- Agency must be expressly created or clearly implied — it is not presumed merely from shareholding
+
+3. GROUP OF COMPANIES:
+- Each company in a group is in principle a separate legal person — DHN Food Distributors v Tower Hamlets [1976] was an exception where the group was treated as one entity; this approach has been restricted
+- Adams v Cape Industries [1990] — the Court of Appeal firmly rejected the "single economic unit" approach as a basis for lifting the veil
+
+4. STATUTORY EXCEPTIONS:
+Nigerian statutes expressly lift the veil in certain situations:
+- CAMA 2020 s.65: Fraudulent trading — directors personally liable for company debts
+- CAMA 2020 s.281: Where a company carries on business without the minimum number of members
+- CAMA 2020 s.290: Directors may be personally liable for wrongful trading leading to insolvent liquidation
+- Tax legislation: personal liability of directors for company tax defaults in some circumstances
+
+5. TORT/FRAUD:
+- Where a director uses a company to commit a tort or fraud, the director is personally liable for their own tortious acts even where the company is also liable (Standard Chartered Bank v Pakistan National Shipping [2003])
+- Incorporation does not shield a director from personal liability for torts they have committed
+
+RELEVANCE TO RESTRICTIVE COVENANTS:
+- Gilford Motor is particularly relevant to the enforcement of restrictive covenants and non-compete clauses
+- A person who incorporates a company to carry on the very business they have covenanted not to do will not escape the covenant by using the company as a shield
+- The injunction will be extended to the company as the instrument of breach
+
+SCOPE OF PIERCING TODAY:
+- Courts are reluctant to pierce the veil as a general remedy; it is exceptional
+- Prest v Petrodel Resources [2013] (UK Supreme Court): confirmed that veil-piercing is available only where a person is under a legal obligation and deliberately interposes a company to evade it; the cases can often be explained on other grounds (agency, trust, etc.)
+- Nigerian courts follow the English approach: the veil is pierced narrowly, primarily in fraud/sham cases
+
+APPLICATION IN NIGERIA:
+Gilford Motor v Horne is the leading authority on corporate veil piercing in Nigerian company law. It is applied in cases involving fraudulent evasion of contractual obligations, sham companies, and attempts to use the corporate form to escape personal liabilities. CAMA 2020 provides additional statutory grounds for personal liability. Nigerian courts apply the principle firmly in fraud and sham cases but decline to pierce the veil merely because a company is wholly owned by or controlled by one person.
+
+CITATION: [1933] Ch 935; [1933] All ER Rep 109

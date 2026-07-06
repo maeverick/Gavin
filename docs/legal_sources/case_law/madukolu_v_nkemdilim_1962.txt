@@ -1,0 +1,51 @@
+Subject: Civil Procedure — Jurisdiction
+Source: Madukolu v Nkemdilim [1962] 1 All NLR 587 — Nigerian Supreme Court
+
+CASE NAME: Madukolu v Nkemdilim [1962] 1 All NLR 587 (also cited as [1962] 2 SCNLR 341)
+
+FACTS:
+The case concerned whether the High Court had jurisdiction to entertain the matter brought before it. The court was required to determine the conditions precedent that must be satisfied before a court can properly exercise jurisdiction.
+
+ISSUE:
+What are the conditions that must be satisfied before a court can exercise jurisdiction?
+
+HELD (Supreme Court, Bairamian FJ):
+A court is competent to hear a matter, and a party is entitled to invoke its jurisdiction, if:
+1. The court is properly constituted as regards numbers and qualifications of members
+2. The subject matter of the case is within the court's jurisdiction, and there is no feature of the case which prevents the court from exercising its jurisdiction
+3. The case comes before the court initiated by due process of law
+4. Where applicable, any condition precedent to the exercise of jurisdiction has been fulfilled
+
+KEY PRINCIPLES — THE MADUKOLU TEST FOR JURISDICTION:
+CONDITION 1 — PROPER CONSTITUTION: The court must be duly constituted — proper number of judges, duly qualified and appointed
+CONDITION 2 — SUBJECT MATTER JURISDICTION:
+- The subject matter must be within the class of cases the court is authorised to hear
+- Territorial jurisdiction must be satisfied
+- The parties must have capacity to be before that court
+CONDITION 3 — DUE PROCESS:
+- Proceedings must have been initiated by the proper process (writ, summons, etc.)
+- Proper service must have been effected
+CONDITION 4 — CONDITIONS PRECEDENT:
+- Statutory conditions must be fulfilled (e.g., pre-action notice requirements)
+- Demand letters where required
+- Notice to government under Public Officers Protection Act
+
+CONSEQUENCES OF LACK OF JURISDICTION:
+- Proceedings conducted without jurisdiction are a nullity
+- No court can confer jurisdiction on itself
+- Parties cannot confer jurisdiction by consent where the court has none
+- Objection to jurisdiction can be raised at any stage, even on appeal
+
+EXCLUSIVE JURISDICTION OF THE FEDERAL HIGH COURT:
+Section 251 Constitution 1999 grants exclusive jurisdiction to the Federal High Court over:
+- Federal revenue matters
+- Federal government as a party
+- Admiralty
+- Banking and currency
+- Copyright, patent, trademarks
+- Citizenship and naturalisation
+
+APPLICATION IN NIGERIA:
+Madukolu v Nkemdilim is the most cited case on jurisdiction in Nigerian law. Applied in every civil and criminal case where jurisdiction is challenged. The four-condition test is applied by all levels of Nigerian courts. Understanding this case is essential for civil procedure examinations and court practice.
+
+CITATION: [1962] 1 All NLR 587; [1962] 2 SCNLR 341

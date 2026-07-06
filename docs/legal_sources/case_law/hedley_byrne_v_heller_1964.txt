@@ -1,0 +1,36 @@
+Subject: Tort Law — Negligent Misstatement, Pure Economic Loss
+Source: Hedley Byrne & Co Ltd v Heller & Partners Ltd [1964] AC 465 (House of Lords)
+
+CASE NAME: Hedley Byrne & Co Ltd v Heller & Partners Ltd [1964] AC 465
+
+FACTS:
+The plaintiffs, advertising agents, asked their bank to inquire about the creditworthiness of a client company, Easipower. The bank asked Easipower's bankers, Heller & Partners, for a reference. Heller gave a favourable reference "without responsibility." Relying on this, the plaintiffs placed orders worth £17,000 on behalf of Easipower. Easipower became insolvent and the plaintiffs lost their money. They sued Heller for negligent misstatement.
+
+ISSUE:
+Can a party be liable in negligence for pure economic loss caused by a careless statement, even without any physical damage?
+
+HELD (House of Lords):
+Yes — a duty of care can exist in respect of negligent statements causing pure economic loss, provided there is a "special relationship" between the parties. However, Heller were not liable in this case because they had expressly disclaimed responsibility ("without responsibility").
+
+THE HEDLEY BYRNE SPECIAL RELATIONSHIP:
+A duty of care arises for negligent misstatement where:
+1. The defendant has SPECIAL SKILL or expertise relevant to the matter
+2. The defendant KNOWS or ought to know that the plaintiff will RELY on the statement
+3. It is REASONABLE for the plaintiff to rely on the statement in the circumstances
+4. The statement was made in a BUSINESS CONTEXT (not social occasion)
+
+KEY PRINCIPLES:
+1. PURE ECONOMIC LOSS: English law (and Nigerian law) is generally reluctant to impose liability for pure financial loss without physical injury or property damage
+2. HEDLEY BYRNE EXCEPTION: Where there is a special relationship of proximity, liability for negligent statements causing economic loss may arise
+3. VOLUNTARY ASSUMPTION OF RESPONSIBILITY: The basis of liability is that the defendant voluntarily assumed responsibility for the accuracy of the statement
+4. DISCLAIMER: An effective disclaimer will negate the assumption of responsibility and prevent liability
+5. PROFESSIONAL ADVICE: Solicitors, accountants, auditors, valuers, and other professionals may owe Hedley Byrne duties to their clients (and sometimes third parties)
+
+DISTINCTION FROM MISREPRESENTATION:
+- Misrepresentation in contract: statement inducing entry into a contract
+- Hedley Byrne: statement relied on but not necessarily in connection with a contract between the parties; damages for economic loss
+
+APPLICATION IN NIGERIA:
+Hedley Byrne v Heller is applied in Nigerian tort law in cases involving professional negligence, banker's references, auditor liability, valuation reports, and investment advice. Nigerian courts recognise that professionals who give advice knowing it will be relied upon owe a duty of care. Applied in cases against banks, accountants, lawyers, and valuers for negligent statements causing financial loss.
+
+CITATION: [1964] AC 465

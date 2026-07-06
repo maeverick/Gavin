@@ -1,0 +1,61 @@
+Subject: Civil Procedure — Key Principles, Federal High Court Rules 2009/2019
+Source: Federal High Court (Civil Procedure) Rules; Supreme Court Rules; Fundamental principles of Nigerian civil procedure
+
+KEY CIVIL PROCEDURE PRINCIPLES IN NIGERIA:
+
+COMMENCING CIVIL PROCEEDINGS:
+1. WRIT OF SUMMONS: Used where facts are in dispute requiring oral evidence and cross-examination
+2. ORIGINATING SUMMONS: Used where the question is primarily one of law or document construction, with little or no dispute of facts
+3. ORIGINATING MOTION: Used for applications under specific statutes (e.g., Fundamental Rights applications)
+4. ORIGINATING PETITION: Used for specific matters (e.g., company winding up, matrimonial causes, election petitions)
+
+JURISDICTION:
+- Courts must have jurisdiction before entertaining any matter: Madukolu v Nkemdilim [1962]
+- MADUKOLU v NKEMDILIM TEST for jurisdiction:
+  (a) The court is properly constituted
+  (b) The subject matter is within the court's jurisdiction
+  (c) The parties are properly before the court
+  (d) The action is initiated by due process and any conditions precedent are fulfilled
+- Lack of jurisdiction is fatal — proceedings are a nullity
+
+PLEADINGS:
+- STATEMENT OF CLAIM: Filed by plaintiff — sets out the facts relied on and relief claimed
+- STATEMENT OF DEFENCE: Filed by defendant — must specifically admit or deny each material allegation
+- REPLY: Filed by plaintiff in response to new matters in the defence
+- GENERAL DENIAL is insufficient — each allegation must be specifically addressed
+- Facts not pleaded cannot be relied upon at trial (unless the court grants leave to amend)
+
+THE PRINCIPLE: A PARTY IS BOUND BY ITS PLEADINGS:
+A court cannot grant relief not claimed in the pleadings. Evidence inconsistent with the pleadings is inadmissible or irrelevant. Parties must not depart from their pleadings at trial.
+
+PRE-TRIAL PROCEDURE:
+- Discovery: Parties may request production of relevant documents (Order of Discovery)
+- Inspection: Parties may inspect each other's disclosed documents
+- Interrogatories: Written questions answered on oath before trial
+- Pre-trial conference: Courts encourage settlement and case management
+
+LIMITATION OF ACTIONS:
+- General rule: Actions must be brought within the limitation period
+- Contract: 6 years from breach (Limitation Act)
+- Tort: 6 years from the cause of action arising
+- Recovery of land: 12 years
+- Actions against government: 3 months notice required (Public Officers Protection Act)
+- TIME RUNS from when the cause of action accrues (not discovery)
+
+INTERLOCUTORY APPLICATIONS:
+1. INJUNCTION: Order restraining a party from doing an act or compelling action
+   - MAREVA INJUNCTION (freezing order): Prevents dissipation of assets pending judgment
+   - ANTON PILLER ORDER (search order): Allows search and seizure of evidence
+2. STAY OF PROCEEDINGS: Court may stay proceedings pending arbitration or related proceedings
+3. SUMMARY JUDGMENT: Where there is no triable issue — plaintiff applies for judgment without full trial
+
+JUDGMENT AND APPEALS:
+- Final judgment: pronounces the court's decision on the merits
+- Default judgment: entered against a party who fails to file defence or appear
+- Appeal lies from Federal High Court to Court of Appeal, then to Supreme Court
+- TIME LIMITS for appeal are strict — court has no jurisdiction after time expires without extension
+
+APPLICATION IN NIGERIA:
+Civil procedure is a core Bar examination subject. These principles are applied in every civil litigation matter in Nigeria. Students must know the hierarchy of courts, the correct mode of commencing proceedings, the rules on pleadings, and the principles governing jurisdiction, evidence, and appeals.
+
+RELEVANT RULES: Federal High Court (Civil Procedure) Rules 2009; Supreme Court Rules; Court of Appeal Rules

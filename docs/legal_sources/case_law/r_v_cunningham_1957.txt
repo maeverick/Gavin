@@ -1,0 +1,39 @@
+Subject: Criminal Law — Mens Rea, Recklessness
+Source: R v Cunningham [1957] 2 QB 396 (Court of Criminal Appeal)
+
+CASE NAME: R v Cunningham [1957] 2 QB 396
+
+FACTS:
+The defendant broke open a gas meter in the cellar of a house to steal money. Gas escaped from a fractured pipe and seeped into the adjoining house, partially asphyxiating a woman. The defendant was charged with maliciously administering a noxious substance so as to endanger life under Section 23 of the Offences Against the Person Act 1861. The trial judge directed the jury that "maliciously" meant "wickedly."
+
+ISSUE:
+What is the meaning of "maliciously" in criminal offences — does it mean wickedly, or does it require foresight of the consequences?
+
+HELD (Court of Criminal Appeal):
+The conviction was quashed. "Maliciously" in a criminal statute does NOT mean wickedly. It means:
+(a) INTENTION to do the particular kind of harm that was in fact done; OR
+(b) RECKLESSNESS as to whether such harm should occur or not — the accused foresaw that the particular type of harm might be done and yet went on to take the risk
+
+KEY PRINCIPLES:
+1. CUNNINGHAM RECKLESSNESS (Subjective recklessness):
+   - The accused ACTUALLY foresaw the risk of the particular type of harm
+   - The accused went ahead and took that risk
+   - This is a SUBJECTIVE test — what did the accused actually foresee?
+
+2. CONTRAST WITH CALDWELL RECKLESSNESS (since overruled):
+   - R v Caldwell [1981] introduced an objective test — what would a reasonable person have foreseen?
+   - Caldwell recklessness has been overruled by R v G and Another [2003] which restored subjective (Cunningham) recklessness
+
+3. CURRENT POSITION: Cunningham/subjective recklessness is the general test for recklessness in criminal law
+
+ELEMENTS OF MENS REA:
+Types of mens rea (fault elements):
+1. INTENTION: Deliberate desire to bring about the consequence OR virtually certain consequence (R v Moloney, R v Woolin)
+2. RECKLESSNESS (Cunningham): Conscious risk-taking — actually foreseeing the risk and going ahead
+3. NEGLIGENCE: Falling below the standard of the reasonable person (lower fault — criminal negligence)
+4. STRICT LIABILITY: No mens rea required as to one or more elements of the actus reus
+
+APPLICATION IN NIGERIA:
+R v Cunningham is applied in Nigerian criminal law on the meaning of mens rea, recklessness, and the fault elements of criminal offences. Under the Criminal Code Act, many offences require proof that the act was done "maliciously" or "recklessly" — Cunningham provides the standard for these terms. Applied in cases involving assault occasioning bodily harm, wounding, criminal damage, and endangerment offences.
+
+CITATION: [1957] 2 QB 396

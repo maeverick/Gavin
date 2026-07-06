@@ -1,0 +1,32 @@
+Subject: Criminal Law — Conspiracy, Common Intention
+Source: Okonkwo v The State (1998) 8 NWLR (Pt. 562) 450 — Nigerian Supreme Court
+
+CASE NAME: Okonkwo v The State (1998) 8 NWLR (Pt. 562) 450
+
+FACTS:
+The appellant and others were convicted of armed robbery and murder. The prosecution alleged that the appellant and his co-accused acted in concert to rob the deceased and in the course of the robbery, one of the group killed the deceased. The appellant argued he did not personally kill the deceased and therefore should not be convicted of murder.
+
+ISSUES:
+1. Where several persons act together in commission of a crime and one of them commits murder, are all liable for murder?
+2. What is the scope of criminal liability under common intention?
+
+HELD (Nigerian Supreme Court):
+Where persons form a common intention to prosecute an unlawful purpose and one of them commits an offence in furtherance of that common intention, each of them is deemed to have committed that offence. The appellant was guilty of murder by virtue of the common intention doctrine.
+
+KEY PRINCIPLES:
+1. COMMON INTENTION — Section 8 Criminal Code Act: Each person who forms a common intention to prosecute an unlawful purpose is criminally responsible for every offence committed by any of them in prosecution of that common purpose, provided the offence was a probable consequence of the prosecution of the common purpose
+2. PROBABLE CONSEQUENCE TEST: The accused need not have specifically intended the offence committed by another — it suffices that the offence was a probable consequence of the common enterprise
+3. ARMED ROBBERY: Under the Robbery and Firearms (Special Provisions) Act, armed robbery carries the death penalty in Nigeria
+4. CRIMINAL RESPONSIBILITY: Participation in a joint criminal enterprise makes each participant liable for acts done in furtherance of the enterprise
+
+ELEMENTS OF COMMON INTENTION (Section 8 CCA):
+(a) Two or more persons
+(b) Common intention to prosecute an unlawful purpose
+(c) An offence committed by one of them
+(d) The offence was committed in prosecution of the common purpose
+(e) The offence was a probable consequence of prosecution of that purpose
+
+APPLICATION IN NIGERIA:
+Okonkwo v State is the leading Nigerian authority on joint criminal liability under the common intention doctrine (Section 8 Criminal Code Act). Applied in cases involving robbery, murder, conspiracy, and gang-related offences. Essential for understanding how multiple accused persons can all be convicted of the same offence even where only one physically committed the act.
+
+CITATION: (1998) 8 NWLR (Pt. 562) 450

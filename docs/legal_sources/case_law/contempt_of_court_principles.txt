@@ -1,0 +1,73 @@
+Subject: Professional Ethics — Contempt of Court, Duties of Counsel to the Court
+Source: Contempt of Court Act; Legal Practitioners Act; Rules of Professional Conduct 2007; Nigerian case law
+
+CONTEMPT OF COURT IN NIGERIA
+
+DEFINITION:
+Contempt of court is any act or omission that tends to interfere with the administration of justice, undermine the authority of the court, or obstruct the due course of legal proceedings. Courts have inherent jurisdiction to punish contempt.
+
+TYPES OF CONTEMPT:
+
+1. CIVIL CONTEMPT:
+- Disobedience of a court order, injunction, or judgment
+- The most common form — failure to comply with a specific court direction
+- May be remedied by the contemnor purging the contempt (complying with the order)
+- Remedy: committal, fine, sequestration of assets
+- Key principle: the order must be clear and unambiguous — a person cannot be committed for contempt for disobeying an order they could not reasonably understand
+
+2. CRIMINAL CONTEMPT (CONTEMPT IN THE FACE OF THE COURT):
+- Conduct in the presence of the court that scandalises or interferes with proceedings
+- Examples: interrupting proceedings, abusing the judge in court, threatening witnesses in court
+- Summary jurisdiction: the court may deal with it immediately without a separate trial
+- Procedural fairness still required: even in summary proceedings, the alleged contemnor must be given an opportunity to be heard (Phonographic Performance v DTI [1992])
+
+3. SCANDALISING THE COURT:
+- Publishing material that attacks the integrity, impartiality, or authority of the court in a way calculated to undermine public confidence in the administration of justice
+- Must go beyond fair criticism — vigorous, even harsh criticism of a judicial decision is not contempt if made in good faith
+- Applied in Nigeria to prosecute publications or statements that impute corruption or bias to judges
+
+4. CONTEMPT BY JOURNALISTS/THIRD PARTIES:
+- Publishing material that prejudices a pending trial (sub judice rule)
+- Identifying jurors, publishing evidence excluded at trial, or interfering with witnesses
+
+SPECIFIC DUTIES OF COUNSEL THAT RELATE TO CONTEMPT:
+
+DUTY OF COURTESY TO THE COURT:
+- A legal practitioner must maintain a respectful and courteous demeanour in court at all times
+- Rule 30 RPC: Counsel must treat the court with respect and dignity
+- Insulting or abusing a judge — even if the judge is wrong — is contempt and professional misconduct
+- The remedy for a wrong ruling is appeal, not confrontation
+
+DUTY NOT TO DECEIVE THE COURT:
+- Rule 15 RPC: A legal practitioner must not knowingly make a false statement of fact or law to the court
+- Knowingly presenting fabricated evidence, citing non-existent authorities, or misquoting decided cases = contempt + professional misconduct
+- DISTINCTION: Arguing a weak case is not deception; knowingly lying to the court is
+
+DUTY TO DISCLOSE RELEVANT AUTHORITIES:
+- Where counsel is aware of a binding authority adverse to their client's case, they must disclose it to the court, even if opposing counsel has not cited it
+- The duty of candour to the court overrides the duty of zealous advocacy
+- Failure to disclose a directly relevant adverse authority may be contempt
+
+DISOBEDIENCE TO COURT ORDERS:
+- A legal practitioner who advises or assists a client to disobey a court order is personally liable for contempt
+- Counsel must advise clients to comply with court orders even where an appeal has been lodged (unless a stay of execution has been granted)
+
+PROCEDURE FOR COMMITTAL FOR CONTEMPT:
+1. Notice: the alleged contemnor must be given clear notice of the charge against them
+2. Hearing: the contemnor must be given an opportunity to be heard — right to counsel
+3. Standard of proof: beyond reasonable doubt (contempt is quasi-criminal)
+4. Sentencing: committal to prison (up to 3 months), fine, or both
+5. Purging contempt: the court may discharge a contemnor who apologises and complies with the order
+
+KEY NIGERIAN CASES:
+- Aiku v Yusuf [2007] — committal for disobedience to injunction
+- Odogwu v Odogwu [1992] — disobedience to court order, civil contempt
+- Fawehinmi v State [1985] — contempt by a legal practitioner, professional consequences
+
+PROFESSIONAL CONSEQUENCES OF CONTEMPT:
+- A conviction for contempt is a criminal conviction for the purposes of the Legal Practitioners Act
+- Conviction for contempt involving dishonesty or conduct unbecoming is a ground for referral to the LPDC
+- Contempt in the face of the court may result in immediate suspension from further appearance in that court
+- Multiple contempt convictions may lead to striking off the Roll
+
+CITATION: Rules of Professional Conduct 2007 (Rules 15, 30, 31); Legal Practitioners Act s.12

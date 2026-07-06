@@ -1,0 +1,75 @@
+Subject: Constitutional Law — Executive Immunity, Section 308, Immunity of President and Governors
+Source: Constitution of the Federal Republic of Nigeria 1999 (as amended) s.308; Nigerian Supreme Court cases on executive immunity
+
+EXECUTIVE IMMUNITY UNDER SECTION 308 CFRN
+
+THE PROVISION:
+Section 308(1) of the 1999 Constitution provides:
+"Notwithstanding anything to the contrary in this Constitution, but subject to subsection (2) of this section —
+(a) no civil or criminal proceedings shall be instituted or continued against a person to whom this section applies during his period of office;
+(b) a person to whom this section applies shall not be arrested or imprisoned during that period either in pursuance of the process of any court or otherwise; and
+(c) no process of any court requiring or compelling the appearance of a person to whom this section applies shall be applied for or issued:
+Provided that in ascertaining whether any period of limitation has expired for the purpose of determining whether proceedings may be commenced against a person after he ceases to hold the office, the period during which the section applied shall not be taken into account."
+
+PERSONS COVERED BY S.308:
+Section 308(3) specifies the persons protected:
+- The President of the Federal Republic of Nigeria
+- The Vice-President
+- Governors of each state
+- Deputy Governors of each state
+
+Note: The immunity does NOT extend to:
+- Ministers, commissioners, or other executive officers
+- Members of the National Assembly or State Houses of Assembly (they have separate parliamentary privileges, not s.308 immunity)
+- Local government chairmen
+
+SCOPE OF THE IMMUNITY — WHAT IS COVERED:
+
+1. CIVIL PROCEEDINGS:
+- No civil suit may be filed or continued against the protected person during their tenure
+- Applies to personal suits (breach of contract, tort, debt) as well as actions in their official capacity
+- Existing proceedings are STAYED (not dismissed) for the duration of the immunity
+
+2. CRIMINAL PROCEEDINGS:
+- No criminal charge may be filed or continued against the protected person during their tenure
+- The immunity is absolute — it applies to ALL criminal offences, including corruption, murder, and treason committed before or during office
+- The person cannot be arrested, detained, or prosecuted while in office
+
+3. COURT PROCESSES:
+- No summons, subpoena, or court process requiring the physical attendance of the protected person may be issued
+
+SCOPE — WHAT IS NOT COVERED:
+
+1. PRE-EXISTING JUDGMENTS AND THEIR ENFORCEMENT: The immunity prevents new proceedings and continuation of existing proceedings but does not extinguish judgments already obtained before the person took office — though enforcement is stayed
+2. LEGISLATIVE PROCEEDINGS: The immunity is from court proceedings — the National Assembly's power to impeach is not a "court proceeding"
+3. PROPERTY DISPUTES: There is some debate whether the immunity covers suits that do not directly implicate the person (e.g., a suit about a company in which they hold shares)
+
+RATIONALE FOR THE IMMUNITY:
+- To enable the President and Governors to discharge their constitutional functions without distraction from litigation
+- To protect the executive arm from harassment by judicial proceedings instigated for political purposes
+- The immunity is temporary — it expires when the person leaves office
+- The limitation period is tolled (paused) during the period of immunity — a claimant who cannot sue during the immunity period does not lose their right by reason of limitation
+
+CRITICISMS OF S.308 IMMUNITY:
+- The immunity has been criticised as shielding corrupt officials from accountability
+- Courts have held that even corruption, fraud, and serious crimes are covered — leading to arguments that the immunity is too broad
+- There is no provision for lifting the immunity where the national interest demands prosecution (e.g., where state funds are being dissipated)
+
+KEY CASES ON SECTION 308:
+1. Tinubu v IMB Securities Plc [2001]: Section 308 immunity covers personal suits, not just official acts — it is a blanket protection during tenure
+2. Fawehinmi v IGP [2002]: The immunity is absolute in its terms — courts cannot pierce it during the tenure period
+3. Rotimi Amaechi v INEC [2007] (related principles): Governors' constitutional rights and tenure
+
+IMMUNITY AND IMPEACHMENT:
+- Section 308 immunity does not protect a Governor or President from impeachment by the legislature — impeachment is not a court proceeding
+- A Governor may be impeached by the State House of Assembly under s.188 CFRN
+- Once removed by impeachment, the immunity ceases — they may then be prosecuted
+- The immunity equally ceases on expiry of tenure, resignation, or removal
+
+IMMUNITY AND THE EFCC/ICPC:
+The EFCC and ICPC cannot arrest, investigate with a view to prosecution, or prosecute a serving President, Vice-President, Governor, or Deputy Governor. However, investigations of matters not requiring the exercise of those powers may continue. Once the person leaves office, there is no bar to prosecution.
+
+APPLICATION IN NIGERIA:
+Section 308 immunity is one of the most controversial provisions of the 1999 Constitution. It is cited in virtually every attempt to prosecute serving governors or the President. Nigerian courts have consistently upheld the breadth of the immunity — no civil or criminal proceeding may be maintained, and the immunity is non-waivable by the protected person. The temporary nature of the immunity means that accountability is deferred, not extinguished — and several former governors have faced prosecution after leaving office.
+
+CITATION: Constitution of the Federal Republic of Nigeria 1999, s.308; Tinubu v IMB Securities Plc [2001] 16 NWLR (Pt. 740) 670

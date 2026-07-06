@@ -1,0 +1,29 @@
+Subject: Company Law — Majority Rule and Proper Plaintiff
+Source: Foss v Harbottle (1843) 2 Hare 461 — Applied in Nigerian company law
+
+CASE NAME: Foss v Harbottle (1843) 2 Hare 461, 67 ER 189
+
+FACTS:
+Two minority shareholders brought an action against directors of Victoria Park Company alleging misapplication of company property and fraud. The company had not authorised the action.
+
+ISSUES:
+1. Who is the proper plaintiff when a wrong is done to a company?
+2. Can minority shareholders sue for wrongs done to the company?
+
+HELD:
+The proper plaintiff for a wrong done to a company is the company itself. Individual shareholders cannot bring an action for a wrong done to the company as a whole. Where the wrong is one the majority could ratify, courts will not interfere at the suit of a minority.
+
+THE TWO RULES IN FOSS v HARBOTTLE:
+1. PROPER PLAINTIFF RULE: The company is the proper plaintiff for wrongs done to it
+2. MAJORITY RULE: Where an act is capable of confirmation by simple majority, the court will not interfere at the suit of a minority shareholder
+
+EXCEPTIONS (derivative action):
+1. Where the act is illegal or ultra vires the company
+2. Where the act requires a special majority but was done by a simple majority
+3. Where the act constitutes a fraud on the minority and wrongdoers control the company
+4. Where the personal rights of individual shareholders are infringed
+
+APPLICATION IN NIGERIA:
+Foss v Harbottle is the leading authority on minority shareholder rights in Nigerian company law. Applied under CAMA 2020 Sections 343-355 on minority protection. Nigerian courts apply the rule and its exceptions in shareholder disputes, winding up petitions, and corporate governance litigation.
+
+CITATION: (1843) 2 Hare 461, 67 ER 189

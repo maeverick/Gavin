@@ -1,0 +1,43 @@
+Subject: Professional Ethics — Solicitor's Duty to the Court, Wasted Costs
+Source: Myers v Elman [1940] AC 282 (House of Lords) — Applied in Nigerian professional ethics
+
+CASE NAME: Myers v Elman [1940] AC 282
+
+FACTS:
+A solicitor allowed his client to swear an affidavit which the solicitor knew, or ought to have known, contained false statements. The solicitor did not take steps to correct the false affidavit or draw the court's attention to its falsity. When the deception was discovered, the question arose whether the court could order the solicitor personally to pay costs wasted as a result of his conduct — wasted costs.
+
+ISSUE:
+Can a court order a solicitor (or counsel) to pay costs personally where their conduct of proceedings has been improper, unreasonable, or negligent, causing the other party to incur wasted costs?
+
+HELD (House of Lords):
+A court has inherent jurisdiction to order a solicitor to pay costs personally where the solicitor has been guilty of misconduct in the proceedings — including allowing or facilitating deception of the court — even where the solicitor has not acted dishonestly. The power exists to maintain the integrity of court proceedings and to compensate parties for costs wasted by a legal practitioner's improper conduct.
+
+KEY PRINCIPLES:
+
+WASTED COSTS JURISDICTION:
+1. INHERENT JURISDICTION: Courts have inherent power — existing independently of statute — to control their own process and discipline officers of the court (including legal practitioners)
+2. STATUTORY BASIS IN NIGERIA: The power to award costs against legal practitioners personally is recognised in the Rules of Court and in practice under the court's inherent jurisdiction
+3. PERSONAL LIABILITY: The order is made against the practitioner personally — not against the client — because it is the practitioner's own conduct that is being sanctioned
+4. SEPARATE FROM DISCIPLINARY PROCEEDINGS: A wasted costs order does not prevent separate disciplinary proceedings before the LPDC
+
+GROUNDS FOR WASTED COSTS ORDER:
+1. IMPROPER CONDUCT: Bringing a case or making an application that is clearly without merit, intended only to harass or delay
+2. UNREASONABLE CONDUCT: Persisting with a hopeless point after it has been clearly identified as hopeless
+3. NEGLIGENT CONDUCT: Conduct below the standard of a reasonably competent practitioner that causes the other party unnecessary expense
+4. MISLEADING THE COURT: Filing false affidavits, citing non-existent authorities, suppressing relevant evidence
+
+DUTY NOT TO MISLEAD BY SILENCE:
+A critical principle from Myers v Elman: a legal practitioner who knows that a document filed with the court contains false information must take active steps to correct it. Silence in the face of a known falsehood is itself a breach of the duty of candour to the court. The duty is proactive — the practitioner cannot shelter behind the fact that they did not create the false document.
+
+RELATED PRINCIPLE — AFFIDAVIT EVIDENCE:
+- A practitioner who swears or supervises the swearing of a false affidavit commits contempt of court
+- A practitioner who allows a client to swear to facts the practitioner knows to be false is also in breach of professional duty
+- Affidavits must only contain facts within the deponent's personal knowledge (or clearly stated to be on information and belief)
+
+OFFICER OF THE COURT:
+Myers v Elman is foundational for the principle that a legal practitioner is an officer of the court — not merely the agent of the client. As an officer of the court, the practitioner owes duties that run directly to the administration of justice and that override the duty to the client where the two conflict. A practitioner who acts purely in the client's interest at the expense of truth and justice breaches their fundamental professional obligation.
+
+APPLICATION IN NIGERIA:
+Nigerian courts apply the wasted costs jurisdiction against legal practitioners who abuse process, file incompetent or frivolous applications, or allow false affidavits to be placed before the court. The principle is regularly invoked in election petition proceedings, commercial litigation, and criminal matters where counsel conduct has been particularly improper. The power is used sparingly but firmly to protect the integrity of court proceedings.
+
+CITATION: [1940] AC 282

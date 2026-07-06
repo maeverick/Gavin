@@ -1,0 +1,29 @@
+Subject: Tort Law — Negligence
+Source: Donoghue v Stevenson [1932] AC 562 (House of Lords) — Applied extensively in Nigerian courts
+
+CASE NAME: Donoghue v Stevenson [1932] AC 562
+
+FACTS:
+Mrs Donoghue consumed ginger beer purchased by her friend. The opaque bottle contained decomposed remains of a snail. She suffered gastroenteritis and nervous shock. Having no contractual relationship with the manufacturer, she sued Stevenson in negligence.
+
+ISSUE:
+Does a manufacturer owe a duty of care to the ultimate consumer of their product where there is no contractual relationship between them?
+
+HELD (House of Lords, 3:2):
+Yes. Lord Atkin established the modern law of negligence. A manufacturer owes a duty of care to the ultimate consumer where:
+(a) The manufacturer intended the product to reach the consumer without intermediate examination
+(b) The manufacturer knew absence of reasonable care would result in injury
+
+THE NEIGHBOUR PRINCIPLE (Lord Atkin):
+"You must take reasonable care to avoid acts or omissions which you can reasonably foresee would be likely to injure your neighbour. Who, then, in law is my neighbour? Persons who are so closely and directly affected by my act that I ought reasonably to have them in contemplation as being so affected when I am directing my mind to the acts or omissions which are called in question."
+
+ELEMENTS OF NEGLIGENCE:
+1. Duty of care owed by defendant to claimant
+2. Breach of that duty
+3. Damage caused by the breach (causation)
+4. Damage not too remote
+
+APPLICATION IN NIGERIA:
+Donoghue v Stevenson is the foundational authority on negligence in Nigerian courts. The neighbour principle and three-stage test are applied in personal injury, product liability, and professional negligence cases. Cited in Amos v Shell-BP and numerous Nigerian Supreme Court decisions.
+
+CITATION: [1932] AC 562; [1932] UKHL 100

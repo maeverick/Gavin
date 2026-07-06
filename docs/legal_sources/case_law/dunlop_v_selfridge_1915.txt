@@ -1,0 +1,39 @@
+Subject: Contract Law — Consideration and Privity
+Source: Dunlop Pneumatic Tyre Co v Selfridge & Co Ltd [1915] AC 847 (House of Lords) — Applied in Nigeria
+
+CASE NAME: Dunlop Pneumatic Tyre Co v Selfridge & Co Ltd [1915] AC 847
+
+FACTS:
+Dunlop supplied tyres to a wholesaler (Dew & Co) on condition they would not sell below the listed price and would extract the same promise from retailers. Dew sold to Selfridge who agreed not to sell below the price. Selfridge later sold below the listed price. Dunlop sued Selfridge for breach of the price maintenance agreement, though Dunlop had no direct contract with Selfridge.
+
+ISSUE:
+Can Dunlop enforce a contract to which it was not a party?
+
+HELD (House of Lords):
+No. Dunlop could not enforce the agreement because it was not a party to the contract between Dew and Selfridge. Only a person who is a party to a contract can sue on it.
+
+Viscount Haldane LC stated the two fundamental principles:
+1. Only a person who is a party to a contract can sue on it
+2. A person can only enforce a contract if they have provided consideration for the promise
+
+KEY PRINCIPLES:
+1. PRIVITY OF CONTRACT: Only parties to a contract can enforce it
+2. CONSIDERATION: Consideration must move from the promisee — a third party who has given no consideration cannot enforce a promise made for their benefit
+3. A stranger to a contract acquires no rights and incurs no liabilities under it
+4. Agency exception: Where a contracting party acts as agent for a third party, the third party can sue
+5. Assignment: Rights (not burdens) under a contract may be assigned
+
+PRIVITY IN NIGERIA:
+The privity rule applies strictly in Nigeria. A third party who is the intended beneficiary of a contract cannot sue to enforce it unless:
+(a) They are an assignee of the benefit
+(b) The contracting party acted as their agent
+(c) There is a trust of the contractual promise
+(d) The third party has a separate legal entitlement (e.g., under insurance law)
+
+CRITICISM AND REFORM:
+The privity rule has been criticised as creating injustice where contracts are clearly intended to benefit third parties. English law reformed privity by the Contracts (Rights of Third Parties) Act 1999, but Nigeria has not enacted equivalent legislation. Nigerian courts continue to apply strict privity.
+
+APPLICATION IN NIGERIA:
+Dunlop v Selfridge is the leading House of Lords authority on privity of contract applied in Nigerian courts. Nigerian students must know this case for contract law examinations, particularly in questions on third party rights, distribution agreements, and enforcement by non-parties.
+
+CITATION: [1915] AC 847

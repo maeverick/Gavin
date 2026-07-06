@@ -1,0 +1,46 @@
+Subject: Land Law — Certificate of Occupancy, Right of Occupancy
+Source: Ajibola v Ajadi [2004] 14 NWLR (Pt. 893) 394 — Nigerian Court of Appeal
+
+CASE NAME: Ajibola v Ajadi [2004] 14 NWLR (Pt. 893) 394
+
+FACTS:
+The appellant claimed a right of occupancy over a piece of land backed by a Certificate of Occupancy (C of O) issued by the Governor under the Land Use Act 1978. The respondent challenged the validity of the C of O and claimed the land under customary right of occupancy. The dispute involved the hierarchy of rights of occupancy under the Land Use Act.
+
+ISSUES:
+1. What is the legal effect of a Certificate of Occupancy under the Land Use Act?
+2. What is the hierarchy of rights of occupancy under the Land Use Act 1978?
+
+HELD:
+A Certificate of Occupancy issued under the Land Use Act creates a right of occupancy. A holder of a statutory right of occupancy (backed by a C of O) has priority over a holder of a customary right of occupancy where the land falls within an urban area.
+
+KEY PRINCIPLES:
+
+LAND USE ACT 1978 — TYPES OF RIGHT OF OCCUPANCY:
+1. STATUTORY RIGHT OF OCCUPANCY: Granted by the Governor for urban land (Section 5 LUA)
+   - Evidenced by Certificate of Occupancy
+   - Maximum term: 99 years
+   - Can be transferred, mortgaged, subleased (with consent)
+   - Takes priority over customary right in urban areas
+2. CUSTOMARY RIGHT OF OCCUPANCY: Granted by Local Government for rural land (Section 6 LUA)
+   - Applies to land outside urban areas
+   - Governed by customary law
+   - Revocable for overriding public interest
+
+CERTIFICATE OF OCCUPANCY:
+- Prima facie evidence of a right of occupancy
+- Does not create title — it evidences/confirms existing right
+- Can be revoked by the Governor for public purpose (with compensation)
+- Cannot be issued twice for the same land — duplicate C of O raises rebuttable presumption of irregularity
+
+ALIENATION OF RIGHT OF OCCUPANCY:
+- Transfer, sublease, or mortgage requires CONSENT of the Governor (statutory) or Local Government (customary)
+- Alienation without consent is void (Section 22 LUA)
+- This is a mandatory statutory requirement
+
+SECTION 36 LUA — DEEMED GRANT:
+Land held before the Act came into force is deemed to have been granted a right of occupancy by operation of law.
+
+APPLICATION IN NIGERIA:
+Ajibola v Ajadi is applied in Nigerian land law cases involving Certificates of Occupancy, competing rights of occupancy, and the priority of statutory over customary rights in urban areas. Essential for understanding the practical operation of the Land Use Act 1978 in property transactions and litigation.
+
+CITATION: [2004] 14 NWLR (Pt. 893) 394

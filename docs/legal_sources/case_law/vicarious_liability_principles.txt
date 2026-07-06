@@ -1,0 +1,45 @@
+Subject: Tort Law — Vicarious Liability, Course of Employment, Employer Liability
+Source: Common law principles applied in Nigeria; Limpus v London General Omnibus Co (1862); Century Insurance Co v Northern Ireland Road Transport Board [1942] AC 509 (HL); Amos v Shell-BP Petroleum Development Co of Nigeria Ltd [1974] 4 SC 37
+
+VICARIOUS LIABILITY IN NIGERIA
+
+THE PRINCIPLE:
+An employer (master) is vicariously liable for torts committed by an employee (servant) acting in the course of their employment. The employer's liability is imposed even without personal fault — the employer has set in motion an enterprise that creates risks and bears the consequences.
+
+EMPLOYER-EMPLOYEE OR INDEPENDENT CONTRACTOR?
+Only employees attract vicarious liability. The distinction between an employee and an independent contractor is determined by:
+- CONTROL TEST (Yewens v Noakes (1880) 6 QBD 530): An employee is subject to the employer's control not only over what they do but how they do it. An independent contractor controls their own methods.
+- ORGANISATION/INTEGRATION TEST (Stevenson Jordan & Harrison v Macdonald [1952] 1 TLR 101): An employee's work is integrated into the employer's business; an independent contractor's work is accessory to it.
+- MULTI-FACTOR TEST: Modern courts weigh all relevant circumstances — method of payment, provision of equipment, exclusivity, tax treatment, and the practical reality of the relationship.
+
+COURSE OF EMPLOYMENT — THE CENTRAL TEST:
+The employer is liable where the employee's act was either an authorised act, or an unauthorised but wrongful mode of performing an authorised act. The test is whether the act was sufficiently connected with the employment.
+
+1. AUTHORISED WRONGFUL ACTS — LIMPUS v LONDON GENERAL OMNIBUS Co (1862) 1 H&C 526:
+A bus driver deliberately drove in front of a rival company's bus to obstruct it, contrary to his employer's express written instructions. The Court of Exchequer held the employer liable. Driving the bus was an authorised act; the reckless manner of driving was an unauthorised mode of doing that authorised act. An employer cannot escape liability by prohibiting a wrongful way of performing an authorised task.
+
+2. INCIDENTAL ACTS ON THE JOB — CENTURY INSURANCE CO v NORTHERN IRELAND ROAD TRANSPORT BOARD [1942] AC 509 (HL):
+A petrol tanker driver, while transferring petrol from his tanker to an underground tank, lit a cigarette and carelessly dropped the lit match, causing a fire and explosion. The House of Lords held the employer liable. The driver was doing his job — transferring petrol — when the negligent act occurred. The lighting of a cigarette was an act done in the course of performing his employment duties. The employer was vicariously liable.
+
+3. NIGERIAN APPLICATION — AMOS v SHELL-BP PETROLEUM DEVELOPMENT CO OF NIGERIA LTD [1974] 4 SC 37:
+The Supreme Court applied the course of employment test and held Shell-BP liable for damage caused by one of its drivers while performing work authorised by the company. Nigerian courts have consistently followed the English common law position: an employer cannot escape liability by showing that the precise act was prohibited if the overall activity was within the employee's role.
+
+FROLIC OF ONE'S OWN — ACTS OUTSIDE THE COURSE OF EMPLOYMENT:
+An employee who substantially departs from the scope of their employment for a personal purpose is on a "frolic of their own" and the employer is not liable. Key cases:
+- Joel v Morison (1834) 6 C&P 501: A servant who drove his employer's cart on a detour for his own purposes took himself outside the course of employment.
+- The degree of deviation matters: a small detour may still be within the course of employment; a substantial personal digression will not be.
+
+NON-DELEGABLE DUTIES — EMPLOYER STILL LIABLE FOR INDEPENDENT CONTRACTORS:
+In limited circumstances an employer owes a non-delegable duty and remains liable even for the negligence of an independent contractor:
+- Work on or near the highway creating risks to the public
+- Extra-hazardous activities
+- Withdrawal of support from neighbouring land
+
+DEFENCES AND CONTRIBUTION:
+- An employer found vicariously liable may seek contribution or indemnity from the employee who caused the damage.
+- Contributory negligence by the claimant reduces damages proportionately.
+
+APPLICATION IN NIGERIA:
+Vicarious liability is central to employer liability in Nigerian tort law. Transport companies, oil companies, construction firms, hospitals, and government agencies are regularly sued for the acts of employees. The course of employment test is the main battleground — Nigerian courts apply Limpus and Century Insurance consistently. The most important rule for practitioners: an employer's express prohibition of a particular method does not automatically take the employee outside the course of employment if the underlying task was authorised.
+
+CITATION: Limpus v London General Omnibus Co (1862) 1 H&C 526; Century Insurance Co v Northern Ireland Road Transport Board [1942] AC 509 (HL); Amos v Shell-BP Petroleum Development Co of Nigeria Ltd [1974] 4 SC 37

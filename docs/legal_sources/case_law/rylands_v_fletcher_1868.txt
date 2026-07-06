@@ -1,0 +1,39 @@
+Subject: Tort Law — Strict Liability (Rule in Rylands v Fletcher)
+Source: Rylands v Fletcher (1868) LR 3 HL 330 (House of Lords) — Applied in Nigerian courts
+
+CASE NAME: Rylands v Fletcher (1868) LR 3 HL 330
+
+FACTS:
+The defendant employed independent contractors to build a reservoir on his land. The contractors negligently failed to block up old mine shafts. When the reservoir was filled, water burst through the shafts and flooded the plaintiff's mines. The defendant was not personally negligent. At first instance the defendant was held not liable (no personal negligence). The Court of Exchequer Chamber reversed. The House of Lords affirmed.
+
+ISSUE:
+Can a landowner be liable for damage caused by an escape of something accumulated on their land, even without personal negligence?
+
+HELD:
+EXCHEQUER CHAMBER (Blackburn J, affirmed by House of Lords):
+"The person who for his own purposes brings on his lands and collects and keeps there anything likely to do mischief if it escapes, must keep it in at his peril, and, if he does not do so, is prima facie answerable for all the damage which is the natural consequence of its escape."
+
+Lord Cairns in the House of Lords added the requirement of NON-NATURAL USE of land.
+
+ELEMENTS OF THE RULE:
+1. The defendant brought onto their land something likely to cause mischief if it escapes
+2. The thing accumulated constitutes a NON-NATURAL USE of the land
+3. The thing escaped
+4. The escape caused damage to the claimant
+
+KEY PRINCIPLES:
+1. STRICT LIABILITY: No need to prove negligence — liability arises from accumulation and escape
+2. NON-NATURAL USE: An extraordinary use of land that introduces special danger (e.g., large quantities of water, gas, chemicals, fire). Ordinary domestic use is natural.
+3. DEFENCES to Rylands v Fletcher:
+   (a) Act of God — unforeseeable natural event
+   (b) Act of a stranger (third party interference)
+   (c) Common benefit — both parties benefited from the accumulation
+   (d) Statutory authority
+   (e) Contributory negligence of the claimant
+   (f) Consent of the claimant
+4. THINGS THAT HAVE BEEN APPLIED: water, gas, electricity, chemicals, explosives, fire, colliery spoil
+
+APPLICATION IN NIGERIA:
+Rylands v Fletcher is applied in Nigerian tort law cases involving industrial accidents, oil spills, pipeline explosions, and environmental damage. Particularly relevant in cases involving oil companies and damage from oil spills or pipeline failures in the Niger Delta. Nigerian courts have applied the rule in environmental liability cases where communities seek compensation for damage from oil company operations.
+
+CITATION: (1868) LR 3 HL 330; (1866) LR 1 Exch 265

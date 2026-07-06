@@ -1,0 +1,36 @@
+Subject: Company Law — Just and Equitable Winding Up, Quasi-Partnership
+Source: Ebrahimi v Westbourne Galleries Ltd [1973] AC 360 (House of Lords)
+
+CASE NAME: Ebrahimi v Westbourne Galleries Ltd [1973] AC 360
+
+FACTS:
+Ebrahimi and Nazar had run a carpet business in partnership for many years. They later incorporated as a company, Westbourne Galleries Ltd. Each held equal shares and both were directors. Later, Nazar's son joined as a director and shareholder. Ebrahimi and the Nazars fell out. The Nazars used their majority to pass a resolution removing Ebrahimi as a director. He could not participate in management and received no dividend on his shares. He petitioned for winding up on the "just and equitable" ground.
+
+ISSUE:
+When will the court order winding up of a company on the just and equitable ground where a member has been excluded from management?
+
+HELD (House of Lords, Lord Wilberforce):
+Winding up was ordered. Companies can be based on a personal relationship of mutual trust and confidence — a "quasi-partnership." In such cases, equitable considerations apply beyond the strict legal rights. Exclusion of a member from management in breach of an understanding on which he joined the company may justify winding up on the just and equitable ground.
+
+THE QUASI-PARTNERSHIP DOCTRINE:
+A company may be treated as a quasi-partnership where:
+1. An association formed on a basis of personal relationship, involving mutual confidence
+2. An understanding that all (or some) members would participate in the conduct of the business
+3. Restriction on the transfer of shares, so that a member cannot simply exit by selling shares
+
+Where these elements exist, courts will apply equitable considerations beyond strict legal rights — the "just and equitable" ground for winding up gives effect to these.
+
+KEY PRINCIPLES:
+1. JUST AND EQUITABLE WINDING UP (Companies and Allied Matters Act, Section 571):
+   Court may order winding up where it is just and equitable to do so
+2. GROUNDS include:
+   (a) Deadlock in management
+   (b) Destruction of the substratum (main purpose) of the company
+   (c) Justifiable loss of confidence in management
+   (d) Exclusion of a member from management in breach of understanding
+3. ALTERNATIVE REMEDY: Court may also grant relief under oppression of minority provisions (Section 311 CAMA 2020) — buying out the petitioner's shares instead of winding up
+
+APPLICATION IN NIGERIA:
+Ebrahimi v Westbourne Galleries is applied in Nigerian company law in disputes between shareholders of small private companies (quasi-partnerships). Applied under Section 571 CAMA 2020 (just and equitable winding up) and Section 311 CAMA 2020 (unfairly prejudicial conduct). Nigerian courts apply the quasi-partnership doctrine to protect minority shareholders in family companies and small businesses.
+
+CITATION: [1973] AC 360

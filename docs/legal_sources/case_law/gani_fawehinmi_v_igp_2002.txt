@@ -1,0 +1,40 @@
+Subject: Constitutional Law — Fundamental Rights Enforcement, Locus Standi
+Source: Gani Fawehinmi v Inspector General of Police [2002] 7 NWLR (Pt. 767) 606 — Nigerian Supreme Court
+
+CASE NAME: Gani Fawehinmi v Inspector General of Police [2002] 7 NWLR (Pt. 767) 606
+
+FACTS:
+Chief Gani Fawehinmi, a senior advocate and human rights activist, was arrested and detained by the police in connection with his activities as a human rights lawyer. He brought an action under the Fundamental Rights (Enforcement Procedure) Rules, challenging the detention as a violation of his constitutional rights to personal liberty and freedom of movement. The case raised important questions about the right to enforce human rights and the scope of the enforcement procedure.
+
+ISSUES:
+1. What is the scope of the Fundamental Rights (Enforcement Procedure) Rules?
+2. Who has standing to bring a fundamental rights application?
+3. What remedies are available under the Rules?
+
+HELD (Supreme Court):
+The Fundamental Rights (Enforcement Procedure) Rules should be given a liberal and generous interpretation to advance the object of protecting constitutional rights. Any person whose fundamental right is being violated or is threatened with violation may bring an application. The Rules are remedial and should not be interpreted restrictively.
+
+KEY PRINCIPLES:
+1. LIBERAL INTERPRETATION: The Fundamental Rights (Enforcement Procedure) Rules must be interpreted broadly to fulfil the constitutional purpose of protecting rights
+2. LOCUS STANDI: Any person whose right is infringed, or who reasonably believes their right is about to be infringed, has standing to apply
+3. PROCEDURE: Applications are by originating motion supported by affidavit evidence
+4. RESPONDENTS: Actions may be brought against any person or authority (including the police, military, government agencies)
+5. REMEDIES available include:
+   (a) Declaration that rights have been violated
+   (b) Injunction restraining further violation
+   (c) Compensatory damages
+   (d) Order for release from detention
+6. URGENCY: The court may hear applications urgently where there is imminent threat to rights
+7. HUMAN RIGHTS ADVOCATES: Lawyers who represent clients in human rights cases have standing and cannot be intimidated or arrested for doing so
+
+THE FUNDAMENTAL RIGHTS (ENFORCEMENT PROCEDURE) RULES 2009:
+The rules were subsequently updated in 2009, further liberalising access to courts for rights enforcement. Key features:
+- Public interest litigation is permitted
+- Amicus curiae applications are allowed
+- Parties need not have suffered personal harm — public interest suffices
+- Pro bono representation is encouraged
+
+APPLICATION IN NIGERIA:
+Gani Fawehinmi v IGP is the leading authority on fundamental rights enforcement procedure in Nigeria. Cited in every fundamental rights application. The liberal interpretation principle has expanded access to justice for Nigerians whose constitutional rights are violated by state actors. Essential for constitutional law and human rights law examinations.
+
+CITATION: [2002] 7 NWLR (Pt. 767) 606

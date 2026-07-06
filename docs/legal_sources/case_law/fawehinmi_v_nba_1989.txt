@@ -1,0 +1,44 @@
+Subject: Professional Ethics — Right to Practice, NBA Powers, Legal Practitioners
+Source: Chief Gani Fawehinmi v Nigerian Bar Association & Anor (No. 2) [1989] 2 NWLR (Pt. 105) 558 — Nigerian Supreme Court
+
+CASE NAME: Chief Gani Fawehinmi v Nigerian Bar Association (No. 2) [1989] 2 NWLR (Pt. 105) 558
+
+FACTS:
+Chief Gani Fawehinmi, a prominent human rights lawyer, was convicted of contempt of court by a military tribunal. Following the conviction, the Nigerian Bar Association (NBA) purported to suspend him from practicing as a legal practitioner. Fawehinmi challenged the NBA's power to suspend him, arguing that the NBA had no statutory authority to suspend or discipline legal practitioners — that power belonging exclusively to the Legal Practitioners Disciplinary Committee (LPDC) under the Legal Practitioners Act.
+
+ISSUE:
+Does the Nigerian Bar Association have the power to suspend a legal practitioner from practice? Who has the authority to discipline legal practitioners in Nigeria?
+
+HELD (Supreme Court):
+The NBA does not have the power to suspend or discipline a legal practitioner from practice. The authority to discipline legal practitioners — including suspension and striking off — vests exclusively in the Legal Practitioners Disciplinary Committee (LPDC) established under the Legal Practitioners Act. The NBA is a professional association, not a statutory disciplinary body. Any purported suspension by the NBA was null and void.
+
+KEY PRINCIPLES:
+
+DISCIPLINARY AUTHORITY OVER LEGAL PRACTITIONERS:
+1. LPDC IS THE SOLE DISCIPLINARY BODY: The Legal Practitioners Disciplinary Committee (LPDC) has exclusive statutory power to discipline legal practitioners — suspend, strike off, or impose conditions on practice
+2. NBA HAS NO DISCIPLINARY POWER: The NBA is a voluntary professional association; it may regulate its own membership but cannot strip a person of their right to practice law
+3. STATUTORY BASIS REQUIRED: The power to remove a person's right to practice a profession must have clear statutory authority — it cannot be implied or claimed by a non-statutory body
+4. RIGHT TO PRACTICE IS PROPERTY: A legal practitioner's right to practice is a valuable right akin to property — it cannot be taken away without due process and proper statutory authority
+5. DUAL MEMBERSHIP: Membership of the NBA and the right to practice as a legal practitioner are distinct — loss of NBA membership does not affect the right to practice (which comes from admission to the Bar under the Legal Practitioners Act)
+
+THE LEGAL PRACTITIONERS DISCIPLINARY COMMITTEE (LPDC):
+- Established under the Legal Practitioners Act (Cap L11 LFN 2004)
+- Has power to: caution, suspend, or strike off a legal practitioner from the Roll
+- Proceedings before the LPDC must observe rules of natural justice — fair hearing, notice of allegations, right to be heard
+- Appeals from LPDC decisions lie to the Court of Appeal
+
+GROUNDS FOR DISCIPLINE:
+1. Professional misconduct (dishonesty, fraud, deceit in professional dealings)
+2. Conviction of a criminal offence involving moral turpitude
+3. Conduct unbecoming of a legal practitioner
+4. Breach of the Rules of Professional Conduct for Legal Practitioners 2007
+
+NATURAL JUSTICE IN DISCIPLINARY PROCEEDINGS:
+- Audi alteram partem: the practitioner must be given notice of the charge and an opportunity to be heard
+- Nemo iudex in causa sua: the tribunal must be impartial — no member with a personal interest in the outcome
+- Failure to observe natural justice renders disciplinary proceedings null and void
+
+APPLICATION IN NIGERIA:
+Fawehinmi v NBA is the leading authority on the limits of the NBA's powers and the exclusive disciplinary jurisdiction of the LPDC. It is cited whenever questions arise about who may discipline a legal practitioner and by what procedure. It also affirms that fundamental rights (including the right to practice one's profession) cannot be removed by a non-statutory body without clear legal authority.
+
+CITATION: [1989] 2 NWLR (Pt. 105) 558

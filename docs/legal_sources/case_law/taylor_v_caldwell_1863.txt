@@ -1,0 +1,36 @@
+Subject: Contract Law — Frustration
+Source: Taylor v Caldwell (1863) 3 B&S 826 — Applied in Nigerian courts
+
+CASE NAME: Taylor v Caldwell (1863) 3 B&S 826
+
+FACTS:
+The defendants agreed to let the Surrey Gardens and Music Hall to the plaintiffs for four days for concerts. Before the first concert, the hall was destroyed by fire through no fault of either party. The plaintiffs sued for their wasted expenditure in preparation for the concerts.
+
+ISSUE:
+Where performance of a contract becomes impossible due to an event beyond the parties control, is the contract discharged?
+
+HELD (Queen's Bench, Blackburn J):
+Where a contract depends on the continued existence of a specific thing, and that thing ceases to exist without fault of either party, both parties are excused from further performance. The contract is subject to an implied condition that the parties shall be excused in case, before breach, performance becomes impossible from the perishing of the thing.
+
+KEY PRINCIPLES:
+1. THE DOCTRINE OF FRUSTRATION: A contract is discharged when a supervening event, not caused by either party and not contemplated at the time of contracting, makes performance physically or legally impossible
+2. Frustration operates automatically — the contract is discharged from the moment of the frustrating event
+3. The implied term theory: Blackburn J based frustration on an implied condition in the contract
+4. Frustration distinguished from breach — no liability arises where frustration occurs
+
+GROUNDS FOR FRUSTRATION:
+- Destruction of the subject matter (Taylor v Caldwell)
+- Death or incapacity of a party in personal service contracts
+- Government intervention/supervening illegality
+- Failure of a specific event that was the foundation of the contract (coronation cases)
+- Radical change in circumstances making performance fundamentally different
+
+LIMITATIONS:
+- Self-induced frustration: a party cannot rely on frustration caused by their own act
+- Commercial inconvenience or increased expense alone does not frustrate a contract
+- Express allocation of risk in the contract prevents frustration
+
+APPLICATION IN NIGERIA:
+Taylor v Caldwell is the foundational authority on frustration of contract in Nigerian law. Applied in cases involving destruction of property, death of contractors, and supervening events. Nigerian courts have applied frustration in cases involving government acquisitions of leased premises and impossibility arising from legislative changes.
+
+CITATION: (1863) 3 B&S 826; 122 ER 309

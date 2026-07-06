@@ -1,0 +1,65 @@
+Subject: Evidence Law — Key Principles under the Evidence Act 2011
+Source: Evidence Act 2011 (Cap E14 LFN); Nigerian case law on evidence
+
+BURDEN AND STANDARD OF PROOF:
+
+SECTIONS 131-133 EVIDENCE ACT 2011:
+- Section 131: Whoever desires a court to give judgment based on facts must prove those facts
+- Section 132: The burden of proof lies on the person who would fail if no evidence was given by either side
+- Section 133: The standard of proof in civil cases is the balance of probabilities
+- Section 135: The standard of proof in criminal cases is beyond reasonable doubt
+
+CONFESSIONS — SECTIONS 28-32 EVIDENCE ACT 2011:
+A confession is an admission by an accused of all facts necessary to constitute the offence charged.
+ADMISSIBILITY:
+- Confessions are admissible if made voluntarily
+- NOT admissible if obtained by inducement, threat, or promise held out by a person in authority
+- The court conducts a TRIAL WITHIN A TRIAL (voir dire) to determine voluntariness
+KEY CASE: Ibrahim v R [1914] AC 599: "It has long been established as a positive rule of English criminal law that no statement by an accused is admissible in evidence against him unless it is shown to have been a voluntary statement, in the sense that it has not been obtained from him by fear of prejudice or hope of advantage."
+
+HEARSAY EVIDENCE — SECTIONS 37-40 EVIDENCE ACT 2011:
+RULE: An out-of-court statement tendered to prove the truth of its contents is inadmissible hearsay.
+EXCEPTIONS to hearsay rule:
+1. Admissions and confessions (Section 20)
+2. Statements in public documents
+3. Dying declarations (Section 40) — statement made in settled expectation of death, relating to the cause of death
+4. Business records
+5. Statements by persons since deceased, if made in the ordinary course of business
+6. Res gestae — statements forming part of the transaction
+
+DOCUMENTARY EVIDENCE:
+- Documents must be authenticated/proved
+- BANKERS BOOKS EVIDENCE ACT: Bank records are admissible on production of certified copies
+- Computer-generated evidence: admissible under Section 84 Evidence Act 2011 if conditions satisfied
+
+SECTION 84 — COMPUTER EVIDENCE:
+A statement contained in a document produced by a computer is admissible if:
+(a) The document was produced by the computer during a period when the computer was used to store or process information
+(b) The kind of information in the document was regularly supplied to the computer
+(c) The computer was operating properly throughout the material period
+(d) The information contained in the statement reproduces or is derived from information supplied to the computer
+
+OPINION EVIDENCE — SECTIONS 67-76:
+General rule: witnesses must speak to facts, not opinions
+EXCEPTION — EXPERT EVIDENCE (Section 68):
+An expert may give opinion evidence on matters requiring special skill or knowledge:
+- Medical experts
+- Forensic experts
+- Handwriting experts
+- Financial experts
+
+PRIVILEGE:
+1. LEGAL PROFESSIONAL PRIVILEGE (Section 192): Communications between solicitor and client for the purpose of legal advice are absolutely privileged
+2. WITHOUT PREJUDICE COMMUNICATIONS: Statements made in genuine negotiations to settle a dispute are privileged and inadmissible
+3. PRIVILEGE AGAINST SELF-INCRIMINATION: A witness may refuse to answer questions that would expose them to criminal liability
+
+CORROBORATION:
+Certain evidence requires corroboration (supporting evidence) before conviction:
+- Evidence of an accomplice
+- Evidence in sexual offences (warning required)
+- Evidence of a child of tender years
+
+APPLICATION IN NIGERIA:
+Evidence law is a core Bar examination subject. The Evidence Act 2011 applies to all proceedings in federal courts and all states (except the North where some modifications apply). These principles are applied in every civil and criminal proceeding in Nigeria.
+
+CITATION: Evidence Act 2011, Cap E14 LFN 2004 (as amended)

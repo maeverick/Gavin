@@ -1,0 +1,49 @@
+Subject: Equity and Trusts — Constitution of Trust, Transferor Has Done Everything Required
+Source: Re Rose [1952] Ch 499 (Court of Appeal) — Applied in Nigerian equity
+
+CASE NAME: Re Rose [1952] Ch 499
+
+FACTS:
+Mr Rose executed a transfer of shares in a company to his wife on 30 March 1943. The transfer was in the correct form but had to be registered by the company's directors before legal title would pass to the wife. The directors registered the transfer on 30 June 1943. The question arose in the context of estate duty — if the gift was complete on 30 March, it fell outside the five-year period for clawback; if it was only complete on 30 June, it was caught by the duty.
+
+ISSUE:
+When was the gift of shares complete — when the transfer form was executed and delivered, or when it was registered by the company?
+
+HELD (Court of Appeal):
+The gift was complete on 30 March 1943, the date the transfer form was executed and handed to the transferee. At that point, Rose had done everything in his power to divest himself of the shares — he had executed the instrument of transfer and delivered it. The only remaining step (registration) was a ministerial act to be performed by the company directors, not by Rose. Accordingly, from 30 March, Rose held the shares on trust for his wife pending registration.
+
+THE RULE IN RE ROSE:
+Where a transferor has done everything in their power that is necessary to transfer the legal title, and only a ministerial act by a third party (not the transferor) remains to complete the transfer, equity treats the transfer as complete from the moment the transferor has done all that they can.
+
+An immediate trust arises from that moment: the transferor holds the property on trust for the intended recipient until the formalities are completed by the third party.
+
+KEY PRINCIPLES:
+
+THE "DONE EVERYTHING" TEST:
+1. The transferor must have taken every step within their own control required to transfer the property
+2. The remaining act must be by a third party (e.g., company registrar, Land Registry), not the transferor
+3. If any step that only the transferor can take remains undone, the rule in Re Rose does not apply and the gift is incomplete (Milroy v Lord applies)
+
+CONTRAST WITH MILROY v LORD:
+In Milroy v Lord, the settlor had not done everything necessary — the power of attorney given to Lord could have been used to register the shares, but Lord failed to exercise it. The failure to register was attributable to the settlor's agent (Lord), so the gift was imperfect.
+In Re Rose, nothing more remained for the donor to do — registration was entirely in the hands of the company directors, over whom Rose had no control.
+
+THE TRUST PENDING COMPLETION:
+During the period between the transferor doing all that they can and the third party completing the formality, the transferor holds the property on a bare trust for the recipient. The transferor must not take any step inconsistent with the intended transfer — they must assist the recipient in obtaining registration.
+
+PRACTICAL APPLICATIONS:
+
+SHARES:
+- A validly executed stock transfer form, delivered to the transferee (or their broker), constitutes the transfer in equity from the date of execution even before company registration
+
+LAND (NIGERIA):
+- The equivalent principle applies: once a vendor has executed a deed of assignment and delivered it, they hold the land on trust for the purchaser pending registration with the appropriate land registry
+- The registered title has not yet passed, but the equitable interest has
+
+TESTAMENTARY CONTEXT:
+- Re Rose arose in an estate duty context and the principle has been applied in succession cases to determine when property passes for purposes of tax and estate planning
+
+APPLICATION IN NIGERIA:
+Re Rose is applied in Nigerian equity in share transactions, property conveyancing, and succession planning. The case is particularly significant in commercial transactions where the interval between execution and registration of a transfer creates uncertainty about ownership. Nigerian courts have applied the principle that equity looks upon as done that which ought to be done — if the parties intend a transaction to be complete, and the transferor has done all that is required of them, equity regards the transfer as effective from that moment.
+
+CITATION: [1952] Ch 499; [1952] 1 All ER 1217

@@ -1,0 +1,47 @@
+Subject: Professional Ethics — Immunity of Counsel, Advocate's Immunity, Professional Negligence
+Source: Rondel v Worsley [1969] 1 AC 191 (House of Lords) — Applied in Nigerian professional ethics discourse
+
+CASE NAME: Rondel v Worsley [1969] 1 AC 191
+
+FACTS:
+Rondel was convicted of causing grievous bodily harm. He alleged that his barrister, Worsley, had conducted his defence negligently. Rondel sought damages against Worsley for professional negligence. The question arose whether a barrister owed a duty of care to his client in respect of the conduct of proceedings in court, and if so, whether public policy considerations excluded liability.
+
+ISSUE:
+Is a barrister liable to their client in negligence for the manner in which they conduct a case in court?
+
+HELD (House of Lords):
+A barrister is immune from an action in negligence by their client in respect of the conduct of a case in court and the work intimately connected with it. The immunity is justified by public policy: the barrister's overriding duty to the court, the need for finality in litigation, and the undesirability of relitigating decided cases under the guise of a negligence action.
+
+NOTE — LATER DEVELOPMENT:
+Rondel v Worsley was the leading authority for decades. In England, advocate's immunity was significantly curtailed by Arthur J S Hall & Co v Simons [2002] 1 AC 615 (House of Lords), which held that public policy no longer justified the blanket immunity of solicitor-advocates in civil cases. The immunity in criminal cases was also questioned. Nigerian courts have not uniformly adopted the Hall v Simons departure and the position in Nigeria remains influenced by Rondel v Worsley.
+
+KEY PRINCIPLES:
+
+ADVOCATE'S IMMUNITY (THE TRADITIONAL RULE):
+1. A barrister is immune from suit by their client for negligence in the conduct of proceedings in court
+2. The immunity extends to pre-trial work that is intimately connected with the conduct of the case (e.g., settling pleadings, advising on trial strategy)
+3. Routine office work (e.g., drafting a will, advising on a non-contentious transaction) does NOT attract immunity — the practitioner is liable in negligence like any other professional
+4. The immunity is a public policy rule, not a contractual exemption
+
+RATIONALE FOR IMMUNITY:
+1. THE DUAL DUTY PROBLEM: A barrister owes a duty to the client AND to the court — the duties may conflict, and it would be unjust to make the barrister pay damages for discharging the duty to the court
+2. FINALITY OF LITIGATION: Allowing negligence suits would relitigate decided cases — the losing client says "I only lost because my barrister was negligent"
+3. CAB-RANK RULE: Barristers must accept any brief — they should not be deterred by fear of negligence suits from accepting difficult or unpopular cases
+4. WITNESS IMMUNITY ANALOGY: Witnesses are immune from suit for what they say in court — advocates are officers of the court in a similar position
+
+PROFESSIONAL NEGLIGENCE WHERE IMMUNITY DOES NOT APPLY:
+- Failure to give advice on limitation periods before litigation — actionable
+- Negligent handling of a purely transactional matter (sale, lease, company formation) — actionable
+- Failure to advise the client of a reasonable settlement offer — may be actionable
+- Negligent drafting of non-contentious documents — actionable
+- Failure to file documents by a deadline (not directly related to conduct in court) — may be actionable
+
+STANDARD OF CARE IN PROFESSIONAL NEGLIGENCE:
+- A legal practitioner is judged against the standard of a reasonably competent practitioner in the relevant field
+- Bolam v Friern Hospital Management Committee [1957] test adapted for lawyers: not negligent if acting in accordance with a practice accepted by a responsible body of practitioners in the field
+- Specialists are held to the standard of the relevant specialty
+
+APPLICATION IN NIGERIA:
+Rondel v Worsley is cited in Nigerian professional ethics and civil procedure contexts when questions of advocate's immunity and professional negligence arise. Nigerian courts have generally upheld some degree of immunity for barristers in the conduct of courtroom work, though the precise limits remain subject to development. Legal practitioners face full negligence liability for non-contentious work and are increasingly exposed to liability for failures in client advice outside the courtroom.
+
+CITATION: [1969] 1 AC 191

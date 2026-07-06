@@ -1,0 +1,29 @@
+Subject: Contract Law — Consideration and Part Payment
+Source: Foakes v Beer (1884) 9 App Cas 605 (House of Lords)
+
+CASE NAME: Foakes v Beer (1884) 9 App Cas 605
+
+FACTS:
+Mrs Beer had obtained a judgment against Dr Foakes for £2,090 19s. They agreed in writing that if Foakes paid £500 immediately and the balance by instalments, Beer would not take any proceedings on the judgment. Foakes paid the full principal in instalments but Beer then sued for interest on the judgment debt. Foakes argued Beer had agreed to accept the principal in full satisfaction.
+
+ISSUE:
+Does a creditor's promise to accept part payment in full satisfaction of the whole debt constitute a binding contract?
+
+HELD (House of Lords):
+No. A promise to accept part payment in full discharge of a debt is not binding for want of consideration. Payment of a lesser sum cannot be satisfaction for a greater sum. The rule in Pinnel's Case (1602) was affirmed: payment of a lesser sum on the day, at the creditor's request, can be satisfaction — but only if accompanied by some other consideration.
+
+THE RULE IN PINNEL'S CASE (affirmed):
+Payment of a smaller sum cannot be full satisfaction for a larger debt UNLESS:
+(a) Payment is made earlier than required
+(b) Payment is made at a different place at the creditor's request
+(c) Payment is made in a different form (e.g., a chattel instead of money)
+(d) A third party pays on the debtor's behalf
+(e) There is a composition agreement with all creditors
+
+PROMISSORY ESTOPPEL AS EXCEPTION:
+Following Central London Property Trust v High Trees House [1947], promissory estoppel may prevent a creditor from going back on a clear promise to accept less, if the debtor has relied on it. However, in Nigeria as in England, promissory estoppel is a shield (defence) not a sword (cause of action).
+
+APPLICATION IN NIGERIA:
+Foakes v Beer is cited in Nigerian contract law examinations on consideration, accord and satisfaction, and part payment of debt. Nigerian courts apply the rule that consideration must be sufficient — payment of less cannot satisfy more without additional consideration. Promissory estoppel provides a limited equitable exception.
+
+CITATION: (1884) 9 App Cas 605

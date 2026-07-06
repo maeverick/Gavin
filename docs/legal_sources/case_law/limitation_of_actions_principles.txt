@@ -1,0 +1,59 @@
+Subject: Civil Procedure — Limitation of Actions, Statutes of Limitation, Time Bars in Nigerian Civil Proceedings
+Source: Limitation Law (various states); Limitation Act (Federal); Nigerian case law
+
+LIMITATION OF ACTIONS IN NIGERIA
+
+THE POLICY BEHIND LIMITATION PERIODS:
+Statutes of limitation extinguish (or bar) the right to bring legal proceedings after the expiry of a specified period from the date on which the cause of action accrued. The rationale is threefold:
+1. To protect defendants from stale claims where evidence has been lost and witnesses' memories have faded
+2. To encourage claimants to pursue claims diligently
+3. To promote certainty and finality in legal relations
+
+SOURCES OF LIMITATION LAW IN NIGERIA:
+- Federal: The Limitation Act (Cap L15 LFN 2004) governs actions in Federal High Court proceedings and actions against federal agencies
+- States: Each state has its own Limitation Law (e.g., the Lagos State Limitation Law 2015; Rivers State Limitation Law)
+- Specific statutes: Special limitation periods are sometimes prescribed by subject-specific legislation (e.g., the Public Officers Protection Act; the Recovery of Premises Law)
+
+KEY LIMITATION PERIODS (most states follow a similar pattern):
+
+1. SIMPLE CONTRACT: 6 years from the date the cause of action accrued
+2. TORT (GENERAL): 6 years from the date the cause of action accrued
+3. PERSONAL INJURY (TORT): 3 years from the date of injury (or date of knowledge, whichever is later)
+4. ACTIONS ON A DEED (SPECIALTY): 12 years from the date the cause of action accrued
+5. RECOVERY OF LAND: 12 years from the date of adverse possession or dispossession
+6. ACTIONS AGAINST PUBLIC OFFICERS (PUBLIC OFFICERS PROTECTION ACT): 3 months from the act, neglect, or default complained of — this is a very short period and frequently fatal to litigants
+
+THE PUBLIC OFFICERS PROTECTION ACT (POPA):
+- Section 2 of the POPA provides that any suit against a public officer for any act done in pursuance or execution of a public duty must be commenced within 3 months of the act complained of
+- This bar has been widely applied and has defeated many legitimate claims against government and public officials
+- Exceptions: the 3-month bar does not apply where (a) the officer acted in bad faith or outside the scope of their public duty; (b) the suit relates to the recovery of land; (c) the suit involves a continuing wrong
+
+WHEN DOES A CAUSE OF ACTION ACCRUE?
+- CONTRACT: On the date of breach — or, for a debt, on the date the debt fell due for payment
+- TORT: On the date the damage occurred (not the date of discovery, unless special rules apply)
+- FRAUD: Time does not begin to run until the claimant discovers the fraud or could reasonably have discovered it
+- LATENT DAMAGE: Many Nigerian state laws now adopt a "date of knowledge" rule for latent personal injury — time runs from the date the claimant knew or ought reasonably to have known that they had suffered a significant injury
+
+DISABILITY AND POSTPONEMENT:
+- If the claimant is under a disability (minority or mental incapacity) when the cause of action accrues, time does not begin to run until the disability ceases
+- Fraud by the defendant that conceals the cause of action postpones the running of time until the claimant discovers or ought to have discovered the fraud
+
+EFFECT OF EXPIRY OF LIMITATION PERIOD:
+- In Nigerian (and English-derived) limitation law, expiry of the limitation period bars the remedy but does not extinguish the right — the underlying right survives but is unenforceable
+- Exception: for recovery of land, the claimant's title is extinguished on expiry (the adverse possessor acquires title)
+- The limitation defence must be pleaded by the defendant — the court will not raise it suo motu
+
+TOLLING AND ACKNOWLEDGMENT:
+- If the defendant acknowledges the debt or makes a part payment before the limitation period expires, a fresh limitation period runs from the date of acknowledgment or payment
+- Acknowledgment must be in writing and signed by the person making it (or their authorised agent)
+
+KEY CASES:
+1. Sanda v Kukawa Local Government [1991] 2 NWLR (Pt. 174) 379 — the limitation period runs from the date of accrual, not from the date the claimant became aware of the claim
+2. Egbe v Adefarasin [1987] 1 NWLR (Pt. 47) 1 — the Supreme Court on when a cause of action accrues in tort
+3. Obiefuna v Okonkwo [1961] 1 All NLR 357 — recovery of land and the limitation period under the Real Property Limitation Act
+4. Adedeji v National Bank [1989] 1 NWLR (Pt. 96) 212 — acknowledgment of debt and fresh accrual of limitation period
+
+APPLICATION IN NIGERIA:
+Limitation periods are a critical preliminary issue in Nigerian civil litigation. Counsel must always compute the limitation period before filing. The Public Officers Protection Act 3-month bar is particularly hazardous — it has been applied even where defendants behaved wrongfully, and claimants who delay have lost their right of action entirely. Courts will not extend the period in the absence of express statutory authority. Where multiple limitation regimes apply to the same facts (e.g., a contract with a public body), counsel must identify which period governs and act accordingly.
+
+CITATION: Limitation Act Cap L15 LFN 2004; Public Officers Protection Act Cap P41 LFN 2004; state Limitation Laws

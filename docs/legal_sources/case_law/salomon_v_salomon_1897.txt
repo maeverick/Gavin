@@ -1,0 +1,25 @@
+Subject: Company Law — Separate Legal Personality
+Source: Salomon v A Salomon & Co Ltd [1897] AC 22 (House of Lords) — Foundational authority in Nigerian company law
+
+CASE NAME: Salomon v A Salomon & Co Ltd [1897] AC 22
+
+FACTS:
+Mr Salomon incorporated his shoe business as a limited company, selling it to the company for £39,000 — taking back £10,000 in debentures, 20,000 shares, and £9,000 cash. His family held the remaining shares. The company became insolvent. Unsecured creditors argued the company was a sham and Salomon should be personally liable.
+
+ISSUE:
+Is a validly incorporated company a separate legal entity from its members, even where one member holds virtually all the shares?
+
+HELD (House of Lords, unanimous):
+A validly incorporated company is a separate legal person entirely distinct from its members regardless of shareholding concentration. Mr Salomon was not personally liable for the company debts. His debentures were valid and took priority over unsecured creditors.
+
+KEY PRINCIPLES:
+1. The corporate veil — a company is a legal person separate from its members
+2. Members are not liable for company debts beyond their paid share capital
+3. A company can contract with and be creditor of its own members
+4. Incorporation creates separate legal personality regardless of beneficial ownership
+5. Courts will not pierce the corporate veil except for fraud or where the company is a mere facade
+
+APPLICATION IN NIGERIA:
+Salomon v Salomon is the cornerstone of Nigerian company law. The separate legal personality principle is enshrined in Section 42 CAMA 2020. Nigerian courts apply Salomon in shareholder liability, group company, and corporate veil cases. The Supreme Court has applied it extensively in decisions under CAMA.
+
+CITATION: [1897] AC 22; [1896] UKHL 1

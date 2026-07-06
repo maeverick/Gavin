@@ -1,0 +1,54 @@
+Subject: Land Law — Family Property, Family Land, Alienation, Partition under Nigerian Customary Law
+Source: Dawodu v Danmole [1958] 3 FSC 46 (FSC); Land Use Act 1978 (Cap L5 LFN 2004); Nigerian customary law on family property
+
+FAMILY PROPERTY (FAMILY LAND) IN NIGERIAN LAW
+
+THE CONCEPT OF FAMILY PROPERTY:
+Under Nigerian customary law — particularly Yoruba, Bini, and many other ethnic traditions — land may be owned collectively by a family. All members of the family hold the land jointly; no individual member has a separately defined share that they can deal with independently. The family head (known in Yoruba custom as the Olori Ebi or Ori Ebi) manages the family land on behalf of all members.
+
+CHARACTERISTICS OF FAMILY PROPERTY:
+1. COLLECTIVE OWNERSHIP: No individual member has a separate, partitioned interest — all members own together as a unit
+2. INALIENABILITY WITHOUT FAMILY CONSENT: No member, including the family head, may sell, mortgage, or permanently alienate family land without the consent of the principal members of the family
+3. RIGHT OF OCCUPATION: Every family member has a right to occupy and use the family land — this right cannot be denied by the family head
+4. EXPANDING CLASS: The class of beneficiaries grows as the family expands — grandchildren and great-grandchildren of the original owner are entitled members
+5. NO COMMON LAW SURVIVORSHIP: Unlike English joint tenancy, the interest of a deceased member passes to their branch of the family, not to the surviving members generally
+
+THE FAMILY HEAD'S POWERS AND LIMITS — DAWODU v DANMOLE [1958] 3 FSC 46:
+The Federal Supreme Court held that the family head is the manager and trustee of family property — not its beneficial owner. The family head may:
+- Manage the land in the ordinary course of family administration
+- Grant short-term leases or licences in the ordinary course
+- Receive rents and income on behalf of the family
+
+The family head may NOT:
+- Sell, mortgage, or permanently alienate family land without the consent of the principal members
+- Appropriate family land to themselves personally
+An alienation by the family head alone, without the consent of the principal members, is voidable — it may be set aside by any dissenting family member.
+
+THE CONSENT REQUIREMENT FOR VALID ALIENATION:
+For a valid permanent alienation of family land, Nigerian customary law requires:
+1. The concurrence of the family head
+2. The consent of the principal members (representatives of each major branch of the family)
+Both elements are required. Consent need not be in writing under customary law, but written evidence signed by the family head and principal members is strongly advisable.
+
+A PURCHASER OF FAMILY LAND:
+A third party who purchases family land must satisfy themselves that proper family consent has been obtained. A purchaser who has notice (actual or constructive) that the land is family property, and who fails to verify that all required consents were given, cannot claim the protection of a bona fide purchaser. Nigerian courts have consistently set aside such purchases at the suit of non-consenting family members.
+
+PARTITION OF FAMILY LAND:
+Partition converts collectively-held family land into individual holdings for each member or branch. It may occur:
+1. BY AGREEMENT: All family members agree to divide the land — the division is recorded in a deed of partition executed by the family head and all principal members
+2. BY COURT ORDER: Any member may apply to court for an order of partition where the family cannot agree. The court has jurisdiction to order partition even over the objection of some members
+3. EFFECT OF PARTITION: After partition, each share is the individual property of the branch or member who takes it — the collective family ownership is dissolved as to that land
+
+PROVING TITLE TO FAMILY LAND:
+The five methods of proving title under Idundun v Okumagba [1976] 9–10 SC 227 apply equally to family land. In practice, title to family land is most commonly proved by:
+- Traditional/oral evidence of the original grant or acquisition by the family ancestor
+- Evidence of long, continuous, and exclusive possession and enjoyment by the family
+- Instruments or documents (if any) executed by or on behalf of the family
+
+THE LAND USE ACT AND FAMILY LAND:
+The Land Use Act 1978 did not extinguish customary family ownership — it reconstituted it as a right of occupancy. Family land in urban areas is now held under a statutory right of occupancy (granted or deemed to be granted by the Governor); in rural areas, under a customary right of occupancy. When family land is to be alienated, both customary consent requirements and the Governor's consent under s.22 LUA must be obtained — the two regimes operate cumulatively.
+
+APPLICATION IN NIGERIA:
+Family land disputes are among the most common categories of land litigation in Nigeria, particularly in Lagos, Ogun, Oyo, Ekiti, Edo, and other southern states. The conflict between customary family ownership principles and the LUA's consent and registration requirements creates frequent practical difficulties. Legal practitioners advising on the purchase of land must conduct full due diligence: verify that the land is not family property; if it is, confirm the identity of the family head, obtain evidence of consent from all principal members, and ensure the Governor's consent is secured.
+
+CITATION: Dawodu v Danmole [1958] 3 FSC 46; Land Use Act 1978 (Cap L5 LFN 2004), ss.22, 28; Idundun v Okumagba [1976] 9–10 SC 227

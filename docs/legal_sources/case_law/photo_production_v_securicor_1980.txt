@@ -1,0 +1,36 @@
+Subject: Contract Law — Exclusion Clauses, Fundamental Breach
+Source: Photo Production Ltd v Securicor Transport Ltd [1980] AC 827 (House of Lords)
+
+CASE NAME: Photo Production Ltd v Securicor Transport Ltd [1980] AC 827
+
+FACTS:
+Securicor contracted to provide a night patrol service at Photo Production's factory. An exclusion clause stated that Securicor would not be liable for any injurious act or default by any employee. A Securicor guard deliberately started a fire at the factory which destroyed it causing £615,000 damage. Photo Production sued. Securicor relied on the exclusion clause.
+
+ISSUE:
+Can an exclusion clause protect a party from liability for a fundamental breach of contract?
+
+HELD (House of Lords, unanimous):
+Yes. The doctrine of "fundamental breach" as a rule of law (which automatically prevented exclusion clauses from operating) was rejected. Whether an exclusion clause is effective depends on ordinary rules of construction — if on its true construction the clause covers the breach that occurred, it is effective, subject only to the Unfair Contract Terms Act 1977.
+
+KEY PRINCIPLES:
+1. FUNDAMENTAL BREACH AS RULE OF CONSTRUCTION NOT RULE OF LAW: There is no rule that a fundamental breach automatically nullifies an exclusion clause
+2. CONSTRUCTION: Courts must construe the exclusion clause to determine if on its proper meaning it covers the breach
+3. FREEDOM OF CONTRACT: Parties — especially commercial parties of equal bargaining power — are free to allocate risks by exclusion clauses
+4. CONSUMER PROTECTION: Exclusion clauses in consumer contracts may be subject to legislative control (not applicable here as both were commercial entities)
+
+RULES FOR CONSTRUCTION OF EXCLUSION CLAUSES:
+1. CONTRA PROFERENTEM: Ambiguous exclusion clauses are construed against the party seeking to rely on them
+2. CLEAR WORDS: Clear and unambiguous words are required to exclude liability for negligence
+3. MAIN PURPOSE RULE: Clauses are construed in light of the main purpose of the contract
+
+NIGERIA — EXCLUSION CLAUSES:
+Nigeria does not have equivalent legislation to the UK Unfair Contract Terms Act 1977. Nigerian courts apply:
+1. Strict construction against the party relying on the clause
+2. Incorporation rules — clause must be brought to the other party's attention before contracting
+3. L'Estrange v Graucob — signature binds
+4. Public policy — courts may refuse to enforce clauses that are unconscionable or contrary to public policy
+
+APPLICATION IN NIGERIA:
+Photo Production v Securicor is applied in Nigerian contract cases involving exclusion and limitation of liability clauses, particularly in commercial contracts, insurance, carriage of goods, and service agreements. The rejection of fundamental breach as a rule of law is followed in Nigerian courts.
+
+CITATION: [1980] AC 827

@@ -1,0 +1,34 @@
+Subject: Criminal Law — Mens Rea, Intention
+Source: R v Moloney [1985] AC 905 (House of Lords) — Applied in Nigerian criminal law
+
+CASE NAME: R v Moloney [1985] AC 905
+
+FACTS:
+The defendant and his stepfather were both drunk and had a competition to see who could load and fire a shotgun faster. The defendant loaded his gun first and pointed it at his stepfather, who dared him to fire. The defendant fired and killed him. He said he did not think about aiming at him. He was convicted of murder. The House of Lords quashed the conviction.
+
+ISSUE:
+What is the meaning of "intention" in murder? Is foresight of consequences evidence of intention?
+
+HELD (House of Lords, Lord Bridge):
+Intention in murder means:
+1. Direct intention: The defendant's aim or purpose was to kill or cause grievous bodily harm
+2. Oblique intention: The defendant foresaw death or grievous bodily harm as a virtual certainty (not merely likely) as a consequence of their act
+
+Foresight of consequences is EVIDENCE from which a jury may infer intention — it is not itself intention.
+
+KEY PRINCIPLES:
+1. DIRECT INTENT: D's purpose or aim — what D was trying to achieve
+2. OBLIQUE INTENT (R v Woolin [1998] refinement):
+   The jury may find intention if they are satisfied that:
+   (a) Death or serious injury was a virtually certain result of D's act, AND
+   (b) D foresaw it as virtually certain
+3. FORESIGHT ≠ INTENTION: Foresight of consequences is merely evidence from which a jury may infer intention — not a definition of intention
+4. PROBABILITY: If the consequence was merely probable (not virtually certain) — this is evidence of recklessness, not intention
+
+THE GOLDEN RULE FOR MURDER DIRECTION:
+Lord Bridge: In a murder case, the jury should be directed simply — did the defendant intend to kill or cause really serious injury? Only in rare cases of oblique intent should the jury be directed on foresight of virtual certainty.
+
+APPLICATION IN NIGERIA:
+R v Moloney is applied in Nigerian criminal law to define intention for murder and other specific intent offences. Under Section 316 of the Criminal Code Act, murder requires malice aforethought — the intention to kill or cause grievous bodily harm. The distinction between direct and oblique intent is applied in murder trials. Foresight of death as a virtual certainty may support an inference of intention to kill or cause grievous bodily harm.
+
+CITATION: [1985] AC 905

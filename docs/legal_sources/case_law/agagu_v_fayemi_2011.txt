@@ -1,0 +1,56 @@
+Subject: Evidence Law — Documentary Evidence, Admissibility, Election Petition Proceedings
+Source: Agagu v Fayemi [2011] 17 NWLR (Pt. 1276) 412 — Nigerian Court of Appeal
+
+CASE NAME: Agagu v Fayemi [2011] 17 NWLR (Pt. 1276) 412
+
+FACTS:
+This was an election petition arising from the 2007 Ondo State gubernatorial election. Agagu was declared the winner. Fayemi challenged the result, alleging massive irregularities and malpractice. Critical to the petition were electoral documents — Forms EC8A (polling unit results sheets), Forms EC8B, and Forms EC8C (collation sheets). Questions arose about the admissibility and weight of photocopies and duplicate originals of these documents versus certified copies, and about the effect of discrepancies between different versions of the documents.
+
+ISSUE:
+What is the proper basis for admitting electoral documents in evidence? When are photocopies or certified copies admissible as secondary evidence of original documents?
+
+HELD:
+The court held that original documents are the primary means of proving the contents of a document. Where originals are not available, secondary evidence (certified copies, photocopies) may be admissible on proof that the originals exist, are in the custody of a person who cannot be compelled to produce them, and that proper steps were taken to obtain them. Certified true copies of public documents are admissible without proof of execution.
+
+KEY PRINCIPLES:
+
+DOCUMENTARY EVIDENCE IN NIGERIA (Evidence Act 2011):
+
+PRIMARY EVIDENCE:
+- s.83: The best evidence rule — documents must be proved by the original (primary evidence)
+- Primary evidence = the document itself
+- Original means the first-made document; counterpart originals are equally primary evidence
+
+SECONDARY EVIDENCE:
+Secondary evidence of a document is admissible only in specified circumstances (s.84):
+1. When the original is shown to be in the possession of an adversary who refuses to produce it despite notice
+2. When the original is in the possession of a person outside Nigeria who cannot be compelled to attend
+3. When the original has been lost or destroyed and cannot be found after diligent search
+4. When the original is a public document and a certified copy is the prescribed mode of proof
+
+TYPES OF SECONDARY EVIDENCE (s.85):
+1. Certified copies (where certified copies are expressly permitted by law)
+2. Copies made from or compared with the original
+3. Counterparts (of documents not executed by all parties)
+4. Oral evidence of the contents (weakest form)
+
+CERTIFIED TRUE COPIES OF PUBLIC DOCUMENTS:
+- Public documents (court records, government records, electoral records) may be proved by certified true copies (s.109)
+- A certified true copy is admissible without further proof of the original
+- INEC electoral documents (Forms EC8A, EC8B, EC8C) are public documents for this purpose
+- Failure to produce certified copies where they are available and required = secondary evidence will be rejected
+
+ADMISSIBILITY vs WEIGHT:
+- Admissibility: a threshold question — does the document satisfy the legal requirements to be received in evidence?
+- Weight: how much the court relies on the document once admitted — a matter of evaluation
+- A document may be admissible but given little weight if it is incomplete, contradicted, or unreliable
+
+EFFECT OF DOCUMENTARY IRREGULARITIES IN ELECTION PETITIONS:
+- Alterations and discrepancies in electoral forms give rise to the presumption of irregularity
+- The court looks at the totality of the documentary evidence to determine whether irregularities were systemic or isolated
+- Certified copies of Forms EC8A from INEC are generally more reliable than copies produced by a party
+
+APPLICATION IN NIGERIA:
+Agagu v Fayemi is an important authority on documentary evidence in election petition proceedings. It illustrates the strict requirements for proving documents in Nigerian courts and the hierarchy of primary vs secondary evidence. The case is regularly cited in election petition and commercial litigation contexts where parties seek to adduce copies of documents whose originals are disputed or unavailable. The distinction between admissibility and weight is of particular practical importance.
+
+CITATION: [2011] 17 NWLR (Pt. 1276) 412; Evidence Act 2011 ss.83-109

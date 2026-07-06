@@ -1,0 +1,33 @@
+Subject: Tort Law — Nervous Shock, Psychiatric Injury, Proximity
+Source: Bourhill v Young [1943] AC 92 (House of Lords)
+
+CASE NAME: Bourhill v Young [1943] AC 92
+
+FACTS:
+A motorcyclist (Young) negligently collided with a car and was killed. The plaintiff, a pregnant fishwife who had just alighted from a tram, was standing about 50 feet away on the other side of the tram when the accident happened. She did not see the accident but heard the collision. After the scene was cleared, she saw blood on the road. She suffered nervous shock and subsequently gave birth to a stillborn child. She sued the motorcyclist's estate.
+
+ISSUE:
+Was the plaintiff within the area of foreseeable danger? Did the defendant owe her a duty of care?
+
+HELD (House of Lords):
+No duty of care. The plaintiff was not within the area of foreseeable danger. A motorcyclist driving negligently owes a duty of care to those who are in a position where they might reasonably be expected to suffer physical injury — not to persons who are outside the range of ordinary physical impact and who suffer only from the shock of witnessing the aftermath.
+
+KEY PRINCIPLES:
+1. DUTY OF CARE AND FORESEEABILITY: A duty of care only extends to those whose injury is reasonably foreseeable
+2. PRIMARY VICTIMS: Persons directly involved in an accident or in the zone of physical danger — duty clearly owed
+3. SECONDARY VICTIMS (psychiatric injury): Persons who suffer psychiatric injury from witnessing an accident or its aftermath — additional requirements:
+   (a) Reasonable foreseeability of psychiatric injury to a person of NORMAL FORTITUDE
+   (b) Proximity in time and space to the accident or its immediate aftermath
+   (c) The injury was suffered through seeing or hearing the accident or its immediate aftermath (not from being told about it)
+4. THE "THIN SKULL" RULE does not apply to create a duty to persons outside the foreseeable range — it only operates once a duty is established
+
+ALCOCK v CHIEF CONSTABLE OF SOUTH YORKSHIRE [1992] (Hillsborough):
+Further developed secondary victim rules — requirements for secondary victims:
+1. Close tie of love and affection to primary victim
+2. Presence at or in immediate vicinity of accident
+3. Perception through own senses (not TV broadcast)
+
+APPLICATION IN NIGERIA:
+Bourhill v Young is applied in Nigerian tort law on the extent of duty of care and claims for nervous shock/psychiatric injury. Applied in road accident cases, industrial accident cases, and medical negligence cases where family members claim for psychiatric injury. The foreseeability and proximity requirements limit claims for pure nervous shock.
+
+CITATION: [1943] AC 92

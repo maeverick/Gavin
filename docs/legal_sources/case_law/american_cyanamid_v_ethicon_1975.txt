@@ -1,0 +1,38 @@
+Subject: Civil Procedure — Interlocutory Injunctions, Balance of Convenience, American Cyanamid Test
+Source: American Cyanamid Co v Ethicon Ltd [1975] AC 396 — House of Lords (UK); applied in Nigerian courts
+
+CASE NAME: American Cyanamid Co v Ethicon Ltd [1975] AC 396
+
+FACTS:
+American Cyanamid held a patent for absorbable surgical sutures. Ethicon began manufacturing and selling a competing suture which Cyanamid alleged infringed the patent. Cyanamid applied for an interlocutory injunction to restrain Ethicon from marketing the suture pending full trial. The Court of Appeal refused the injunction, holding that Cyanamid had failed to show a prima facie case. Cyanamid appealed to the House of Lords.
+
+ISSUE:
+What is the correct test for granting an interlocutory injunction — must the applicant establish a prima facie case, or is a lower threshold sufficient?
+
+HELD (House of Lords — Lord Diplock):
+The test for an interlocutory injunction does not require the applicant to establish a prima facie case. The correct approach is: (1) Is there a serious question to be tried? (2) Would damages be an adequate remedy? (3) Where does the balance of convenience lie? The injunction was granted.
+
+KEY PRINCIPLES:
+
+THE THREE-STAGE AMERICAN CYANAMID TEST:
+1. SERIOUS QUESTION TO BE TRIED: The applicant must show that the claim is not frivolous or vexatious — that there is a real and genuine issue to be tried at the substantive hearing. This is a low threshold; the court is not to conduct a mini-trial on the merits at the interlocutory stage.
+2. ADEQUACY OF DAMAGES: If there is a serious question, the court asks whether damages (the common law remedy) would be an adequate remedy for the applicant if the injunction is refused and the applicant succeeds at trial; and conversely, whether an undertaking in damages from the applicant would adequately compensate the respondent if the injunction is granted but the applicant fails at trial.
+3. BALANCE OF CONVENIENCE: Where the question of damages adequacy is not decisive, the court exercises its discretion by weighing the overall balance of convenience — considering the relative strength of each party's position only where other factors are evenly balanced, and the general preference for maintaining the status quo.
+
+THE UNDERTAKING IN DAMAGES:
+- As a condition of granting an interlocutory injunction, the court requires the applicant to give an undertaking in damages — a promise to compensate the respondent for any loss caused by the injunction if the applicant ultimately fails at trial.
+- This undertaking is a powerful deterrent against applications made in bad faith.
+
+STATUS QUO:
+- Where all other factors are evenly balanced, the court will generally prefer to maintain the status quo — the position that existed immediately before the application.
+- If the respondent has not yet commenced the activity complained of, the status quo is the position before the threatened act; if the activity is already underway, the status quo is its continuation.
+
+DEPARTURES FROM THE AMERICAN CYANAMID APPROACH:
+1. DEFAMATION: Courts are reluctant to grant interlocutory injunctions where the defendant raises a defence of justification or fair comment — the chilling effect on free expression is weighed heavily.
+2. MANDATORY INJUNCTIONS: Where the injunction requires positive action (rather than restraint), a higher threshold — a strong prima facie case — is generally required.
+3. CASES WHERE TRIAL IS UNLIKELY: Where it is clear that no trial will occur (e.g., the injunction will effectively determine the action), the court may look more closely at the merits.
+
+APPLICATION IN NIGERIA:
+American Cyanamid is the foundational authority on interlocutory injunctions and is regularly applied in Nigerian courts. However, Nigerian courts also apply the formulation in Kotoye v CBN [1989] 4 NWLR (Pt. 114) 40, which restates the American Cyanamid principles in terms adapted to Nigerian practice. In commercial disputes, election matters, and intellectual property cases, Nigerian courts follow the three-stage test. The undertaking in damages is always required, and the balance of convenience analysis is the most frequently contested element of interlocutory applications in Nigerian litigation.
+
+CITATION: [1975] AC 396 (HL)

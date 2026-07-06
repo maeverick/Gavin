@@ -1,0 +1,73 @@
+Subject: Professional Ethics — Legal Professional Privilege, Solicitor-Client Confidentiality
+Source: Legal Practitioners Act (Cap L11 LFN 2004); Rules of Professional Conduct 2007; Evidence Act 2011 s.192; Nigerian case law
+
+LEGAL PROFESSIONAL PRIVILEGE IN NIGERIA
+
+DEFINITION:
+Legal professional privilege (also called solicitor-client privilege or attorney-client privilege) is the right of a client to refuse to disclose, and to prevent their legal practitioner from disclosing, confidential communications made for the purpose of obtaining legal advice or assistance.
+
+It is one of the most fundamental principles of the legal profession — without it, clients cannot speak freely to their lawyers, and the administration of justice is impaired.
+
+BASIS IN NIGERIAN LAW:
+1. EVIDENCE ACT 2011, S.192: A legal practitioner is not permitted, without the consent of the client or the client's representative, to disclose any communication made to them in the course and for the purpose of their employment as a legal practitioner
+2. RULES OF PROFESSIONAL CONDUCT 2007, RULE 19: A legal practitioner must preserve the secrets and confidences of their client and must not voluntarily disclose them
+3. COMMON LAW: Inherited from English law; the principle was established in Greenough v Gaskell (1833) and applied throughout Commonwealth jurisdictions including Nigeria
+
+TWO TYPES OF PRIVILEGE:
+
+1. LEGAL ADVICE PRIVILEGE:
+- Covers confidential communications between lawyer and client made for the purpose of giving or receiving legal advice
+- Does NOT require litigation to be contemplated or pending
+- Covers advice on legal rights, obligations, and how to navigate the law
+- Applies to communications in any form — oral, written, electronic
+- The communication must be in a professional, not personal, capacity
+
+2. LITIGATION PRIVILEGE:
+- Covers communications between lawyer and client, or between either of them and a third party, made for the dominant purpose of use in litigation that is reasonably contemplated or already begun
+- Broader than legal advice privilege — covers third-party communications (e.g., witness statements, expert reports)
+- DOMINANT PURPOSE TEST: The communication must have been made primarily for the purpose of litigation — if made for multiple purposes, privilege applies only if litigation was the dominant purpose
+
+CONDITIONS FOR PRIVILEGE TO ARISE:
+1. There must be a professional relationship between lawyer and client (not a personal friendship)
+2. The communication must have been made in confidence
+3. The communication must have been made for the purpose of obtaining or giving legal advice, or for use in litigation
+4. The client must not have waived privilege
+
+WHAT IS NOT PRIVILEGED:
+1. Communications that facilitate crime or fraud — the crime/fraud exception: privilege does not attach to communications made in furtherance of a criminal or fraudulent purpose (R v Cox and Railton)
+2. Communications not made in a professional capacity
+3. Communications made in the presence of third parties (unless they were present in a professional capacity)
+4. Facts observable by the lawyer (e.g., the state of the client's property) — only communications are privileged, not facts
+5. The fact that the lawyer has been retained (though the substance of instructions is privileged)
+
+DURATION OF PRIVILEGE:
+- Privilege survives the end of the retainer
+- Privilege survives the death of the client (unless the estate has waived it)
+- Privilege belongs to the CLIENT, not the lawyer — only the client can waive it
+
+WAIVER OF PRIVILEGE:
+- Express waiver: client explicitly consents to disclosure
+- Implied waiver: client places the substance of privileged communications in issue (e.g., claiming to have relied on legal advice as a defence)
+- Partial waiver: disclosing part of a privileged document may waive privilege over related documents
+
+DUTY OF CONFIDENTIALITY vs PRIVILEGE:
+- Confidentiality: a professional/ethical duty not to disclose client information (wider than privilege — covers all client information, not only legal communications)
+- Privilege: an evidentiary right to refuse to disclose — a legal rule of evidence
+- All privileged communications are also confidential, but not all confidential communications are privileged
+
+WHEN A LAWYER MAY DISCLOSE CLIENT INFORMATION (Rule 19(2) RPC):
+1. With the client's consent
+2. When required by law or court order
+3. To prevent the commission of a crime likely to result in death or serious bodily harm
+4. To defend themselves against criminal charges or disciplinary proceedings arising from the professional relationship
+5. To the extent necessary to collect fees owed by the client
+
+APPLICATION IN NIGERIA:
+Legal professional privilege is routinely invoked in Nigerian courts to resist disclosure of legal advice, instructions, and communications. The Evidence Act 2011 gives statutory force to the privilege. Courts will not compel a legal practitioner to reveal privileged communications. Breach of confidentiality is a ground for disciplinary proceedings before the LPDC and may expose the practitioner to civil liability.
+
+KEY CASES:
+- Three Rivers DC v Bank of England (No 6) [2004] — scope of legal advice privilege
+- R v Derby Magistrates Court, ex parte B [1996] — privilege is absolute, cannot be overridden by the interests of justice
+- Evidence Act 2011 s.192 — Nigerian statutory basis
+
+CITATION: Evidence Act 2011 s.192; Rules of Professional Conduct 2007 Rule 19

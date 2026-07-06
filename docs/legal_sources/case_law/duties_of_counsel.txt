@@ -1,0 +1,87 @@
+Subject: Professional Ethics — Duties of Counsel, Conflict of Interest, Cab-Rank Rule
+Source: Rules of Professional Conduct for Legal Practitioners 2007; Legal Practitioners Act; Nigerian case law
+
+DUTIES OF A LEGAL PRACTITIONER IN NIGERIA
+
+THE DUAL DUTY:
+A legal practitioner in Nigeria owes duties to two principals simultaneously:
+1. A duty of loyalty and zealous advocacy to the CLIENT
+2. A duty of candour and assistance to the COURT
+
+These duties sometimes appear to conflict. The resolution: a legal practitioner is an officer of the court first — they must never mislead the court even in the service of their client. But within that constraint, they must advance the client's case as effectively as possible.
+
+DUTIES TO THE CLIENT:
+
+1. DUTY OF COMPETENCE (Rule 14):
+- A legal practitioner must only undertake work they are competent to perform
+- Must maintain knowledge of the relevant law and procedure
+- If a case requires specialist knowledge the practitioner does not have, they must advise the client accordingly and refer to a suitable practitioner
+- Incompetent handling of a client's matter may ground professional negligence liability
+
+2. DUTY OF LOYALTY:
+- Must act in the best interests of the client at all times
+- Must not allow personal interests or the interests of another client to compromise the representation
+- Must disclose any personal interest in the subject matter of the representation
+
+3. DUTY OF CONFIDENTIALITY (Rule 19):
+- Must preserve all information received in the course of the professional relationship
+- The duty survives the end of the retainer and the death of the client
+- May only be overridden in the specific circumstances in Rule 19(2)
+
+4. DUTY TO INFORM:
+- Must keep the client informed of the progress of their matter
+- Must promptly communicate settlement offers and all significant developments
+- Must explain the implications of proposed courses of action in terms the client can understand
+
+5. DUTY NOT TO WITHDRAW IMPROPERLY (Rule 10):
+- A practitioner who has accepted a brief must not withdraw without good reason and reasonable notice
+- May withdraw if the client insists on conduct that would involve the practitioner in dishonesty
+- May withdraw if the client fails to pay agreed fees after reasonable notice
+- Must not leave the client without adequate notice or at a critical stage of proceedings
+
+CONFLICT OF INTEREST:
+
+BASIC RULE: A legal practitioner must not act for two or more clients whose interests conflict.
+
+CONCURRENT CONFLICT:
+- Acting for both parties in a transaction or dispute is generally prohibited
+- Exception: where both clients give informed written consent AND the conflict is not so fundamental that adequate representation is impossible
+- Conveyancing: may act for both buyer and seller only in straightforward residential transactions where no conflict is apparent
+
+SUCCESSIVE CONFLICT:
+- Having acted for a client, a practitioner must not later act against that same client in the same or a related matter
+- The risk is that confidential information obtained from the former client may be used against them
+- Chinese walls (information barriers) within a firm may be acceptable in some cases but are not always sufficient
+
+ACTING AGAINST FORMER CLIENT:
+- Generally prohibited in matters substantially related to the former retainer
+- The practitioner is deemed to have received all the confidential information the former client would normally disclose
+- Even if the practitioner claims not to remember the information, the conflict is presumed
+
+DUTIES TO THE COURT:
+
+1. DUTY OF CANDOUR (Rule 15):
+- Must not knowingly make false statements of fact or law to the court
+- Must disclose relevant adverse authorities
+- Must correct a misapprehension of the court, even if the mistake benefits the client
+
+2. DUTY NOT TO MISLEAD (Rule 15):
+- Must not adduce evidence known to be false
+- Must not coach witnesses — may only advise on the general nature of the proceedings
+- Must not suppress or conceal relevant evidence from the court
+
+3. DUTY TO ASSIST THE COURT:
+- Must present the law accurately, including unfavourable law
+- Must not abuse court process (e.g., filing frivolous applications to cause delay)
+- Must complete proceedings with reasonable expedition
+
+THE CAB-RANK RULE:
+- A barrister must accept any brief offered in their area of practice, at a proper fee, regardless of the identity of the client or the nature of the case
+- Rationale: ensures every person, no matter how unpopular or accused of heinous conduct, has access to legal representation
+- Exceptions: genuine conflict of interest; lack of competence; prior commitments; fee not paid
+- The rule ensures the profession does not sit in judgment of clients before the court does
+
+APPLICATION IN NIGERIA:
+The Rules of Professional Conduct 2007 govern all of these duties. Breach of the duties to the client may ground civil liability in professional negligence (the practitioner is held to the standard of a reasonably competent practitioner in their field). Breach of duties to the court, or conduct involving dishonesty, will be referred to the LPDC and may result in suspension or striking off.
+
+CITATION: Rules of Professional Conduct for Legal Practitioners 2007 (Rules 10, 14, 15, 19, 24, 30)

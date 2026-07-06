@@ -1,0 +1,36 @@
+Subject: Professional Ethics — Court Processes, Signing by Legal Practitioners
+Source: Okafor v Nweke [2007] 10 NWLR (Pt. 1043) 521 — Nigerian Supreme Court
+
+CASE NAME: Okafor v Nweke [2007] 10 NWLR (Pt. 1043) 521
+
+FACTS:
+A court process (a notice of appeal) was signed in the name of a law firm — "Chris Okereke & Co" — rather than in the personal name of an individual legal practitioner. The respondents objected that the process was incompetent and ought to be struck out because only an individual legal practitioner, not a law firm, is entitled to sign court processes.
+
+ISSUE:
+Can a court process be validly signed in the name of a law firm rather than in the personal name of a legal practitioner?
+
+HELD (Supreme Court, per Niki Tobi JSC):
+A court process signed in the name of a law firm is incompetent and liable to be struck out. A law firm is not a legal practitioner within the meaning of the Legal Practitioners Act. Only a legal practitioner — an individual natural person admitted to practice — can sign court processes. Signing in a firm name does not satisfy the requirement that the process be signed by a legal practitioner.
+
+KEY PRINCIPLES:
+
+WHO MAY SIGN COURT PROCESSES:
+1. INDIVIDUAL PRACTITIONER ONLY: Only a person admitted to the Nigerian Bar and whose name appears on the Roll of Legal Practitioners may sign court processes
+2. FIRM NAME IS INCOMPETENT: A law firm is not a "legal practitioner" — it is not a person admitted to the Bar; processes signed in a firm name are a nullity
+3. THE LEGAL PRACTITIONERS ACT S.2(1): Defines "legal practitioner" as a person entitled in accordance with the Act to practice as a barrister or as a barrister and solicitor — this is necessarily an individual
+4. AUTOMATIC NULLITY: A process signed by a non-legal-practitioner is not merely irregular — it is a nullity and cannot be validated by the court
+5. IDENTITY OF SIGNATORY: The signing practitioner's name must be identifiable — initials or abbreviations that do not identify the practitioner are also insufficient
+
+PRACTICAL IMPLICATIONS:
+- Every originating process, brief, motion, and court document must bear the personal signature and name of the legal practitioner filing it
+- The practitioner may add the firm name below their personal signature (e.g., "A.B. Okafor, for Chris Okereke & Co") — this is acceptable
+- Failure to comply renders the entire process a nullity — the court has no jurisdiction to hear it
+- The defect cannot be cured by amendment or waiver
+
+DISTINCTION — BRIEF OF ARGUMENT:
+The rule applies equally to briefs of argument filed in appeal proceedings. A brief signed only in the firm name is incompetent and the court will strike it out, potentially dismissing the appeal or deeming it abandoned.
+
+APPLICATION IN NIGERIA:
+Okafor v Nweke is one of the most frequently cited cases in Nigerian procedural law. Courts at all levels — from the High Court to the Supreme Court — apply it to strike out processes signed in firm names. It is a trap for junior practitioners. The rule is strict and technical: no amount of substantial compliance excuses a signature in the firm name without the individual practitioner's personal identification.
+
+CITATION: [2007] 10 NWLR (Pt. 1043) 521

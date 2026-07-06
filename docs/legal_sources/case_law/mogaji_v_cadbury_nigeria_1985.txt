@@ -1,0 +1,31 @@
+Subject: Evidence Law — Standard of Proof in Civil Cases
+Source: Mogaji v Cadbury Nigeria Ltd [1985] 2 NWLR (Pt. 7) 393 — Nigerian Supreme Court
+
+CASE NAME: Mogaji v Cadbury Nigeria Ltd [1985] 2 NWLR (Pt. 7) 393
+
+FACTS:
+The plaintiff brought a civil claim against Cadbury Nigeria Ltd. The case involved a dispute requiring the court to consider the standard of proof in civil proceedings in Nigeria and what degree of evidence was required to discharge the burden of proof on a balance of probabilities.
+
+ISSUE:
+What is the standard of proof applicable in civil cases in Nigeria, and how should a court assess conflicting evidence?
+
+HELD (Nigerian Supreme Court):
+In civil proceedings in Nigeria, the standard of proof is on the balance of probabilities — the claimant must show that their case is more probable than not. The Supreme Court held that a judge must put the totality of the evidence on an imaginary scale, weigh it, and decide which side the scale tips in favour of.
+
+THE MOGAJI PRINCIPLE:
+Oputa JSC (as he then was) articulated the test for evaluation of evidence in civil cases:
+
+"A trial judge before whom conflicting oral evidence is given must first put the two sets of evidence on an imaginary scale — place the evidence of the plaintiff on one side and the evidence of the defendant on the other — and then decide, in the light of all the circumstances, on which side the scale weighs more."
+
+KEY PRINCIPLES:
+1. STANDARD OF PROOF IN CIVIL CASES: Balance of probabilities (preponderance of evidence)
+2. THE SCALE TEST (Mogaji principle): The court must weigh the totality of evidence on both sides
+3. CREDIBILITY OF WITNESSES: The court must assess the demeanour, consistency, and corroboration of witnesses
+4. DOCUMENTARY EVIDENCE vs ORAL TESTIMONY: Where documents contradict oral evidence, documentary evidence generally prevails unless explained
+5. STANDARD IN CRIMINAL CASES: Beyond reasonable doubt (higher standard — Woolmington)
+6. ALLEGATIONS OF FRAUD: In civil cases involving fraud, the standard remains balance of probabilities but cogent evidence is required (the more serious the allegation, the more cogent the evidence needed)
+
+APPLICATION IN NIGERIA:
+Mogaji v Cadbury is the leading Nigerian authority on the standard of proof and evaluation of evidence in civil proceedings. The Mogaji scale principle is cited in virtually every Nigerian civil case where credibility of evidence is in issue. Applied by trial judges and appellate courts in evaluating conflicting testimony. Essential for Evidence law examinations.
+
+CITATION: [1985] 2 NWLR (Pt. 7) 393

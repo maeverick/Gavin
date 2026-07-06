@@ -1,0 +1,51 @@
+Subject: Constitutional Law — Separation of Powers, Federal-State Relations, Legislative Powers, Revenue Allocation
+Source: Attorney-General of Bendel State v Attorney-General of the Federation [1981] 10 SC 1 — Nigerian Supreme Court
+
+CASE NAME: Attorney-General of Bendel State v Attorney-General of the Federation & 22 Others [1981] 10 SC 1
+
+FACTS:
+The Federal Military Government enacted the Land Use Act 1978 and incorporated it into the Constitution by Decree No. 1 of 1984 (and earlier instruments), thereby making it unamendable except by the procedures for constitutional amendment. The Federal Government also enacted the Allocation of Revenue (Federal Account) Act (ARFA). Bendel State challenged the constitutionality of certain provisions of these federal enactments on the ground that they encroached upon the legislative powers of states and violated the federal structure of the Constitution. The case raised fundamental questions about the division of legislative powers between the Federal Government and the states.
+
+ISSUE:
+Does the Federal Government have legislative power to enact laws that encroach upon the residual legislative competence of the states? What is the proper framework for resolving conflicts between federal and state legislation?
+
+HELD (Supreme Court):
+The Supreme Court upheld some aspects of the federal legislation and struck down others. The court affirmed the principle that legislative powers in Nigeria are divided between the Federal Government (Exclusive and Concurrent Lists) and the states (Residual powers) and that each level of government must act within its constitutional competence. Where federal law validly covers a matter on the Concurrent List, it prevails over inconsistent state law — but the Federal Government cannot simply legislate on matters that are within state residual competence.
+
+KEY PRINCIPLES:
+
+THE DIVISION OF LEGISLATIVE POWERS — 1999 CONSTITUTION (EQUIVALENT FRAMEWORK):
+1. EXCLUSIVE LEGISLATIVE LIST (Part I, 2nd Schedule): Only the National Assembly may legislate on these matters — defence, foreign affairs, immigration, currency, customs, aviation, etc. State legislatures have no power in this area.
+2. CONCURRENT LEGISLATIVE LIST (Part II, 2nd Schedule): Both the National Assembly and State Houses of Assembly may legislate on these matters — bankruptcy, evidence, electricity, industrial development, etc. In the event of inconsistency, federal law prevails (s.4(5) CFRN).
+3. RESIDUAL POWERS: All matters not specifically listed belong to the states. States have plenary power to legislate on residual matters — the Federal Government has no power in this area.
+
+THE FEDERAL SUPREMACY CLAUSE — s.4(5) CFRN:
+"If any Law enacted by the House of Assembly of a State is inconsistent with any law validly made by the National Assembly, the law made by the National Assembly shall prevail, and that other law shall to the extent of the inconsistency be void."
+
+This provision resolves conflicts between federal and state law on concurrent matters only. It does not authorise the Federal Government to legislate on residual state matters.
+
+HOW TO DETERMINE WHICH LEVEL OF GOVERNMENT HAS POWER:
+1. Identify the subject matter of the legislation
+2. Determine whether the subject falls on the Exclusive List, Concurrent List, or Residual List
+3. If Exclusive List: Federal Government only — state law on this subject is void
+4. If Concurrent List: Both levels may legislate, but federal law prevails in the event of conflict
+5. If Residual: State power — federal legislation on this subject is ultra vires (beyond federal power)
+
+SEPARATION OF POWERS IN NIGERIA — THREE ARMS:
+- EXECUTIVE: President (Federal) and Governors (States) — executive powers to implement and enforce law
+- LEGISLATURE: National Assembly (Federal) and State Houses of Assembly — power to make law within constitutional competence
+- JUDICIARY: Federal and State courts — power to interpret the Constitution and laws, and to determine disputes
+Each arm is constitutionally independent; no arm may exercise the powers of another.
+
+CHECKS AND BALANCES:
+- The President's assent is required for bills passed by the National Assembly; the National Assembly may override a presidential veto by a two-thirds majority
+- Courts may declare executive action or legislation unconstitutional — judicial review is the principal check on the other two arms
+- The National Assembly may impeach the President; the Senate must confirm certain presidential appointments
+
+REVENUE ALLOCATION — THE FEDERALISM DIMENSION:
+The AG Bendel case also addressed revenue allocation — the distribution of federation revenue between the Federal Government and the states. The Constitution provides for the Federation Account and prescribes sharing formulas. The Federal Government cannot unilaterally alter the revenue allocation formula without constitutional authority. The Supreme Court has consistently upheld the states' right to a fair share of federation revenue as a component of fiscal federalism.
+
+APPLICATION IN NIGERIA:
+Attorney-General of Bendel State v AG Federation is the foundational Supreme Court authority on the constitutional division of legislative powers and federal-state relations in Nigeria. It is cited whenever a question arises about whether the Federal Government has overstepped its powers (or vice versa). The case established that Nigeria is a federation in which states have residual powers, and that the Federal Government's legislative competence is limited to what the Constitution expressly grants. It also underpins the fiscal federalism framework — states are not merely administrative units of the federal government but constitutionally recognised tiers with guaranteed powers and revenue entitlements.
+
+CITATION: [1981] 10 SC 1; [1982] 3 NCLR 1

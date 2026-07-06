@@ -1,0 +1,57 @@
+Subject: Tort Law — Vicarious Liability, Course of Employment
+Source: Limpus v London General Omnibus Co (1862) 1 H & C 526 — Applied in Nigerian tort law
+
+CASE NAME: Limpus v London General Omnibus Co (1862) 1 H & C 526
+
+FACTS:
+A bus driver employed by the London General Omnibus Company deliberately drove his omnibus in front of a rival company's bus to obstruct it, causing an accident in which the plaintiff was injured. The driver had been expressly forbidden by his employer from racing or obstructing other vehicles. The company argued it was not liable because the driver had disobeyed its instructions.
+
+ISSUE:
+Is an employer vicariously liable for the acts of an employee who was acting contrary to the employer's express instructions?
+
+HELD:
+The company was vicariously liable. The driver was employed to drive buses — and the wrongful act (deliberately obstructing another vehicle) was done in the course of that employment, even though he did it in a manner expressly prohibited. The express prohibition did not take the act outside the course of employment; it merely showed that the employer had tried to restrict how the employee carried out their authorised duties.
+
+KEY PRINCIPLES:
+
+THE DOCTRINE OF VICARIOUS LIABILITY:
+An employer is liable for the torts committed by an employee acting in the course of employment. The rationale: the employer benefits from the employee's work and is better placed to bear the risk of accidents arising from that work; the employer can insure against the risk; the employer can exercise control over how the work is done.
+
+THE COURSE OF EMPLOYMENT TEST:
+The central question is whether the employee was acting in the course of their employment when the tort was committed.
+
+1. AUTHORISED ACT DONE IN AN UNAUTHORISED WAY (THE LIMPUS PRINCIPLE):
+Where the employee does an act they are authorised to do, but does it in an unauthorised or prohibited manner, the employer is still liable. The prohibition on the manner of doing the act does not take the act outside the course of employment.
+- "The master can limit the sphere of the servant's employment, but cannot, within that sphere, exempt himself from liability by prohibiting certain acts" (implied from Limpus)
+
+2. FROLIC OF HIS OWN:
+Where the employee is doing something entirely outside the scope of their employment — a "frolic" — the employer is not liable.
+Test: Was the employee doing something connected with their employment, or were they on a personal venture unconnected to their duties?
+- Joel v Morison (1834): if the employee "takes a detour" or acts in a way closely connected to their duties, still within course of employment
+- If the employee completely departs from their duties (substantial deviation), not within course of employment
+
+3. DELIBERATE WRONGDOING:
+Even deliberate or criminal acts may be within the course of employment if they are sufficiently connected to the employee's authorised duties:
+- Lister v Hesley Hall [2002] (UK HL): a warden of a boarding school who sexually abused boys was within the course of employment because there was a close connection between the position of trust and the abuse
+- The "close connection" test has expanded vicarious liability to cover deliberate wrongdoing
+
+4. INDEPENDENT CONTRACTORS:
+An employer is generally NOT vicariously liable for the torts of an independent contractor.
+Distinction employee/independent contractor:
+- Control test: does the employer control not just what is done but how it is done? If yes, employee.
+- Economic reality: integration into the business structure, mutuality of obligation, right of substitution
+- Exceptions to the no-liability rule for independent contractors: non-delegable duties (e.g., construction work on a highway)
+
+VICARIOUS LIABILITY IN NIGERIA — STATUTORY AND CASE LAW:
+- Nigerian courts apply the course-of-employment test from Limpus and its descendants
+- The Federal Government, state governments, and public authorities are vicariously liable for the torts of their servants acting in the course of their official duties: Government of Lagos State v Adeyiga [2012]
+- Public officers acting outside their authority (e.g., committing personal assaults unconnected to their duties) do not attract government vicarious liability
+
+EMPLOYER'S INDEMNITY:
+- Where an employer is held vicariously liable, they may seek an indemnity from the employee whose fault caused the loss: Lister v Romford Ice [1957]
+- In practice, this right is rarely exercised against an individual employee
+
+APPLICATION IN NIGERIA:
+Limpus v London General Omnibus Co is the foundational authority on the course-of-employment principle in Nigerian tort law. The principle that a prohibition on the manner of doing work does not take the employee outside the course of employment is regularly applied in road traffic accidents (where drivers are forbidden from certain conduct but the employer remains liable), assault cases in employment contexts, and public authority liability. Nigeria follows the English common law on vicarious liability with adaptations for the public/private sector context.
+
+CITATION: (1862) 1 H & C 526; 158 ER 993

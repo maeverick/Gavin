@@ -1,0 +1,29 @@
+Subject: Contract Law — Nigerian Banking Contract
+Source: Orient Bank Nigeria Plc v Bilante International Ltd (1997) 8 NWLR (Pt. 515) 37
+
+CASE NAME: Orient Bank Nigeria Plc v Bilante International Ltd (1997) 8 NWLR (Pt. 515) 37
+
+FACTS:
+Bilante International Ltd operated a current account with Orient Bank Nigeria Plc. The respondent issued cheques on the account which the bank dishonoured, despite there being sufficient funds. The dishonour was due to the negligence of the bank's staff. The respondent suffered loss of business and reputation as a result of the wrongful dishonour.
+
+ISSUES:
+1. What is the liability of a bank for wrongful dishonour of a customer's cheque?
+2. What damages flow from wrongful dishonour?
+
+HELD (Court of Appeal):
+A bank that wrongfully dishonours a customer's cheque is liable in damages to the customer. Where the customer is a trader or business, the wrongful dishonour is presumed to cause damage to credit and reputation without proof of specific loss. The bank breached its contractual duty to honour the customer's mandate.
+
+KEY PRINCIPLES:
+1. BANKER-CUSTOMER CONTRACT: A bank owes a contractual duty to honour its customer's cheques when:
+   (a) There are sufficient funds in the account
+   (b) The cheque is properly drawn
+   (c) There is no lawful reason to refuse (e.g., court order, garnishment)
+2. WRONGFUL DISHONOUR: Dishonour without lawful excuse constitutes breach of the bank-customer contract
+3. DAMAGES FOR TRADERS: A trader whose cheque is wrongfully dishonoured need not prove specific damage — damage to credit is presumed
+4. NON-TRADERS: A non-trader must prove actual damage resulting from dishonour
+5. The bank may also be liable in negligence where the dishonour results from careless conduct of staff
+
+APPLICATION IN NIGERIA:
+Orient Bank v Bilante is a leading Nigerian authority on the banker-customer relationship and liability for wrongful dishonour. Applied in cases involving bank-customer disputes, dishonoured cheques, and the implied duties of banks under the contract of mandate. Relevant to banking law, commercial law, and professional responsibility examinations.
+
+CITATION: (1997) 8 NWLR (Pt. 515) 37

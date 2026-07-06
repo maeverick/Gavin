@@ -1,0 +1,61 @@
+Subject: Criminal Law — Self-Defence, Defence of Another, Reasonable Force, Nigerian Criminal Code and Penal Code
+Source: Criminal Code Act (Cap C38 LFN 2004), ss.271–274, 283; Penal Code (Northern States) Federal Provisions Act (Cap P3 LFN 2004), ss.59–67; R v Howe [1958] 100 CLR 448 (applied in Nigeria); Owie v State [1985] 1 NWLR (Pt. 3) 470 (SC)
+
+SELF-DEFENCE UNDER NIGERIAN CRIMINAL LAW
+
+NATURE OF THE DEFENCE:
+Self-defence (also called private defence) is a complete defence to a criminal charge. If successfully established, the accused is acquitted entirely — it is not a partial defence like provocation. The defence covers:
+- Defence of one's own person
+- Defence of another person
+- Defence of property (subject to stricter limits)
+
+GOVERNING LAW:
+- Southern Nigeria: Criminal Code Act (Cap C38 LFN 2004), ss.271–274
+- Northern Nigeria: Penal Code (Northern States) Federal Provisions Act (Cap P3 LFN 2004), ss.59–67
+Both codes are supplemented by common law principles as received into Nigerian law.
+
+CRIMINAL CODE — KEY PROVISIONS:
+Section 271 (Defence of Dwelling): A person may use force, including lethal force, to prevent a person from forcibly breaking into their dwelling house.
+
+Section 272 (Defence of Movable Property): A person may use reasonable force to defend movable property from theft or trespass; lethal force is not justified for property alone unless the conditions of s.273 are also met.
+
+Section 273 (Defence against Criminal Assault): A person who is unlawfully assaulted and has not provoked the assault may use such force as is reasonably necessary to prevent the assault, provided the force used is not intended to cause death or grievous harm unless the person reasonably apprehends death or grievous harm.
+
+ELEMENTS OF SELF-DEFENCE — FOUR REQUIREMENTS:
+1. UNLAWFUL ATTACK: The accused must have been under an unlawful attack or immediately threatened with one. A lawful act (e.g., lawful arrest, lawful discipline) does not trigger the right of self-defence.
+
+2. NECESSITY: The use of force must have been necessary. If the danger could have been avoided without using force, the defence may fail.
+
+3. PROPORTIONALITY: The force used must be proportionate to the threat. Moderate force cannot ordinarily be met with lethal force. Lethal force is only justified where the accused reasonably apprehended death or grievous bodily harm.
+
+4. REASONABLE APPREHENSION: The accused must have genuinely and reasonably believed they were in imminent danger. A genuine but unreasonable belief is insufficient — the apprehension must be one that a reasonable person in the same circumstances would have shared.
+
+THE APPREHENSION TEST — OWIE v STATE [1985] 1 NWLR (Pt. 3) 470:
+The Supreme Court confirmed that the test for self-defence in Nigeria is both subjective and objective:
+- Subjective: Did the accused genuinely believe they were in danger of death or grievous harm?
+- Objective: Was that belief reasonable in all the circumstances?
+Both limbs must be satisfied. An honest but unreasonable belief does not ground self-defence under the Criminal Code.
+
+DUTY TO RETREAT:
+There is no absolute legal duty to retreat before exercising the right of self-defence under the Criminal Code. However, failure to retreat when retreat was safe and possible is evidence that the use of force was not necessary — it bears on whether the proportionality and necessity requirements are met. A person attacked in their own home generally has no duty to retreat.
+
+DEFENCE OF ANOTHER PERSON:
+A person may use reasonable force to defend any other person who is being unlawfully attacked. The same requirements apply — the force must be necessary and proportionate. The relationship between the defender and the person defended is legally irrelevant; a stranger may lawfully defend another stranger.
+
+THE INITIAL AGGRESSOR:
+A person who is the initial aggressor — who provokes or initiates the unlawful attack — generally cannot rely on self-defence. If the initial aggressor then retreats and is pursued, they may regain the right of self-defence once they have genuinely withdrawn from the conflict.
+
+SELF-DEFENCE DISTINGUISHED FROM PROVOCATION:
+- Self-defence: A complete defence — the accused claims the killing was justified to prevent an unlawful attack. Accused is acquitted if the defence succeeds.
+- Provocation (s.283 Criminal Code): A partial defence — the accused admits the killing but claims loss of self-control due to sudden provocation. Reduces murder to manslaughter. The two defences are based on different facts and are generally mutually inconsistent.
+
+PENAL CODE — NORTHERN NIGERIA (ss.59–67):
+The Penal Code provisions on private defence are broadly similar. Force may be used to defend person or property; lethal force is only justified where the person apprehended death or grievous hurt. The Penal Code specifically provides that the right of private defence does not extend to inflicting more harm than is necessary. There is no right of private defence against an act that is not an offence under the Penal Code.
+
+EXCESSIVE FORCE:
+Where the accused used genuine but objectively excessive force, there is no intermediate verdict under the Criminal Code. The accused either succeeds in self-defence (acquittal) or fails (convicted of the full offence). Unlike some other jurisdictions, excessive self-defence does not reduce murder to manslaughter under Nigerian law.
+
+APPLICATION IN NIGERIA:
+Self-defence is commonly raised in homicide prosecutions in Nigerian courts. It most commonly succeeds in cases involving home invasion, armed robbery, or attack with a deadly weapon where the accused had no realistic opportunity to retreat. The defence fails where the force used is grossly disproportionate (e.g., using a firearm against an unarmed aggressor where retreat was possible) or where the accused was the initial aggressor. Trial judges are required to put the defence of self-defence to the jury/themselves even if not specifically raised by the accused, where the evidence supports it.
+
+CITATION: Criminal Code Act (Cap C38 LFN 2004), ss.271–274, 283; Penal Code (Northern States) Federal Provisions Act (Cap P3 LFN 2004), ss.59–67; Owie v State [1985] 1 NWLR (Pt. 3) 470 (SC)

@@ -1,0 +1,55 @@
+Subject: Contract Law — Acceptance, Postal Rule, Communication of Acceptance
+Source: Adams v Lindsell (1818) 1 B & Ald 681 — Applied in Nigerian contract law
+
+CASE NAME: Adams v Lindsell (1818) 1 B & Ald 681
+
+FACTS:
+On 2 September 1817, Lindsell (the defendant) wrote to Adams offering to sell wool at a stated price, requesting a reply "in course of post." The letter was misdirected and did not reach Adams until 5 September. Adams immediately posted an acceptance on the same day (5 September). The acceptance reached Lindsell on 9 September. However, Lindsell, having not received a reply by 7 September (by when they expected a response if the letter had arrived properly), had sold the wool to a third party on 8 September. Adams sued for breach of contract.
+
+ISSUE:
+At what point in time was the contract formed — when Adams posted the acceptance, or when the acceptance was received by Lindsell?
+
+HELD:
+A binding contract was formed when Adams posted the letter of acceptance on 5 September. The acceptance was complete at the moment of posting, not on receipt by the offeror. Because the contract was formed on 5 September, Lindsell was in breach by selling to a third party on 8 September.
+
+THE POSTAL RULE (POSTAL ACCEPTANCE RULE):
+"Where the circumstances are such that it must have been within the reasonable contemplation of the parties that, according to the ordinary usages of mankind, the post might be used as a means of communicating the acceptance of an offer, the acceptance is complete as soon as it is posted."
+
+KEY PRINCIPLES:
+
+THE GENERAL RULE — ACCEPTANCE EFFECTIVE ON COMMUNICATION:
+The basic rule for acceptance (Entores v Miles Far East Corporation [1955]) is that acceptance is effective when it is communicated to the offeror. For instantaneous communications (face-to-face, telephone, fax, email), the contract is formed when and where the offeror receives the acceptance.
+
+THE POSTAL RULE — THE EXCEPTION:
+Where it is reasonable to use the post as a means of acceptance (because the offer was made by post or the use of post was otherwise contemplated), the acceptance takes effect when it is posted — NOT when it is received.
+
+Consequences of the postal rule:
+1. The contract is formed at the moment of posting, even if the letter is delayed, lost, or destroyed in the post
+2. The offeror cannot revoke the offer after the acceptance has been posted, even if the revocation is communicated before the acceptance arrives
+3. The risk of postal delay or loss falls on the OFFEROR (not the acceptor)
+
+CONDITIONS FOR THE POSTAL RULE TO APPLY:
+1. POST MUST BE A CONTEMPLATED MEANS OF ACCEPTANCE: Post must have been used, invited, or reasonably contemplated as the means of reply
+2. LETTER MUST BE PROPERLY ADDRESSED AND STAMPED: The postal rule only applies if the letter is correctly addressed and properly placed in a postal box (Re London and Northern Bank [1900])
+3. THE RULE IS NOT AUTOMATIC: It can be excluded by the offeror — "acceptance to be effective only on receipt" displaces the postal rule
+
+WHEN THE POSTAL RULE DOES NOT APPLY:
+1. Instantaneous communications (telephone, telex, fax, email) — Entores v Miles Far East [1955]; The Brimnes [1975]
+2. Where the offeror has specified that acceptance must be received (not merely posted)
+3. Where it would be unreasonable to use the post (e.g., offer requires an urgent reply)
+4. Withdrawals/revocations: the postal rule does NOT apply to revocations of offers — a revocation is effective only when actually communicated to the offeree (Byrne v Van Tienhoven (1880))
+
+EMAIL AND ELECTRONIC ACCEPTANCE IN NIGERIA:
+- The Cybercrimes (Prohibition, Prevention, Etc.) Act 2015 and the Electronic Transactions Bill recognise electronic contracts
+- The general rule for electronic acceptance follows the non-postal-rule approach: acceptance is effective when received by the offeror's server/system (analogous to instantaneous communication)
+- The postal rule does not apply to email
+
+REVOCATION OF OFFERS:
+- An offer can be revoked at any time before acceptance
+- Revocation is effective only when communicated to the offeree — not when the offeror posts a revocation letter
+- The postal rule does not apply to revocations: Byrne v Van Tienhoven (1880)
+
+APPLICATION IN NIGERIA:
+Adams v Lindsell establishes the postal rule, which is applied in Nigerian contract law when acceptances are made by post or other non-instantaneous means. Nigerian courts follow the rule that contracts are formed at the moment of posting where the postal rule applies. In the modern commercial context, the more relevant principles concern electronic communications, for which the general rule of receipt applies. The case remains critical to understanding the theory of offer and acceptance and the moment contract formation occurs.
+
+CITATION: (1818) 1 B & Ald 681; 106 ER 250

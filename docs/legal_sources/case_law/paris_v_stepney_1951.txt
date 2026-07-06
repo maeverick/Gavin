@@ -1,0 +1,34 @@
+Subject: Tort Law — Breach of Duty, Standard of Care
+Source: Paris v Stepney Borough Council [1951] AC 367 (House of Lords)
+
+CASE NAME: Paris v Stepney Borough Council [1951] AC 367
+
+FACTS:
+The plaintiff was employed by the defendant council as a garage hand. He had only one good eye — the defendant knew this. While working under a vehicle, a metal chip flew off and blinded his good eye, leaving him totally blind. The defendant had not provided him with goggles. Workers with two good eyes were not normally provided with goggles because the risk of injury to both eyes was considered low.
+
+ISSUE:
+In determining whether an employer has breached the duty of care owed to an employee, should the court take into account the particular vulnerability of the individual employee?
+
+HELD (House of Lords, 3:2):
+Yes. The degree of care required varies with the degree of risk. Even if the probability of injury is low, the gravity of the potential harm must be considered. Because the plaintiff was already blind in one eye, the consequences of injury were far more severe than for a normal employee. The employer should have provided goggles.
+
+THE CALCULUS OF BREACH:
+In determining whether a defendant has breached their duty of care, courts weigh:
+1. PROBABILITY of harm occurring
+2. GRAVITY (severity) of potential harm — including particular vulnerability of the claimant
+3. COST AND PRACTICABILITY of taking precautions
+4. SOCIAL UTILITY of the defendant's conduct (Watt v Hertfordshire County Council)
+
+KEY PRINCIPLES:
+1. OBJECTIVE STANDARD: The defendant is judged against the standard of a reasonable person in their position
+2. PARTICULAR VULNERABILITY: Where the defendant knows of the claimant's special vulnerability, greater precautions may be required
+3. GRAVITY OF RISK: The more serious the potential harm, the more precautions are required even if probability is low
+4. SKILLED PROFESSIONALS: A professional (doctor, lawyer, engineer) is judged against the standard of a reasonably competent professional in that field (Bolam v Friern Hospital [1957])
+
+THE BOLAM TEST (Professional Standard):
+A professional is not negligent if they act in accordance with a practice accepted as proper by a responsible body of professional opinion, even if other professionals would have acted differently.
+
+APPLICATION IN NIGERIA:
+Paris v Stepney is applied in Nigerian negligence cases, particularly employer liability and occupier's liability cases. The principle that the severity of potential harm affects the standard of care is applied in cases involving vulnerable claimants, workplace accidents, and medical negligence. Nigerian courts apply the calculus of breach to determine whether the defendant took adequate precautions.
+
+CITATION: [1951] AC 367

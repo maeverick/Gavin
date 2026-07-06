@@ -1,0 +1,27 @@
+Subject: Contract Law
+Source: Carlill v Carbolic Smoke Ball Co [1893] 1 QB 256 — Applied in Nigerian courts
+
+CASE NAME: Carlill v Carbolic Smoke Ball Co [1893] 1 QB 256
+
+FACTS:
+The Carbolic Smoke Ball Company advertised it would pay £100 to anyone who contracted influenza after using its smoke ball as directed. Mrs Carlill used the product and contracted influenza. The company refused to pay, arguing the advertisement was not a binding offer.
+
+ISSUES:
+1. Was the advertisement a valid offer capable of acceptance?
+2. Was there sufficient consideration?
+3. Was there a valid contract?
+
+HELD (Court of Appeal):
+The advertisement constituted a valid offer to the world at large. Acceptance occurs through performance of the requested act — Mrs Carlill accepted by purchasing and using the product as directed. Sufficient consideration existed: benefit to the company of increased sales and detriment to Mrs Carlill in using the product. The company deposit of £1,000 demonstrated genuine contractual intent. Mrs Carlill was entitled to £100.
+
+KEY PRINCIPLES:
+1. An offer may be made to the whole world (unilateral contract)
+2. Acceptance of a unilateral offer occurs by performance of the stipulated act
+3. Communication of acceptance is not required in unilateral contracts
+4. A sufficiently specific advertisement can constitute a binding offer
+5. Consideration need not be money — use of a product as directed suffices
+
+APPLICATION IN NIGERIA:
+Carlill v Carbolic Smoke Ball Co is the leading authority on unilateral contracts applied throughout Nigerian courts. It establishes that advertisements containing specific promises can be binding offers. Cited in Nigerian contract cases on offer and acceptance, consideration, and unilateral contracts.
+
+CITATION: [1893] 1 QB 256; [1892] EWCA Civ 1

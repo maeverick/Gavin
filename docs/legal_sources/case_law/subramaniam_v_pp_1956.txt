@@ -1,0 +1,59 @@
+Subject: Evidence Law — Hearsay Rule, Statements Not Tendered for Truth
+Source: Subramaniam v Public Prosecutor [1956] 1 WLR 965 (Privy Council) — Applied in Nigerian evidence law
+
+CASE NAME: Subramaniam v Public Prosecutor [1956] 1 WLR 965
+
+FACTS:
+Subramaniam was charged with unlawfully possessing ammunition. His defence was duress — he claimed he had been captured by terrorists who threatened to kill him if he did not carry the ammunition. At trial, the judge refused to allow Subramaniam to give evidence of what the terrorists had said to him, ruling it was inadmissible hearsay. He was convicted.
+
+ISSUE:
+Were the statements made by the terrorists to the accused inadmissible hearsay, or was the judge wrong to exclude them?
+
+HELD (Privy Council):
+The judge was wrong to exclude the evidence. Evidence of what the terrorists said to the accused was not hearsay at all, because it was not being tendered to prove the truth of what was said. It was being tendered to prove that the threats were made — and the fact that threats were made was directly relevant to the defence of duress. A statement is only hearsay when it is tendered to prove the truth of its contents.
+
+THE SUBRAMANIAM RULE:
+"Evidence of a statement made to a witness by a person who is not himself called as a witness may or may not be hearsay. It is hearsay and inadmissible when the object of the evidence is to establish the truth of what is contained in the statement. It is not hearsay and is admissible when it is proposed to establish by the evidence, not the truth of the statement, but the fact that it was made."
+
+KEY PRINCIPLES:
+
+THE HEARSAY RULE:
+1. DEFINITION: Hearsay is an out-of-court statement tendered in evidence to prove the truth of its contents
+2. WHY INADMISSIBLE: The maker of the statement is not in court to be cross-examined; the statement has not been made on oath; its reliability cannot be tested
+3. THE CRUCIAL DISTINCTION: The purpose for which the statement is tendered determines whether it is hearsay
+
+STATEMENT TENDERED TO PROVE TRUTH = HEARSAY (inadmissible unless exception applies):
+- "John told me he saw the accused at the scene" — tendered to prove the accused was at the scene = hearsay
+- A letter stating "I owe X £1,000" — tendered to prove the debt exists = hearsay
+
+STATEMENT TENDERED NOT FOR TRUTH = NOT HEARSAY (admissible):
+- "The terrorist said he would kill me if I did not comply" — tendered to prove threats were made, not to prove the terrorist was actually going to kill anyone = not hearsay (Subramaniam)
+- Words of a contract ("I offer to sell you my car for ₦500,000") — tendered to prove the offer was made, not for truth = not hearsay
+- Defamatory words ("He said X is a fraudster") — tendered in a defamation action to prove the words were spoken = not hearsay
+
+EXCEPTIONS TO THE HEARSAY RULE UNDER THE EVIDENCE ACT 2011:
+
+1. DYING DECLARATIONS (s.40):
+- A statement made by a person who believed they were dying, relating to the circumstances of their death, is admissible in a trial for their murder or manslaughter
+- The declarant must have had a settled, hopeless expectation of death at the time of the statement
+- The declarant must have been competent to give evidence
+- Admissible even though the declarant is dead and cannot be cross-examined
+
+2. STATEMENTS IN PUBLIC DOCUMENTS (s.118):
+- Statements in official public documents (e.g., government gazettes, public registers) made by persons under a duty to inquire and record are admissible
+
+3. STATEMENTS IN THE COURSE OF BUSINESS (s.90):
+- Statements in documents forming part of a record kept in the ordinary course of business are admissible
+
+4. ADMISSIONS AND CONFESSIONS:
+- Admissions made by a party to civil proceedings are admissible against them
+- Confessions by an accused in criminal proceedings are admissible (Evidence Act ss.28-32)
+
+5. RES GESTAE:
+- Statements made as part of the same transaction, or spontaneously contemporaneous with an event, may be admissible as part of the res gestae (thing done)
+- Must be so closely connected to the event that the possibility of fabrication is excluded
+
+APPLICATION IN NIGERIA:
+Subramaniam v PP is the foundational authority on hearsay in Nigerian evidence law. The Evidence Act 2011 codifies the hearsay rule and its exceptions. The distinction Subramaniam draws — between statements tendered for truth (hearsay) and statements tendered to prove the fact of their making (not hearsay) — is applied daily in Nigerian courts. It is critical in criminal trials where duress, threats, or prior representations are in issue, and in civil cases where the existence rather than the truth of a statement is relevant.
+
+CITATION: [1956] 1 WLR 965; Evidence Act 2011 ss.37-42
