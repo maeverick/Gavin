@@ -1,0 +1,138 @@
+@import "tailwindcss";
+
+@theme {
+  --color-bg-primary: var(--bg-primary);
+  --color-bg-secondary: var(--bg-secondary);
+  --color-bg-tertiary: var(--bg-tertiary);
+  
+  --color-text-primary: var(--text-primary);
+  --color-text-secondary: var(--text-secondary);
+  --color-text-tertiary: var(--text-tertiary);
+  
+  --color-accent-primary: var(--accent-primary);
+  --color-accent-hover: var(--accent-hover);
+  --color-accent-secondary: var(--accent-secondary);
+
+  --color-success: #22C55E;
+  --color-warning: #F59E0B;
+  --color-error: #EF4444;
+
+  --color-border: var(--border-color);
+  --color-border-hover: var(--border-hover-color);
+  
+  --font-family-sans: 'Inter', system-ui, -apple-system, sans-serif;
+  --font-family-heading: 'Inter', system-ui, sans-serif;
+  --font-family-display: 'Libre Baskerville', Georgia, serif;
+}
+
+:root {
+  /* Dark Mode (Default) */
+  --bg-primary: #0A0C10;
+  --bg-secondary: #111318;
+  --bg-tertiary: #1A1D24;
+
+  --text-primary: #F1F5F9;
+  --text-secondary: #94A3B8;
+  --text-tertiary: #64748B;
+
+  --border-color: rgba(255, 255, 255, 0.08);
+  --border-hover-color: rgba(255, 255, 255, 0.15);
+
+  /* Monochrome accent — white on dark */
+  --accent-primary:   #FFFFFF;
+  --accent-hover:     #E2E8F0;
+  --accent-secondary: #94A3B8;
+}
+
+:root.light {
+  /* Light Mode — Perplexity-style warm off-white */
+  --bg-primary:   #F7F7F5;
+  --bg-secondary: #FFFFFF;
+  --bg-tertiary:  #EFEFED;
+  --bg-sidebar:   #EFEFED;
+
+  --text-primary:   #111110;
+  --text-secondary: #6B6B6B;
+  --text-tertiary:  #A8A8A8;
+
+  --border-color:       rgba(0, 0, 0, 0.06);
+  --border-hover-color: rgba(0, 0, 0, 0.10);
+
+  /* Monochrome accent — black on light */
+  --accent-primary:   #111110;
+  --accent-hover:     #2C2C2C;
+  --accent-secondary: #6B6B6B;
+}
+
+@keyframes gradient-shift {
+  0%   { background-position: 0% 50%; }
+  50%  { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes orb-float {
+  0%, 100% { transform: translateY(0px) scale(1); opacity: 0.4; }
+  50%       { transform: translateY(-30px) scale(1.08); opacity: 0.6; }
+}
+
+@keyframes orb-float-slow {
+  0%, 100% { transform: translateY(0px) translateX(0px) scale(1); opacity: 0.3; }
+  33%       { transform: translateY(-20px) translateX(15px) scale(1.05); opacity: 0.5; }
+  66%       { transform: translateY(10px) translateX(-10px) scale(0.95); opacity: 0.35; }
+}
+
+@layer base {
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+  body {
+    background-color: var(--bg-primary);
+    color: var(--text-primary);
+    font-family: var(--font-family-sans);
+    -webkit-font-smoothing: antialiased;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+
+  h1, h2, h3, h4 {
+    font-family: var(--font-family-display);
+  }
+
+  /* Thinner icon strokes — matches Perplexity's lightweight icon aesthetic */
+  svg {
+    stroke-width: 1.5;
+  }
+
+  /* Light mode: cards float with shadow, borders fade to near-invisible */
+  :root.light .border {
+    border-color: rgba(0, 0, 0, 0.06) !important;
+  }
+  :root.light .bg-bg-secondary {
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.06), 0 0 0 1px rgba(0, 0, 0, 0.04);
+  }
+  :root.light .rounded-2xl.bg-bg-secondary,
+  :root.light .rounded-3xl.bg-bg-secondary {
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.07), 0 0 0 1px rgba(0, 0, 0, 0.04);
+  }
+
+  /* Custom Scrollbar */
+  ::-webkit-scrollbar {
+    width: 6px;
+    height: 6px;
+  }
+
+  ::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  ::-webkit-scrollbar-thumb {
+    background: var(--border-color);
+    border-radius: 4px;
+  }
+
+  ::-webkit-scrollbar-thumb:hover {
+    background: var(--border-hover-color);
+  }
+}
