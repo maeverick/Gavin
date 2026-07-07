@@ -17,8 +17,7 @@ const TagBadge = ({ tag }) => (
   </span>
 );
 
-const NOTE_COLORS = ['#7C3AED','#10B981','#F59E0B','#EF4444','#3B82F6','#EC4899','#8B5CF6','#06B6D4'];
-const getNoteColor = (title) => NOTE_COLORS[(title || '').charCodeAt(0) % NOTE_COLORS.length];
+
 const noteTimeAgo = (dateStr) => {
   const days = Math.floor((Date.now() - new Date(dateStr)) / 86400000);
   if (days === 0) return 'Today';
@@ -42,49 +41,66 @@ const INFER_TAGS = (summary) => {
 
 const cleanSource = (src) => src.replace(/^.*[/\\]/, '').replace(/\.(pdf|txt)$/i, '').replace(/_/g, ' ');
 
-// ─── Note Card ────────────────────────────────────────────────────────────────
 const NoteCard = ({ note, onClick, onDelete }) => {
-  const color    = getNoteColor(note.title);
-  const initials = (note.title || '').split(' ').map(w => w[0]).join('').toUpperCase().slice(0, 2) || 'N';
   const keyCount  = note.summary?.keyPoints?.length || 0;
   const caseCount = note.summary?.cases?.length || 0;
+  const tags = note.tags || [];
 
   return (
     <div onClick={onClick}
-      className="bg-bg-secondary border border-border rounded-3xl p-7 cursor-pointer hover:shadow-xl hover:shadow-black/15 transition-all group flex flex-col gap-6">
-      <div className="flex items-start justify-between">
-        <div className="w-14 h-14 rounded-2xl flex items-center justify-center text-white text-[16px] font-bold shadow-lg shrink-0"
-          style={{ backgroundColor: color }}>{initials}</div>
+      className="bg-bg-secondary border border-border rounded-2xl p-5 sm:p-7 cursor-pointer hover:shadow-lg transition-all group flex flex-col justify-between relative min-h-[380px] sm:min-h-[450px]"
+      style={{ width: '100%', maxWidth: '400px' }}>
+
+      {/* Hover actions — top right */}
+      <div className="absolute top-4 right-4 flex items-center gap-1.5 opacity-0 group-hover:opacity-100 transition-all">
         <button onClick={e => { e.stopPropagation(); onDelete(note.id); }}
-          className="flex items-center gap-1 text-[11px] font-medium px-3 py-1.5 rounded-xl border border-border text-text-tertiary hover:text-error hover:border-error/40 transition-all opacity-0 group-hover:opacity-100">
-          <Trash2 size={11} /> Delete
+          className="flex items-center gap-1 text-[11px] font-medium px-2.5 py-1 rounded-lg border border-border text-text-tertiary hover:text-error hover:border-error/40 transition-all">
+          <Trash2 size={10} /> Delete
         </button>
       </div>
-      <div className="flex flex-col gap-1.5">
-        <p className="text-[11px] text-text-tertiary">{noteTimeAgo(note.created_at)}</p>
-        <h3 className="text-[18px] font-bold text-text-primary leading-snug group-hover:text-accent-primary transition-colors">{note.title}</h3>
-      </div>
-      <div className="flex flex-wrap gap-2">
-        {(note.tags || []).map(tag => (
-          <span key={tag} className="text-[12px] text-text-secondary bg-bg-tertiary border border-border px-3 py-1.5 rounded-full">{tag}</span>
-        ))}
-        <span className="text-[12px] text-text-secondary bg-bg-tertiary border border-border px-3 py-1.5 rounded-full flex items-center gap-1">
-          <FileText size={10} /> {note.filename?.split('.').pop()?.toUpperCase() || 'DOC'}
-        </span>
-      </div>
-      <div className="border-t border-border" />
-      <div className="flex items-center justify-between">
-        <div>
-          <p className="text-[16px] font-bold text-text-primary">{keyCount} key points</p>
-          <p className="text-[12px] text-text-tertiary mt-0.5">{caseCount} case{caseCount !== 1 ? 's' : ''} referenced</p>
+
+      {/* Top section */}
+      <div className="flex flex-col gap-5 pr-16">
+        {/* Date */}
+        <p className="text-[10px] font-semibold text-text-tertiary uppercase tracking-widest">{noteTimeAgo(note.created_at)}</p>
+
+        {/* Title */}
+        <h3 className="font-display text-[26px] font-bold text-text-primary leading-snug">
+          {note.title}
+        </h3>
+
+        {/* Tags */}
+        <div className="flex flex-wrap gap-2">
+          {tags.slice(0, 2).map(tag => (
+            <span key={tag} className="text-[13px] text-text-secondary bg-bg-tertiary px-4 py-1.5 rounded-full">
+              {tag}
+            </span>
+          ))}
+          {tags.length === 0 && (
+            <span className="text-[13px] text-text-secondary bg-bg-tertiary px-4 py-1.5 rounded-full">
+              {note.filename?.split('.').pop()?.toUpperCase() || 'DOC'}
+            </span>
+          )}
         </div>
-        <button className="bg-text-primary text-bg-primary px-5 py-2.5 rounded-xl text-[13px] font-semibold transition-all hover:opacity-80">
-          View notes
-        </button>
+      </div>
+
+      {/* Bottom section */}
+      <div className="flex flex-col gap-4">
+        <div className="border-t border-border" />
+        <div className="flex items-center justify-between">
+          <div>
+            <p className="text-[16px] font-bold text-text-primary">{keyCount} Key Points</p>
+            <p className="text-[12px] text-text-tertiary mt-1">{caseCount} case{caseCount !== 1 ? 's' : ''} referenced</p>
+          </div>
+          <button className="bg-accent-primary text-bg-primary px-6 py-3 rounded-xl text-[14px] font-semibold transition-all hover:opacity-80">
+            View Notes
+          </button>
+        </div>
       </div>
     </div>
   );
 };
+
 
 // ─── Note Detail ──────────────────────────────────────────────────────────────
 const NoteDetail = ({ note, onBack, onDelete, onRename }) => {
@@ -578,7 +594,7 @@ const StudyNotes = () => {
       ) : (
         <div className="flex-1 overflow-y-auto">
           <div className="max-w-4xl mx-auto px-6 py-8">
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
+            <div className="flex flex-wrap gap-4 sm:gap-6 justify-start">
               {notes.map(note => (
                 <NoteCard key={note.id} note={note} onClick={() => setActiveNote(note)} onDelete={(id) => setConfirmDeleteId(id)} />
               ))}

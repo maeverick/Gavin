@@ -980,7 +980,8 @@ const QuizCard = ({ quiz, onStart, onDelete, onShare }) => {
 
   return (
     <div onClick={onStart}
-      className="bg-bg-secondary border border-border rounded-2xl p-5 sm:p-7 cursor-pointer hover:shadow-lg transition-all group flex flex-col justify-between relative w-full min-h-[360px]">
+      className="bg-bg-secondary border border-border rounded-2xl p-5 sm:p-7 cursor-pointer hover:shadow-lg transition-all group flex flex-col justify-between relative min-h-[380px] sm:min-h-[450px]"
+      style={{ width: '100%', maxWidth: '400px' }}>
 
       {/* Hover actions — top right */}
       <div className="absolute top-4 right-4 flex items-center gap-1.5 opacity-0 group-hover:opacity-100 transition-all">
@@ -1129,8 +1130,8 @@ const Quizzes = ({ profile, activePlan }) => {
             </button>
           </div>
         ) : (
-          <div className="max-w-5xl mx-auto px-6 py-8">
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
+          <div className="max-w-4xl mx-auto px-6 py-8">
+            <div className="flex flex-wrap gap-4 sm:gap-6 justify-start">
               {quizzes.map(quiz => (
                 <QuizCard key={quiz.id} quiz={quiz}
                   onStart={() => { setActiveQuiz(quiz); setActiveAttempt(null); }}
