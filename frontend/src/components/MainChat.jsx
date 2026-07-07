@@ -6,9 +6,13 @@ import {
   Send, Paperclip, Bot, User, Quote, FileText, Layers, CheckSquare,
   Scale, BookOpen, Shield, Briefcase, MapPin, RefreshCw,
   Copy, Check, Square, Download, Pencil, GraduationCap, Loader2,
+  Calendar, CheckCircle,
 } from 'lucide-react';
 import { saveDeck } from '../lib/decks';
 import { saveQuiz } from '../lib/quizzes';
+import { saveNote } from '../lib/notes';
+import { fetchActivePlan } from '../lib/planner';
+import { supabase } from '../lib/supabase';
 
 const ALL_PROMPTS = [
   { id: 0, text: 'Explain Section 36 of the 1999 Constitution on the right to fair hearing', icon: Scale },
@@ -31,9 +35,18 @@ const parseFollowUps = (content) => {
   return { clean, followUps };
 };
 
-const MainChat = ({ messages, setMessages, onMessageSent, profile, activePlan, prefillMessage, onPrefillConsumed, conversationSummary, onSummaryUpdate, onTitleGenerated, sessionId, isMobile, onOpenSidebar }) => {
+const getMonday = (date) => {
+  const d = new Date(date);
+  const day = d.getDay();
+  d.setDate(d.getDate() + (day === 0 ? -6 : 1 - day));
+  d.setHours(0, 0, 0, 0);
+  return d;
+};
+
+const MainChat = ({ onNavigate, messages, setMessages, onMessageSent, profile, activePlan, prefillMessage, onPrefillConsumed, conversationSummary, onSummaryUpdate, onTitleGenerated, sessionId, isMobile, onOpenSidebar }) => {
   const [input, setInput] = useState('');
   const [isLoading, setIsLoading] = useState(false);
+  const [loadingText, setLoadingText] = useState('');
   const [isStreaming, setIsStreaming] = useState(false);
   const [promptPage, setPromptPage] = useState(0);
   const [copiedId, setCopiedId] = useState(null);
@@ -129,6 +142,147 @@ const MainChat = ({ messages, setMessages, onMessageSent, profile, activePlan, p
     URL.revokeObjectURL(url);
   };
 
+  const handleCreateQuizFromIntent = async (params) => {
+    const topic = params.topic || 'General Law';
+    const count = Math.max(1, Math.min(params.count || 10, 30));
+    const mode = params.mode || 'practice';
+    const quiz_type = params.quiz_type || 'topic';
+    const duration = params.duration_minutes || 0;
+
+    const res = await fetch(`${API_URL}/api/quizzes/generate`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({
+        topic,
+        count,
+        quiz_type,
+        difficulty: 'mixed',
+        source_text: '',
+      }),
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || 'Generation failed');
+    if (!data.questions?.length) throw new Error('AI returned no questions');
+
+    const saved = await saveQuiz({
+      title: data.title || topic,
+      topic,
+      quiz_type,
+      mode,
+      duration_minutes: duration,
+      questions: data.questions,
+      attempts: [],
+    });
+    if (!saved) throw new Error('Could not save quiz');
+    return { saved, count, mode, quiz_type };
+  };
+
+  const handleCreateFlashcardsFromIntent = async (params) => {
+    const topic = params.topic || 'General Law';
+    const count = Math.max(3, Math.min(params.count || 10, 25));
+
+    const res = await fetch(`${API_URL}/api/flashcards/generate`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ topic, count, source_text: '' }),
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || 'Generation failed');
+    const cards = (data.cards || []).map((c, i) => ({
+      id: `card-${i}-${Date.now()}`,
+      front: c.front,
+      back: c.back,
+      mastered: false,
+      review_count: 0,
+      last_interval_days: 1,
+      next_review_date: null,
+      last_rated: null,
+    }));
+    const saved = await saveDeck({
+      title: data.title || topic.slice(0, 60),
+      description: data.description || '',
+      topic,
+      cards,
+    });
+    if (!saved) throw new Error('Could not save flashcards');
+    return { saved, count: cards.length };
+  };
+
+  const handleSaveNoteFromIntent = async (params) => {
+    const title = params.title || 'Chat Study Note';
+    const topic = params.content_hint || title;
+
+    const res = await fetch(`${API_URL}/api/notes/generate-from-topic`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ subject: 'Nigerian Law', topic }),
+    });
+    const data = await res.json();
+    if (!res.ok) throw new Error(data.error || 'Generation failed');
+
+    const saved = await saveNote({
+      title: data.title || title,
+      filename: data.filename || `${title}.pdf`,
+      summary: data,
+      tags: ['Chat Action'],
+    });
+    if (!saved) throw new Error('Could not save study note');
+    return { saved };
+  };
+
+  const handleScheduleReviewFromIntent = async (params) => {
+    const subject = params.subject || 'Nigerian Law';
+    const dateStr = params.date || new Date().toISOString().split('T')[0];
+
+    const activePlan = await fetchActivePlan();
+    if (!activePlan) {
+      throw new Error('No active study plan found. Please create a study plan in the Study Planner first.');
+    }
+
+    const planStartMonday = getMonday(new Date(activePlan.created_at));
+    const targetDate = new Date(dateStr);
+    targetDate.setHours(0, 0, 0, 0);
+
+    const diffDays = Math.round((targetDate - planStartMonday) / 86400000);
+    const weekNum = diffDays >= 0 ? Math.floor(diffDays / 7) + 1 : 1;
+    const dayIndex = targetDate.getDay();
+    const daysOfWeek = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+    const dayName = daysOfWeek[dayIndex];
+
+    const planObj = { ...activePlan.plan };
+    if (!planObj.weeks) planObj.weeks = [];
+
+    let targetWeek = planObj.weeks.find(w => w.week === weekNum);
+    if (!targetWeek) {
+      targetWeek = { week: weekNum, days: [] };
+      planObj.weeks.push(targetWeek);
+    }
+
+    let targetDay = targetWeek.days.find(d => d.day === dayName);
+    if (!targetDay) {
+      targetDay = { day: dayName, tasks: [] };
+      targetWeek.days.push(targetDay);
+    }
+
+    const newTask = {
+      activity: 'review',
+      subject,
+      topic: 'Custom Review Session',
+      hours: 1,
+      goal: 'Scheduled via AI Chat',
+    };
+
+    targetDay.tasks.push(newTask);
+
+    const { error } = await supabase
+      .from('study_plans')
+      .update({ plan: planObj })
+      .eq('id', activePlan.id);
+
+    if (error) throw error;
+    return { subject, dateStr, weekNum, dayName };
+  };
+
   const doSend = async (messageText, priorMessages) => {
     if (!messageText || isLoading || isStreaming) return;
 
@@ -136,13 +290,15 @@ const MainChat = ({ messages, setMessages, onMessageSent, profile, activePlan, p
     const userMsg = { id: Date.now(), role: 'user', content: messageText };
     setMessages([...priorMessages, userMsg]);
     setIsLoading(true);
+    setLoadingText('Understanding request...');
     onMessageSent?.();
 
     const controller = new AbortController();
     abortControllerRef.current = controller;
 
-    let aiMsgId = null;
-    try {
+    const runNormalChatStream = async (aiMsgId = null) => {
+      setLoadingText('');
+      let currentAiMsgId = aiMsgId;
       const res = await fetch(`${API_URL}/api/chat`, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
@@ -171,28 +327,28 @@ const MainChat = ({ messages, setMessages, onMessageSent, profile, activePlan, p
         if (done) break;
         accumulated += decoder.decode(value, { stream: true });
 
-        if (aiMsgId === null) {
-          aiMsgId = Date.now() + 1;
+        if (currentAiMsgId === null) {
+          currentAiMsgId = Date.now() + 1;
           setIsLoading(false);
           setIsStreaming(true);
           setMessages(prev => [...prev, {
-            id: aiMsgId, role: 'assistant', content: accumulated, actions: false, followUps: [],
+            id: currentAiMsgId, role: 'assistant', content: accumulated, actions: false, followUps: [],
           }]);
         } else {
           const { clean } = parseFollowUps(accumulated);
           setMessages(prev => prev.map(m =>
-            m.id === aiMsgId ? { ...m, content: clean } : m
+            m.id === currentAiMsgId ? { ...m, content: clean } : m
           ));
         }
       }
 
-      if (aiMsgId !== null) {
+      if (currentAiMsgId !== null) {
         const { clean, followUps } = parseFollowUps(accumulated);
         setMessages(prev => prev.map(m =>
-          m.id === aiMsgId ? { ...m, content: clean, actions: true, followUps } : m
+          m.id === currentAiMsgId ? { ...m, content: clean, actions: true, followUps } : m
         ));
 
-        // Generate title after first exchange, then update after second (captures topic after a greeting)
+        // Generate title after first exchange
         if ((priorMessages.length === 0 || priorMessages.length === 2) && priorMessages.length === messages.length && onTitleGeneratedRef.current) {
           fetch(`${API_URL}/api/chat/title`, {
             method: 'POST',
@@ -207,13 +363,78 @@ const MainChat = ({ messages, setMessages, onMessageSent, profile, activePlan, p
             .catch(() => {});
         }
       }
+    };
+
+    try {
+      // 1. Parallel call to check intent
+      const intentRes = await fetch(`${API_URL}/api/chat/detect-intent`, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ message: messageText, history }),
+        signal: controller.signal,
+      });
+
+      if (intentRes.ok) {
+        const { intent, params } = await intentRes.json();
+
+        if (intent && intent !== 'none') {
+          // Intercept and handle action
+          let successMessage = '';
+          try {
+            if (intent === 'create_quiz') {
+              setLoadingText('Generating your custom quiz...');
+              const result = await handleCreateQuizFromIntent(params);
+              successMessage = `### 📝 Quiz Ready!\nI have successfully generated a **${result.count}-question quiz** on **"${params.topic || 'General Law'}"**.\n\n* **Title:** ${result.saved.title}\n* **Mode:** ${result.mode === 'exam' ? 'Exam (submit all)' : 'Practice (instant feedback)'}\n\n[**Start Quiz Now →**](action:navigate_quizzes)`;
+            } else if (intent === 'create_flashcards') {
+              setLoadingText('Generating flashcards...');
+              const result = await handleCreateFlashcardsFromIntent(params);
+              successMessage = `### 🎴 Flashcards Created!\nI have successfully generated **${result.count} flashcards** on **"${params.topic || 'General Law'}"**.\n\n* **Deck Title:** ${result.saved.title}\n\n[**Open Flashcards Module →**](action:navigate_flashcards)`;
+            } else if (intent === 'save_note') {
+              setLoadingText('Saving study note...');
+              const result = await handleSaveNoteFromIntent(params);
+              successMessage = `### 📓 Study Note Saved!\nI have saved a new study note on **"${params.content_hint || params.title}"**.\n\n* **Title:** ${result.saved.title}\n\n[**Open Study Notes →**](action:navigate_notes)`;
+            } else if (intent === 'schedule_review') {
+              setLoadingText('Scheduling review session...');
+              const result = await handleScheduleReviewFromIntent(params);
+              successMessage = `### 📅 Review Scheduled!\nI have added a study review task to your study calendar.\n\n* **Subject:** ${result.subject}\n* **Scheduled Day:** ${result.dayName} (${result.dateStr})\n\n[**View Study Planner →**](action:navigate_planner)`;
+            }
+
+            // Push success response card
+            setMessages(prev => [...prev, {
+              id: Date.now() + 1,
+              role: 'assistant',
+              content: successMessage,
+              actions: false,
+              followUps: [],
+            }]);
+            setIsLoading(false);
+            setLoadingText('');
+            return;
+          } catch (actionErr) {
+            console.error('Action logic failed, falling back to chat:', actionErr);
+            // If the active plan check failed, display a nice message instead of generic chat
+            if (intent === 'schedule_review' && actionErr.message.includes('No active study plan')) {
+              setMessages(prev => [...prev, {
+                id: Date.now() + 1,
+                role: 'assistant',
+                content: `⚠️ **Could not schedule review**: You do not have an active study plan.\n\nPlease generate a plan in the Study Planner first.\n\n[**Open Study Planner →**](action:navigate_planner)`,
+                actions: false,
+                followUps: [],
+              }]);
+              setIsLoading(false);
+              setLoadingText('');
+              return;
+            }
+          }
+        }
+      }
+
+      // 2. Fall back to normal streaming chat if none intent or execution failed
+      await runNormalChatStream();
+
     } catch (err) {
       if (err.name === 'AbortError') {
-        if (aiMsgId !== null) {
-          setMessages(prev => prev.map(m =>
-            m.id === aiMsgId ? { ...m, actions: true } : m
-          ));
-        }
+        // Handled
       } else {
         setMessages(prev => [...prev, {
           id: Date.now() + 1, role: 'assistant',
@@ -223,6 +444,7 @@ const MainChat = ({ messages, setMessages, onMessageSent, profile, activePlan, p
       }
     } finally {
       setIsLoading(false);
+      setLoadingText('');
       setIsStreaming(false);
       abortControllerRef.current = null;
     }
@@ -559,6 +781,20 @@ const MainChat = ({ messages, setMessages, onMessageSent, profile, activePlan, p
                         h2: ({ children }) => <h2 className="font-semibold text-[15px] mb-2">{children}</h2>,
                         h3: ({ children }) => <h3 className="font-medium text-[14.5px] mb-1.5">{children}</h3>,
                         code: ({ children }) => <code className="bg-bg-tertiary px-1.5 py-0.5 rounded text-[13px] font-mono">{children}</code>,
+                        a: ({ href, children }) => {
+                          if (href && href.startsWith('action:')) {
+                            const mod = href.replace('action:navigate_', '');
+                            return (
+                              <button
+                                onClick={() => onNavigate?.(mod)}
+                                className="inline-flex items-center gap-1 bg-accent-primary/10 hover:bg-accent-primary/20 text-accent-primary font-semibold px-3 py-1.5 rounded-lg border border-accent-primary/20 hover:border-accent-primary/40 transition-all cursor-pointer mt-2 text-[12.5px]"
+                              >
+                                {children}
+                              </button>
+                            );
+                          }
+                          return <a href={href} className="text-accent-primary hover:underline">{children}</a>;
+                        },
                       }}>
                         {msg.content}
                       </ReactMarkdown>
@@ -605,14 +841,19 @@ const MainChat = ({ messages, setMessages, onMessageSent, profile, activePlan, p
           ))}
 
           {isLoading && (
-            <div className="flex gap-3 items-start">
+            <div className="flex gap-3 items-start animate-fade-in">
               <div className="w-8 h-8 rounded-lg bg-accent-primary/10 flex items-center justify-center shrink-0 text-accent-primary mt-0.5">
                 <Bot size={17} />
               </div>
-              <div className="flex items-center gap-1.5 pt-2">
-                {[0, 150, 300].map(delay => (
-                  <span key={delay} className="w-1.5 h-1.5 bg-text-tertiary rounded-full animate-bounce" style={{ animationDelay: `${delay}ms` }} />
-                ))}
+              <div className="flex flex-col gap-1.5 pt-1">
+                {loadingText && (
+                  <p className="text-[12px] text-text-secondary font-medium tracking-wide">{loadingText}</p>
+                )}
+                <div className="flex items-center gap-1.5">
+                  {[0, 150, 300].map(delay => (
+                    <span key={delay} className="w-1.5 h-1.5 bg-text-tertiary rounded-full animate-bounce" style={{ animationDelay: `${delay}ms` }} />
+                  ))}
+                </div>
               </div>
             </div>
           )}

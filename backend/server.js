@@ -112,6 +112,28 @@ app.post('/api/chat/summarize-history', async (req, res) => {
   }
 });
 
+// Intent Detection Route
+// Detect if a chat message intends to trigger a study action (quiz, flashcards, note, review)
+app.post('/api/chat/detect-intent', async (req, res) => {
+  try {
+    const aiResponse = await fetch(`${AI_SERVICE_URL}/api/v1/chat/detect-intent`, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(req.body),
+    });
+    if (!aiResponse.ok) {
+      const err = await aiResponse.json().catch(() => ({}));
+      throw new Error(err.detail || `AI Service responded with ${aiResponse.status}`);
+    }
+    const data = await aiResponse.json();
+    res.json(data);
+  } catch (error) {
+    console.error('Intent detection error:', error);
+    // Always fall back gracefully — never break the chat flow
+    res.json({ intent: 'none', params: {} });
+  }
+});
+
 // Quiz Generation Route
 // Generate quiz questions via the AI service
 app.post('/api/quizzes/generate', async (req, res) => {

@@ -369,6 +369,74 @@ Summary:"""
         raise HTTPException(status_code=500, detail=f"Failed to summarize: {str(e)}")
 
 
+# ─── Intent Detection ──────────────────────────────────────────────────────────
+
+class IntentRequest(BaseModel):
+    message: str
+    history: list[HistoryMessage] = []
+
+INTENT_PROMPT = """You are an intent classifier for a Nigerian law study app called Gavin AI.
+
+Classify the user's message into ONE of these intents:
+- create_quiz       — user wants to generate a quiz or test
+- create_flashcards — user wants to create flashcards or flash cards
+- save_note         — user wants to save a study note or summary
+- schedule_review   — user wants to schedule a review session or study session
+- none              — anything else (questions, greetings, explanations, etc.)
+
+Rules:
+- Only classify as an action intent if the message CLEARLY and EXPLICITLY requests creating/making/generating one of those things.
+- "make me flashcards", "create a quiz", "save a note", "schedule a review" → action intent
+- "explain flashcards", "what is a quiz", "tell me about studying" → none
+- "create 5 flashcards on tort law" → create_flashcards with topic="tort law", count=5
+- "make a 10 question exam quiz on contract law" → create_quiz with topic="contract law", count=10, mode="exam"
+- Ambiguous messages → none
+
+For create_quiz params:
+  topic (string, required), count (integer, default 10), mode ("practice" or "exam", default "practice"),
+  quiz_type ("topic", "subject", or "mixed", default "topic"), duration_minutes (integer, default 0)
+
+For create_flashcards params:
+  topic (string, required), count (integer, default 10)
+
+For save_note params:
+  title (string, required — a short descriptive title), content_hint (string — brief description of what to save)
+
+For schedule_review params:
+  subject (string, required), date (string ISO format e.g. "2026-07-10", or "" if not specified)
+
+Return ONLY valid JSON, no extra text:
+{"intent": "<intent>", "params": {<params or empty object>}}
+
+User message: {message}
+Recent context: {context}"""
+
+@app.post("/api/v1/chat/detect-intent")
+async def detect_intent(request: IntentRequest):
+    if not fast_llm:
+        return {"intent": "none", "params": {}}
+    try:
+        context = ""
+        if request.history:
+            last = request.history[-2:] if len(request.history) >= 2 else request.history
+            context = " | ".join(f"{m.role}: {m.content[:120]}" for m in last)
+
+        prompt_text = INTENT_PROMPT.format(
+            message=request.message[:500],
+            context=context[:300] or "none",
+        )
+        response = fast_llm.invoke([HumanMessage(content=prompt_text)])
+        result = extract_json(response.content)
+        intent = result.get("intent", "none")
+        params = result.get("params", {})
+        if intent not in {"create_quiz", "create_flashcards", "save_note", "schedule_review"}:
+            intent = "none"
+        return {"intent": intent, "params": params}
+    except Exception as e:
+        print(f"Intent detection error: {e}")
+        return {"intent": "none", "params": {}}
+
+
 QUIZ_PROMPT = """You are Gavin AI, a Nigerian bar exam preparation assistant.
 Generate exactly {count} questions on: {topic}
 

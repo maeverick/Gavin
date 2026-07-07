@@ -269,7 +269,7 @@ function App() {
           )}
 
           {activeModule === 'chat'
-            ? <MainChat messages={messages} setMessages={setMessages} onMessageSent={handleMessageSent} profile={profile} activePlan={activePlan} prefillMessage={prefillMessage} onPrefillConsumed={() => setPrefillMessage('')} conversationSummary={activeSessionSummary} onSummaryUpdate={setActiveSessionSummary} sessionId={activeSessionId} isMobile={isMobile} onOpenSidebar={() => setIsSidebarOpen(true)} onTitleGenerated={(title, sessionId) => {
+            ? <MainChat onNavigate={setActiveModule} messages={messages} setMessages={setMessages} onMessageSent={handleMessageSent} profile={profile} activePlan={activePlan} prefillMessage={prefillMessage} onPrefillConsumed={() => setPrefillMessage('')} conversationSummary={activeSessionSummary} onSummaryUpdate={setActiveSessionSummary} sessionId={activeSessionId} isMobile={isMobile} onOpenSidebar={() => setIsSidebarOpen(true)} onTitleGenerated={(title, sessionId) => {
                 activeSessionTitleRef.current = title;
                 const id = sessionId || activeSessionId;
                 if (id) {
