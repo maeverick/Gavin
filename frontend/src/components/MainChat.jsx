@@ -283,6 +283,79 @@ const MainChat = ({ onNavigate, messages, setMessages, onMessageSent, profile, a
     return { subject, dateStr, weekNum, dayName };
   };
 
+  // ── Keyword-based intent pre-detection (fast, deterministic) ──────────────────
+  const detectIntentFromKeywords = (msg) => {
+    const m = msg.toLowerCase().trim();
+
+    // Helper: extract a topic from common patterns like "on X", "about X", "for X"
+    const extractTopic = (text) => {
+      const patterns = [
+        /(?:on|about|for|regarding|covering|related to)\s+(.+?)(?:\s*[,.\n]|$)/i,
+        /(?:flashcards?|cards?|quiz(?:zes)?|test|questions?|notes?)\s+(?:on|about|for)\s+(.+?)(?:\s*[,.\n]|$)/i,
+      ];
+      for (const p of patterns) {
+        const m2 = text.match(p);
+        if (m2?.[1]) return m2[1].trim().slice(0, 80);
+      }
+      return null;
+    };
+
+    const extractCount = (text) => {
+      const m2 = text.match(/(\d+)\s*(?:flashcards?|cards?|questions?|q's?)/i);
+      return m2 ? parseInt(m2[1]) : null;
+    };
+
+    // ── FLASHCARDS ──
+    const flashcardTriggers = [
+      /\b(?:make|create|generate|give me|build|produce)\b.{0,20}\bflashcards?\b/i,
+      /\bflashcards?\b.{0,20}\b(?:on|about|for|covering)\b/i,
+      /\bflash\s*cards?\b.{0,10}\b(?:make|create|generate|on|about)\b/i,
+    ];
+    if (flashcardTriggers.some(r => r.test(m))) {
+      const topic = extractTopic(m) || 'Nigerian Law';
+      const count = extractCount(m) || 10;
+      return { intent: 'create_flashcards', params: { topic, count } };
+    }
+
+    // ── QUIZ / TEST ──
+    const quizTriggers = [
+      /\b(?:make|create|generate|give me|build|produce)\b.{0,20}\b(?:quiz(?:zes)?|test|exam|questions?|mcq)\b/i,
+      /\b(?:quiz(?:zes)?|test|exam)\b.{0,20}\b(?:on|about|for|covering)\b/i,
+      /\b(?:quiz|test)\s+me\s+on\b/i,
+    ];
+    if (quizTriggers.some(r => r.test(m))) {
+      const topic = extractTopic(m) || 'Nigerian Law';
+      const count = extractCount(m) || 10;
+      const mode = /\bexam\b/i.test(m) ? 'exam' : 'practice';
+      return { intent: 'create_quiz', params: { topic, count, mode, quiz_type: 'topic', duration_minutes: 0 } };
+    }
+
+    // ── SAVE NOTE ──
+    const noteTriggers = [
+      /\b(?:save|create|make|generate)\b.{0,20}\b(?:note|notes|summary|summaries)\b/i,
+      /\b(?:note|notes)\b.{0,20}\b(?:on|about|for|regarding)\b/i,
+    ];
+    if (noteTriggers.some(r => r.test(m))) {
+      const topic = extractTopic(m) || 'Nigerian Law';
+      return { intent: 'save_note', params: { title: topic, content_hint: topic } };
+    }
+
+    // ── SCHEDULE REVIEW ──
+    const reviewTriggers = [
+      /\b(?:schedule|set up|book|add)\b.{0,20}\b(?:review|study session|revision)\b/i,
+      /\b(?:review|study session|revision)\b.{0,30}\b(?:for|on|tomorrow|next week|monday|tuesday|wednesday|thursday|friday|saturday|sunday)\b/i,
+    ];
+    if (reviewTriggers.some(r => r.test(m))) {
+      const subject = extractTopic(m) || 'Nigerian Law';
+      // Try to extract a date if mentioned
+      const dateMatch = m.match(/(\d{4}-\d{2}-\d{2})/);
+      const date = dateMatch ? dateMatch[1] : '';
+      return { intent: 'schedule_review', params: { subject, date } };
+    }
+
+    return null; // No keyword match — let the AI classifier handle it
+  };
+
   const doSend = async (messageText, priorMessages) => {
     if (!messageText || isLoading || isStreaming) return;
 
@@ -366,70 +439,86 @@ const MainChat = ({ onNavigate, messages, setMessages, onMessageSent, profile, a
     };
 
     try {
-      // 1. Parallel call to check intent
-      const intentRes = await fetch(`${API_URL}/api/chat/detect-intent`, {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ message: messageText, history }),
-        signal: controller.signal,
-      });
+      // ── Layer 1: Fast keyword pre-detection (runs instantly, no AI call needed) ──
+      const keywordIntent = detectIntentFromKeywords(messageText);
 
-      if (intentRes.ok) {
-        const { intent, params } = await intentRes.json();
+      // ── Layer 2: AI intent detection (runs in parallel for smarter classification) ──
+      let aiIntentPromise = null;
+      if (!keywordIntent) {
+        aiIntentPromise = fetch(`${API_URL}/api/chat/detect-intent`, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ message: messageText, history }),
+          signal: controller.signal,
+        }).then(r => r.ok ? r.json() : { intent: 'none', params: {} }).catch(() => ({ intent: 'none', params: {} }));
+      }
 
-        if (intent && intent !== 'none') {
-          // Intercept and handle action
-          let successMessage = '';
-          try {
-            if (intent === 'create_quiz') {
-              setLoadingText('Generating your custom quiz...');
-              const result = await handleCreateQuizFromIntent(params);
-              successMessage = `### 📝 Quiz Ready!\nI have successfully generated a **${result.count}-question quiz** on **"${params.topic || 'General Law'}"**.\n\n* **Title:** ${result.saved.title}\n* **Mode:** ${result.mode === 'exam' ? 'Exam (submit all)' : 'Practice (instant feedback)'}\n\n[**Start Quiz Now →**](action:navigate_quizzes)`;
-            } else if (intent === 'create_flashcards') {
-              setLoadingText('Generating flashcards...');
-              const result = await handleCreateFlashcardsFromIntent(params);
-              successMessage = `### 🎴 Flashcards Created!\nI have successfully generated **${result.count} flashcards** on **"${params.topic || 'General Law'}"**.\n\n* **Deck Title:** ${result.saved.title}\n\n[**Open Flashcards Module →**](action:navigate_flashcards)`;
-            } else if (intent === 'save_note') {
-              setLoadingText('Saving study note...');
-              const result = await handleSaveNoteFromIntent(params);
-              successMessage = `### 📓 Study Note Saved!\nI have saved a new study note on **"${params.content_hint || params.title}"**.\n\n* **Title:** ${result.saved.title}\n\n[**Open Study Notes →**](action:navigate_notes)`;
-            } else if (intent === 'schedule_review') {
-              setLoadingText('Scheduling review session...');
-              const result = await handleScheduleReviewFromIntent(params);
-              successMessage = `### 📅 Review Scheduled!\nI have added a study review task to your study calendar.\n\n* **Subject:** ${result.subject}\n* **Scheduled Day:** ${result.dayName} (${result.dateStr})\n\n[**View Study Planner →**](action:navigate_planner)`;
-            }
+      // Resolve intent: keyword wins immediately, otherwise wait for AI
+      let intentData = keywordIntent || (aiIntentPromise ? await aiIntentPromise : null);
+      const { intent, params } = intentData || { intent: 'none', params: {} };
 
-            // Push success response card
+      if (intent && intent !== 'none') {
+        // Intercept and handle action
+        let successMessage = '';
+        let navigateTo = null;
+        try {
+          if (intent === 'create_quiz') {
+            setLoadingText('Generating your custom quiz...');
+            const result = await handleCreateQuizFromIntent(params);
+            successMessage = `### 📝 Quiz Ready!\nI've generated a **${result.count}-question quiz** on **"${params.topic || 'General Law'}"**.\n\n* **Title:** ${result.saved.title}\n* **Mode:** ${result.mode === 'exam' ? 'Exam (submit all)' : 'Practice (instant feedback)'}\n\n[**Start Quiz Now →**](action:navigate_quizzes)`;
+            navigateTo = 'quizzes';
+          } else if (intent === 'create_flashcards') {
+            setLoadingText('Generating flashcards...');
+            const result = await handleCreateFlashcardsFromIntent(params);
+            successMessage = `### 🎴 Flashcards Created!\nI've generated **${result.count} flashcards** on **"${params.topic || 'General Law'}"**.\n\n* **Deck Title:** ${result.saved.title}\n\n[**Open Flashcards →**](action:navigate_flashcards)`;
+            navigateTo = 'flashcards';
+          } else if (intent === 'save_note') {
+            setLoadingText('Saving study note...');
+            const result = await handleSaveNoteFromIntent(params);
+            successMessage = `### 📓 Study Note Saved!\nI've saved a study note on **"${params.content_hint || params.title}"**.\n\n* **Title:** ${result.saved.title}\n\n[**Open Study Center →**](action:navigate_notes)`;
+            navigateTo = 'notes';
+          } else if (intent === 'schedule_review') {
+            setLoadingText('Scheduling review session...');
+            const result = await handleScheduleReviewFromIntent(params);
+            successMessage = `### 📅 Review Scheduled!\nI've added a review session to your study calendar.\n\n* **Subject:** ${result.subject}\n* **Day:** ${result.dayName} (${result.dateStr})\n\n[**View Study Planner →**](action:navigate_planner)`;
+            navigateTo = 'planner';
+          }
+
+          // Push success response
+          setMessages(prev => [...prev, {
+            id: Date.now() + 1,
+            role: 'assistant',
+            content: successMessage,
+            actions: false,
+            followUps: [],
+          }]);
+          setIsLoading(false);
+          setLoadingText('');
+
+          // Auto-navigate to the relevant module after a short delay
+          if (navigateTo) {
+            setTimeout(() => onNavigate?.(navigateTo), 1200);
+          }
+          return;
+        } catch (actionErr) {
+          console.error('Action logic failed, falling back to chat:', actionErr);
+          if (intent === 'schedule_review' && actionErr.message.includes('No active study plan')) {
             setMessages(prev => [...prev, {
               id: Date.now() + 1,
               role: 'assistant',
-              content: successMessage,
+              content: `⚠️ **Could not schedule review**: You don't have an active study plan.\n\nPlease generate a plan in the Study Planner first.\n\n[**Open Study Planner →**](action:navigate_planner)`,
               actions: false,
               followUps: [],
             }]);
             setIsLoading(false);
             setLoadingText('');
             return;
-          } catch (actionErr) {
-            console.error('Action logic failed, falling back to chat:', actionErr);
-            // If the active plan check failed, display a nice message instead of generic chat
-            if (intent === 'schedule_review' && actionErr.message.includes('No active study plan')) {
-              setMessages(prev => [...prev, {
-                id: Date.now() + 1,
-                role: 'assistant',
-                content: `⚠️ **Could not schedule review**: You do not have an active study plan.\n\nPlease generate a plan in the Study Planner first.\n\n[**Open Study Planner →**](action:navigate_planner)`,
-                actions: false,
-                followUps: [],
-              }]);
-              setIsLoading(false);
-              setLoadingText('');
-              return;
-            }
           }
+          // For other action failures, fall through to normal chat
         }
       }
 
-      // 2. Fall back to normal streaming chat if none intent or execution failed
+      // Fall back to normal streaming chat
       await runNormalChatStream();
 
     } catch (err) {
