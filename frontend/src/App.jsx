@@ -72,7 +72,12 @@ function App() {
       if (currentUser) {
         migrateAnonData(currentUser.id).then(() => {
           fetchSessions(currentUser.id).then(setSessions);
-          fetchProfile(currentUser.id).then(setProfile);
+          fetchProfile(currentUser.id).then(data => {
+            setProfile(data);
+            if (!data) {
+              setActiveModule('profile');
+            }
+          });
           fetchActivePlan().then(setActivePlan);
         });
       }
@@ -83,7 +88,12 @@ function App() {
       if (newUser) {
         await migrateAnonData(newUser.id);
         fetchSessions(newUser.id).then(setSessions);
-        fetchProfile(newUser.id).then(setProfile);
+        fetchProfile(newUser.id).then(data => {
+          setProfile(data);
+          if (!data) {
+            setActiveModule('profile');
+          }
+        });
         fetchActivePlan().then(setActivePlan);
         setShowAuthGate(false);
       } else {
