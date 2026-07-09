@@ -142,7 +142,8 @@ const MainChat = ({ onNavigate, messages, setMessages, onMessageSent, profile, a
     URL.revokeObjectURL(url);
   };
 
-  const handleCreateQuizFromIntent = async (params) => {
+  const handleCreateQuizFromIntent = async (rawParams) => {
+    const params = rawParams || {};
     const topic = params.topic || 'General Law';
     const count = Math.max(1, Math.min(params.count || 10, 30));
     const mode = params.mode || 'practice';
@@ -177,7 +178,8 @@ const MainChat = ({ onNavigate, messages, setMessages, onMessageSent, profile, a
     return { saved, count, mode, quiz_type };
   };
 
-  const handleCreateFlashcardsFromIntent = async (params) => {
+  const handleCreateFlashcardsFromIntent = async (rawParams) => {
+    const params = rawParams || {};
     const topic = params.topic || 'General Law';
     const count = Math.max(3, Math.min(params.count || 10, 25));
 
@@ -208,7 +210,8 @@ const MainChat = ({ onNavigate, messages, setMessages, onMessageSent, profile, a
     return { saved, count: cards.length };
   };
 
-  const handleSaveNoteFromIntent = async (params) => {
+  const handleSaveNoteFromIntent = async (rawParams) => {
+    const params = rawParams || {};
     const title = params.title || 'Chat Study Note';
     const topic = params.content_hint || title;
 
@@ -230,7 +233,8 @@ const MainChat = ({ onNavigate, messages, setMessages, onMessageSent, profile, a
     return { saved };
   };
 
-  const handleScheduleReviewFromIntent = async (params) => {
+  const handleScheduleReviewFromIntent = async (rawParams) => {
+    const params = rawParams || {};
     const subject = params.subject || 'Nigerian Law';
     const dateStr = params.date || new Date().toISOString().split('T')[0];
 
@@ -501,20 +505,24 @@ const MainChat = ({ onNavigate, messages, setMessages, onMessageSent, profile, a
           }
           return;
         } catch (actionErr) {
-          console.error('Action logic failed, falling back to chat:', actionErr);
-          if (intent === 'schedule_review' && actionErr.message.includes('No active study plan')) {
-            setMessages(prev => [...prev, {
-              id: Date.now() + 1,
-              role: 'assistant',
-              content: `⚠️ **Could not schedule review**: You don't have an active study plan.\n\nPlease generate a plan in the Study Planner first.\n\n[**Open Study Planner →**](action:navigate_planner)`,
-              actions: false,
-              followUps: [],
-            }]);
-            setIsLoading(false);
-            setLoadingText('');
-            return;
+          console.error('Action execution failed:', actionErr);
+          let friendlyMsg = 'An unexpected error occurred while processing this action.';
+          if (actionErr.message.includes('fetch') || actionErr.message.includes('Failed to fetch') || actionErr.message.includes('NetworkError')) {
+            friendlyMsg = 'Could not reach the AI generation service. Please make sure the AI service is running and try again.';
+          } else {
+            friendlyMsg = actionErr.message;
           }
-          // For other action failures, fall through to normal chat
+
+          setMessages(prev => [...prev, {
+            id: Date.now() + 1,
+            role: 'assistant',
+            content: `⚠️ **Action Failed**\nI detected that you wanted to generate a helper resource, but the action could not be completed:\n\n* **Error:** ${friendlyMsg}\n\nPlease try again, or rephrase your request.`,
+            actions: false,
+            followUps: [],
+          }]);
+          setIsLoading(false);
+          setLoadingText('');
+          return;
         }
       }
 
